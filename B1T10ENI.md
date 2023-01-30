@@ -22,6 +22,8 @@ k) Principio de transparencia y publicidad del procedimiento
 
 ## Documento electrónico. Norma Técnica de Interoperabilidad de Documento electrónico
 
+[[PAe. Normas Técnicas de Interoperabilidad]](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html)
+
 Establece los componentes del documento electrónico, incluyendo contenido, firma electrónica y metadatos mínimos obligatorios, y su formato, así como las condiciones para su intercambio y reproducción.
 
 Un documento administrativo electrónico es el objeto digital administrativo que contiene la información objeto (datos y firma) y los datos asociados a ésta (metadatos.
