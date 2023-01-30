@@ -75,6 +75,7 @@
 | Características y funciones.                                                                                         |
 | Arquitectura de ordenadores.                                                                                         |
 | Componentes internos de los equipos microinformáticos.                                                               |
+| [[Unidades]](B2T1_unidades.md)                                                               |
 |                                                                                                                      |
 | **2\. Periféricos: conectividad y administración.**                                                                      |
 | Elementos de impresión.                                                                                              |
