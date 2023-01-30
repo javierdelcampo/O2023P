@@ -20,10 +20,11 @@ i) Principio de neutralidad tecnológica y de adaptabilidad al progreso
 j) Principio de simplificación administrativa
 k) Principio de transparencia y publicidad del procedimiento
 
-## Norma Técnica
-**Documento electrónico. Norma Técnica de Interoperabilidad de Documento electrónico**
+## Norma Técnica (requeteresumen)
 
-[[PAe. Normas Técnicas de Interoperabilidad]](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html)
+[[Completo: PAe. Normas Técnicas de Interoperabilidad]](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html)
+
+### Documento electrónico. Norma Técnica de Interoperabilidad de Documento electrónico
 
 Establece los componentes del documento electrónico, incluyendo contenido, firma electrónica y metadatos mínimos obligatorios, y su formato, así como las condiciones para su intercambio y reproducción.
 
@@ -54,7 +55,7 @@ Tipos de firma:
 
 Un documento puede estar compuesto por varios ficheros, pero forman una única unidad digital
 
-## Expediente electrónico
+### Expediente electrónico
 
 "Conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla", estableciendo además que "los expedientes tendrán formato electrónico".
 
@@ -73,7 +74,7 @@ Ciclo de vida / fases:
 - Tramitación
 - Conservación y selección
 
-## Estándares de firma
+### Estándares de firma
 
 - CADES - CMS
   - Detached. Contenido firmado y firma constituyen ficheros independientes
