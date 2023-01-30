@@ -2,7 +2,7 @@
 
 https://www.boe.es/eli/es/l/2013/12/09/19/con
 
-[Saltar a lo importante](https://github.com/javierdelcampo/opotai/blob/main/B1T4_ley192013transparencia.md#lo-importante)
+[Saltar a lo importante](#lo-importante)
 
 Tripe alcance:
 - Incrementa y refuerza la transparencia en la actividad pública, que se articula a través de obligaciones de publicidad activa para todas las Administraciones y entidades públicas.
