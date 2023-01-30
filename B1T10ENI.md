@@ -20,7 +20,8 @@ i) Principio de neutralidad tecnológica y de adaptabilidad al progreso
 j) Principio de simplificación administrativa
 k) Principio de transparencia y publicidad del procedimiento
 
-## Documento electrónico. Norma Técnica de Interoperabilidad de Documento electrónico
+## Norma Técnica
+**Documento electrónico. Norma Técnica de Interoperabilidad de Documento electrónico**
 
 [[PAe. Normas Técnicas de Interoperabilidad]](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html)
 
