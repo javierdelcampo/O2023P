@@ -670,6 +670,8 @@ Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía
 Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
 2. Para la denuncia de los tratados y convenios internacionales se utilizará el mismo procedimiento previsto para su aprobación en el artículo [94](#artículo-94).
 
+[👑](https://www.youtube.com/watch?v=Pymxn-VUE3o)
+
 ## TÍTULO IV. Del Gobierno y de la Administración
 
 ##### Artículo 97
