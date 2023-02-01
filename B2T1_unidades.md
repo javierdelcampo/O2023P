@@ -42,4 +42,4 @@
 | [Zetta](https://es.wikipedia.org/wiki/Zetta "Zetta")                  | Z              | 2<sup>70</sup> = 1 180 591 620 717 411 303 424     | 10<sup>21</sup> = 1 000 000 000 000 000 000 000     | trillardo     | 18,05 %    | 16<sup>17,5</sup>                      |
 | [Yotta](https://es.wikipedia.org/wiki/Yotta "Yotta")                  | Y              | 2<sup>80</sup> = 1 208 925 819 614 629 174 706 176 | 10<sup>24</sup> = 1 000 000 000 000 000 000 000 000 | cuatrillón    | 20,89 %    | 16<sup>20</sup>                        |
 
-[🌴🌴🌴🌴](https://www.youtube.com/watch?v=zPsQ8U9yGSw)
+[🌴🌴🌴🌴](https://www.youtube.com/watch?v=zPsQ8U9yGSw&t=2s)
