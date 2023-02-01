@@ -676,6 +676,8 @@ Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía
 Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
 2. Para la denuncia de los tratados y convenios internacionales se utilizará el mismo procedimiento previsto para su aprobación en el artículo [94](#artículo-94).
 
+[🍸🍺🍷](https://www.youtube.com/watch?v=ma8kHNANwRc)
+
 ## TÍTULO IV. Del Gobierno y de la Administración
 
 ##### Artículo 97
@@ -728,11 +730,9 @@ Los demás miembros del Gobierno serán nombrados y separados por el Rey, a prop
 ##### Artículo 105
 
 La ley regulará:
-
-[loweralpha]
-. La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.
-. El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.
-. El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.
+- a. La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.
+- b. El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.
+- c. El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.
 
 ##### Artículo 106
 
@@ -743,6 +743,8 @@ La ley regulará:
 
 El Consejo de Estado es el supremo órgano consultivo del Gobierno.
 Una ley orgánica regulará su composición y competencia.
+
+[🐬🐬🐬🐬🐬🐬](https://youtu.be/bsYp9q3QNaQ?t=102)
 
 ## TÍTULO V. De las relaciones entre el Gobierno y las Cortes Generales
 
