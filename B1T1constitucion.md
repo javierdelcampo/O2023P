@@ -568,6 +568,8 @@ El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cám
 
 Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.
 
+[🦹🏼😈🦹🏼😈🦹🏼😈](https://www.youtube.com/watch?v=ih1XaIi9BBM)
+
 ### CAPÍTULO SEGUNDO. De la elaboración de las leyes
 
 ##### Artículo 81
@@ -1181,6 +1183,8 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 1. En los Presupuestos Generales del Estado podrá establecerse una asignación a las Comunidades Autónomas en función del volumen de los servicios y actividades estatales que hayan asumido y de la garantía de un nivel mínimo en la prestación de los servicios públicos fundamentales en todo el territorio español.
 2. Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.
 
+[💥💥💥💥💥💥🪅🔨](https://www.youtube.com/watch?v=YIQR_3TPtJw)
+
 ## TÍTULO IX. Del Tribunal Constitucional
 
 ##### Artículo 159
@@ -1229,6 +1233,8 @@ Las que declaren la inconstitucionalidad de una ley o de una norma con fuerza de
 ##### Artículo 165
 
 Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.
+
+[💙💙💙💙💙](https://youtu.be/8vBKI3ya-l0?t=159)
 
 ## TÍTULO X. De la reforma constitucional
 
