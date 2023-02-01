@@ -447,6 +447,8 @@ La propuesta y el nombramiento del Presidente del Gobierno, y la disolución pre
 1. El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma.
 2. El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.
 
+[👑](https://www.youtube.com/watch?v=Pymxn-VUE3o)
+
 ## TÍTULO III. De las Cortes Generales
 
 ### CAPÍTULO PRIMERO. De las Cámaras
@@ -669,8 +671,6 @@ Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía
 1. Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno.
 Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
 2. Para la denuncia de los tratados y convenios internacionales se utilizará el mismo procedimiento previsto para su aprobación en el artículo [94](#artículo-94).
-
-[👑](https://www.youtube.com/watch?v=Pymxn-VUE3o)
 
 ## TÍTULO IV. Del Gobierno y de la Administración
 
