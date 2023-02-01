@@ -873,6 +873,8 @@ La policía judicial depende de los Jueces, de los Tribunales y del Ministerio F
 La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales.
 2. La ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que deberá asegurar la total independencia de los mismos.
 
+[🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑](https://youtu.be/gxCJToKyc-0?t=6)
+
 ## TÍTULO VII. Economía y Hacienda
 
 ##### Artículo 128
