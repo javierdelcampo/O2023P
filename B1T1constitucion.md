@@ -801,6 +801,8 @@ Su funcionamiento, así como el de los demás poderes constitucionales del Estad
 Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su Diputación Permanente.
 6. La declaración de los estados de alarma, de excepción y de sitio no modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.
 
+[🚬🚬🚬🚬🚬](https://www.youtube.com/watch?v=BonWfTW7jKc)
+
 ## TÍTULO VI. Del Poder Judicial
 
 ##### Artículo 117
@@ -965,6 +967,8 @@ Todas estas entidades gozan de autonomía para la gestión de sus respectivos in
 
 1. Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.
 2. Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.
+
+[🎥🍸🍵💭🆓](https://www.youtube.com/watch?v=TU3-lS_Gryk)
 
 ### CAPÍTULO SEGUNDO. De la Administración Local
 
