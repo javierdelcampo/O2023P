@@ -104,7 +104,7 @@
 [ 🖤🖤🖤🖤🖤 ](https://www.youtube.com/watch?v=huErRAK1ch0)
 
 ### Criterios AAA
-<no mirar>
+Pasando por ahora<no mirar>
  
 # TAW  
 TAW es un conjunto de herramientas para el análisis de la accesibilidad de sitios web.
