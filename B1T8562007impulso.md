@@ -74,3 +74,5 @@ Reglamentariamente se determinarán los proyectos de obras de construcción de n
 Se modifica la Ley de Sociedades de Responsabilidad Limitada con un doble objetivo:
 - Habilitar una vía rápida para la constitución de sociedades limitadas que permita no sólo reducir los plazos, sino que los tiempos estén claramente delimitados. Mediante este sistema se cumplirían los compromisos adquiridos de creación de empresas en menos de una semana.
 - Establecer un marco general de tramitación más ágil, aplicable al conjunto de sociedades limitadas, mediante la adopción de un grupo de medidas que razonablemente incidirán en una mayor rapidez en la constitución.
+
+[👻](https://youtu.be/l5wkTdVjE1s?t=851)
