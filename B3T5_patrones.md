@@ -18,4 +18,4 @@ El uso del patrón *__'Iterator'__* es muy común ya que manejar colecciones de 
 Una operación muy habitual es recorrer las estructuras para analizar y/o buscar los datos que contienen. Es posible que sea necesario recorrer la estructura de forma secuencial, de dos en dos o, simplemente, de forma aleatoria. Los clientes suelen implementar el método concreto con el que desean recorrer la estructura por lo que puede ser un problema si, por ejemplo, se desea recorrer una misma estructura de datos de varias formas distintas. Conforme aumenta las combinaciones entre los tipos de estructuras y métodos de acceso, el problema se agrava.
   
  
-[🚌🚌🚌🚌🚌](https://www.youtube.com/watch?v=jyXph7y_an4)
+[🚌🚌🚌🚌🚌](https://www.youtube.com/watch?v=jyXph7y_an4&t=33)
