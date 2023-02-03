@@ -134,10 +134,9 @@ Su estructura interna y funcionamiento deberán ser democráticos.
 1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.
 2. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.
 
+### CAPÍTULO PRIMERO. De los españoles y los extranjeros
   
 <details open><summary>Título I. Capítulo I</summary>
-  
-### CAPÍTULO PRIMERO. De los españoles y los extranjeros
 
 ##### Artículo 11
 
@@ -160,10 +159,10 @@ Quedan excluidos de la extradición los delitos políticos, no considerándose c
 
 </details>
   
-<details open><summary>Título I. Capítulo II</summary>
-  
 ### CAPÍTULO SEGUNDO. Derechos y libertades
 
+<details open><summary>Título I. Capítulo II</summary>
+  
 ##### Artículo 14
 
 Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
@@ -336,11 +335,10 @@ Se reconoce la libertad de empresa en el marco de la economía de mercado.
 Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.
   
 </details>
-  
-  
-<details open><summary>Título I. Capítulo III</summary>
 
 ### CAPÍTULO TERCERO. De los principios rectores de la política social y económica
+  
+<details open><summary>Título I. Capítulo III</summary>
 
 ##### Artículo 39
 
@@ -420,10 +418,10 @@ La ley regulará las organizaciones profesionales que contribuyan a la defensa d
 Su estructura interna y funcionamiento deberán ser democráticos.
 
 </details>
-   
-<details open><summary>Título I. Capítulo IV</summary> 
   
 ### CAPÍTULO CUARTO. De las garantías de las libertades y derechos fundamentales
+  
+<details open><summary>Título I. Capítulo IV</summary> 
 
 ##### Artículo 53
 
@@ -440,10 +438,10 @@ Una ley orgánica regulará la institución del Defensor del Pueblo, como alto c
 
 </details>
   
-<details open><summary>Título I. Capítulo V</summary>  
-  
 ### CAPÍTULO QUINTO. De la suspensión de los derechos y libertades
-
+ 
+<details open><summary>Título I. Capítulo V</summary>  
+ 
 ##### Artículo 55
 
 1. Los derechos reconocidos en los artículos [[17]](#artículo-17), [[18]](#artículo-18), apartados 2 y 3, artículos [[19]](#artículo-19), [[20]](#artículo-20), apartados 1, a) y d), y 5, artículos [[21]](#artículo-21), [[28]](#artículo-28), apartado 2, y artículo [[37]](#artículo-37), apartado 2, podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución.
@@ -537,11 +535,11 @@ La propuesta y el nombramiento del Presidente del Gobierno, y la disolución pre
 ## TÍTULO III. De las Cortes Generales
 
 <details open><summary>Título III</summary>  
-  
-<details open><summary>Título III. Capítulo I</summary>
 
 ### CAPÍTULO PRIMERO. De las Cámaras
 
+<details open><summary>Título III. Capítulo I</summary>
+  
 ##### Artículo 66
 
 1. Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.
@@ -738,9 +736,13 @@ El Rey sancionará en el plazo de quince días las leyes aprobadas por las Corte
 1. Las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos.
 2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.
 3. Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución.
+  
+</details>
 
 ### CAPÍTULO TERCERO. De los Tratados Internacionales
 
+<details open><summary>Título III. Capítulo III</summary>   
+  
 ##### Artículo 93
 
 Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución.
