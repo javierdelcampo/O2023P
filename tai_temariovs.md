@@ -139,7 +139,7 @@
 | :arrow_right: 6\. Arquitectura Java EE/Jakarta EE y plataforma.NET: componentes, persistencia y seguridad.                  | 5\. (ant 6) Arquitectura Java EE/Jakarta EE y plataforma.NET: componentes, persistencia y seguridad.          |
 | Características, elementos, lenguajes y funciones en ambos entornos.                                          | Características, elementos, lenguajes y funciones en ambos entornos.                                          |
 |                                                                                                               | :warning: Desarrollo de Interfaces.
-|                                                                                     | [[Patrones]](O2023P/B3T5_patrones.md)<br/>                                                                                    ||
+|                                                                                     | [[Patrones]](B3T5_patrones.md)<br/>                                                                                    ||
 |                                                                                                               |                                                                                                               |
 | :arrow_right: 7\. Arquitectura de sistemas cliente/servidor y multicapas: componentes y operación.                          | 6\. (ant 7) Arquitectura de sistemas cliente/servidor y multicapas: componentes y operación.                  |
 | Arquitecturas de servicios web y protocolos asociados.                                                        | Arquitecturas de servicios web y protocolos asociados.                                                        |
