@@ -26,20 +26,21 @@
 
 [Título VII. Economía y Hacienda. 128-136](#t%C3%ADtulo-vii-econom%C3%ADa-y-hacienda)
 
-[Título VIII. De la Organización Territorial del Estado. 137-158](h#t%C3%ADtulo-viii-de-la-organizaci%C3%B3n-territorial-del-estado)
+[Título VIII. De la Organización Territorial del Estado. 137-158](#t%C3%ADtulo-viii-de-la-organizaci%C3%B3n-territorial-del-estado)
 - [Capítulo primero. Principios generales. 137-139](#cap%C3%ADtulo-primero-principios-generales)
 - [Capítulo segundo. De la Administración Local. 140-142](#cap%C3%ADtulo-segundo-de-la-administraci%C3%B3n-local)
-- [Capítulo tercero. De las Comunidades Autónomas. 143-158]()
+- [Capítulo tercero. De las Comunidades Autónomas. 143-158](#cap%C3%ADtulo-tercero-de-las-comunidades-aut%C3%B3nomas)
 
-Título IX. Del Tribunal Constitucional 	159-165
+**[Título IX. Del Tribunal Constitucional. 159-165](#t%C3%ADtulo-ix-del-tribunal-constitucional)**
 
-Título X. De la reforma constitucional 	166-169
+**[Título X. De la reforma constitucional. 166-169](#t%C3%ADtulo-x-de-la-reforma-constitucional)**
 
-Disposiciones adicionales (1ª a 4ª)
-Disposiciones transitorias (1ª a 9ª)
-Disposiciones derogatoria (única)
-Disposición final (única)
+[Disposiciones adicionales (1ª a 4ª)](#disposiciones-adicionales)
+[Disposiciones transitorias (1ª a 9ª)](#disposiciones-transitorias)
+[Disposiciones derogatoria (única)](#disposicion-derogatoria)
+[Disposición final (única)](#disposicion-final)
 
+---
 
 <details><summary>Inicio</summary>
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN, SABED:
