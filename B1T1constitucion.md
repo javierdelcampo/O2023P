@@ -71,7 +71,7 @@ En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
 
 ## TÍTULO PRELIMINAR
 
-<details open>
+<details open><summary>Título preliminar</summary>
 
 ##### `Artículo 1`
 
@@ -127,11 +127,16 @@ Su estructura interna y funcionamiento deberán ser democráticos.
 
 ## TÍTULO I. De los derechos y deberes fundamentales
 
+<details open><summary>Título I</summary>
+
 ##### Artículo 10
 
 1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.
 2. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.
 
+  
+<details open><summary>Título I. Capítulo I</summary>
+  
 ### CAPÍTULO PRIMERO. De los españoles y los extranjeros
 
 ##### Artículo 11
@@ -153,6 +158,11 @@ Los españoles son mayores de edad a los dieciocho años.
 Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo.
 4. La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.
 
+</details>
+  
+  
+<details open><summary>Título I. Capítulo II</summary>
+  
 ### CAPÍTULO SEGUNDO. Derechos y libertades
 
 ##### Artículo 14
@@ -325,6 +335,11 @@ La ley que regule el ejercicio de este derecho, sin perjuicio de las limitacione
 
 Se reconoce la libertad de empresa en el marco de la economía de mercado.
 Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.
+  
+</details>
+  
+  
+<details open><summary>Título I. Capítulo III</summary>
 
 ### CAPÍTULO TERCERO. De los principios rectores de la política social y económica
 
@@ -405,6 +420,10 @@ Asimismo, y con independencia de las obligaciones familiares, promoverán su bie
 La ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios.
 Su estructura interna y funcionamiento deberán ser democráticos.
 
+</details>
+   
+<details open><summary>Título I. Capítulo IV</summary> 
+  
 ### CAPÍTULO CUARTO. De las garantías de las libertades y derechos fundamentales
 
 ##### Artículo 53
@@ -420,6 +439,10 @@ Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que
 
 Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales.
 
+</details>
+  
+<details open><summary>Título I. Capítulo V</summary>  
+  
 ### CAPÍTULO QUINTO. De la suspensión de los derechos y libertades
 
 ##### Artículo 55
@@ -429,6 +452,8 @@ Se exceptúa de lo establecido anteriormente el apartado 3 del artículo [[17]](
 2. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos [[17]](#artículo-17), apartado 2, y [[18]](#artículo-18), apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas. La utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.
 
 [🔥🔥🔥🔥🔥🔥](https://www.youtube.com/watch?v=MZXlgNMDK3E)
+  
+</details>  
 
 ## TÍTULO II. De la Corona
 
