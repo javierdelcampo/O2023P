@@ -1,5 +1,6 @@
 **[Preámbulo](#preámbulo)**
-[Título preliminar](#t%C3%ADtulo-preliminar)
+
+**[Título preliminar](#t%C3%ADtulo-preliminar)**
 
 Título I. De los derechos y deberes fundamentales 	10-55
 - Capítulo primero. De los españoles y extranjeros 	11-13
