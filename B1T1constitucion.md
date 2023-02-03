@@ -1,9 +1,9 @@
-<details><summary>Preámbulo</summary>
+<details><summary>Inicio</summary>
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN, SABED:
 
 QUE LAS CORTES HAN APROBADO Y EL PUEBLO ESPAÑOL RATIFICADO LA SIGUIENTE CONSTITUCIÓN:
-
-# PREÁMBULO
+</details>
+<details><summary>Preámbulo</summary>
 
 La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:
 
