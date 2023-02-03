@@ -39,9 +39,13 @@
 **[Título X. De la reforma constitucional. 166-169](#t%C3%ADtulo-x-de-la-reforma-constitucional)**
 
 [Disposiciones adicionales (1ª a 4ª)](#disposiciones-adicionales)
+  
 [Disposiciones transitorias (1ª a 9ª)](#disposiciones-transitorias)
+  
 [Disposiciones derogatoria (única)](#disposicion-derogatoria)
+  
 [Disposición final (única)](#disposicion-final)
+  
 </details>
   
 ---
