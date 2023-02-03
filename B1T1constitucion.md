@@ -777,7 +777,7 @@ Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la f
   
 ## TÍTULO IV. Del Gobierno y de la Administración
 
-<details open><summary>Título IV. Capítulo I</summary>  
+<details open><summary>Título IV</summary>  
   
 ##### Artículo 97
 
@@ -849,6 +849,8 @@ Una ley orgánica regulará su composición y competencia.
   
 ## TÍTULO V. De las relaciones entre el Gobierno y las Cortes Generales
 
+<details open><summary>Título V</summary>  
+
 ##### Artículo 108
 
 El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.
@@ -910,7 +912,11 @@ Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situac
 
 [🚬🚬🚬🚬🚬](https://www.youtube.com/watch?v=BonWfTW7jKc)
 
+</details>  
+  
 ## TÍTULO VI. Del Poder Judicial
+
+<details open><summary>Título VI</summary>  
 
 ##### Artículo 117
 
@@ -976,7 +982,11 @@ La ley establecerá el sistema y modalidades de asociación profesional de los J
 
 [🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑](https://youtu.be/gxCJToKyc-0?t=6)
 
+</details>  
+  
 ## TÍTULO VII. Economía y Hacienda
+
+<details open><summary>Título VII</summary>  
 
 ##### Artículo 128
 
@@ -1053,10 +1063,16 @@ El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a la
 
 [Ⓜ️🇨5️](https://www.youtube.com/watch?v=0tx8GiTFK-I)
 
+</details>  
+  
 ## TÍTULO VIII. De la Organización Territorial del Estado
+
+<details open><summary>Título VIII</summary>  
 
 ### CAPÍTULO PRIMERO. Principios generales
 
+<details open><summary>Título VIII. Capítulo I</summary>  
+  
 ##### Artículo 137
 
 El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan.
@@ -1074,8 +1090,12 @@ Todas estas entidades gozan de autonomía para la gestión de sus respectivos in
 
 [🎥🍸🍵💭🆓](https://www.youtube.com/watch?v=TU3-lS_Gryk)
 
+</details>  
+  
 ### CAPÍTULO SEGUNDO. De la Administración Local
 
+<details open><summary>Título VIII. Capítulo II</summary>  
+  
 ##### Artículo 140
 
 La Constitución garantiza la autonomía de los municipios.
@@ -1096,9 +1116,13 @@ Cualquier alteración de los límites provinciales habrá de ser aprobada por la
 ##### Artículo 142
 
 Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.
-
+  
+</details>
+  
 ### CAPÍTULO TERCERO. De las Comunidades Autónomas
-
+  
+<details open><summary>Título VIII. Capítulo III</summary>    
+  
 ##### Artículo 143
 
 1. En el ejercicio del derecho a la autonomía reconocido en el artículo [2](#artículo-2) de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos.
@@ -1109,11 +1133,9 @@ Estos requisitos deberán ser cumplidos en el plazo de seis meses desde el prime
 ##### Artículo 144
 
 Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional:
-
-[loweralpha]
-. Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.
-. Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial.
-. Sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo [143](#artículo-143).
+- a. Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo [143](#artículo-143).
+- b. Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial.
+- c. Sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo [143](#artículo-143).
 
 ##### Artículo 145
 
@@ -1129,10 +1151,10 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
 
 1. Dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico.
 2. Los Estatutos de autonomía deberán contener:
-.. La denominación de la Comunidad que mejor corresponda a su identidad histórica.
-.. La delimitación de su territorio.
-.. La denominación, organización y sede de las instituciones autónomas propias.
-.. Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.
+   - a. La denominación de la Comunidad que mejor corresponda a su identidad histórica.
+   - b. La delimitación de su territorio.
+   - c. La denominación, organización y sede de las instituciones autónomas propias.
+   - d. Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.
 3. La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.
 
 ##### Artículo 148
@@ -1181,9 +1203,7 @@ En todo caso, las reglas relativas a la aplicación y eficacia de las normas jur
    - 13. Bases y coordinación de la planificación general de la actividad económica.
    - 14. Hacienda general y Deuda del Estado.
    - 15. Fomento y coordinación general de la investigación científica y técnica.
-   - 16. Sanidad exterior.
-         Bases y coordinación general de la sanidad.
-         Legislación sobre productos farmacéuticos.
+   - 16. Sanidad exterior. Bases y coordinación general de la sanidad. Legislación sobre productos farmacéuticos.
    - 17. Legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.
    - 18. Las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; legislación sobre expropiación forzosa; legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones públicas.
    - 19. Pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas.
@@ -1275,7 +1295,13 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 
 [💥💥💥💥💥💥🪅🔨](https://www.youtube.com/watch?v=YIQR_3TPtJw)
 
+</details>  
+
+</details>
+  
 ## TÍTULO IX. Del Tribunal Constitucional
+
+<details open><summary>Título IX</summary>
 
 ##### Artículo 159
 
@@ -1323,7 +1349,11 @@ Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el es
 
 [💙💙💙💙💙](https://youtu.be/8vBKI3ya-l0?t=159)
 
+</details>  
+  
 ## TÍTULO X. De la reforma constitucional
+
+<details open><summary>Título X</summary>
 
 ##### Artículo 166
 
@@ -1346,7 +1376,11 @@ Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación
 
 No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo [116](#artículo-116).
 
+</details>  
+  
 ## DISPOSICIONES ADICIONALES
+
+<details open><summary>Disposiciones adicionales</summary>
 
 ##### Primera.
 
@@ -1365,6 +1399,10 @@ La modificación del régimen económico y fiscal del archipiélago canario requ
 ##### Cuarta.
 
 En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territorial, los Estatutos de Autonomía respectivos podrán mantener las existentes, distribuyendo las competencias entre ellas, siempre de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste.
+
+</details>  
+
+<details open><summary>Disposiciones transitorias</summary>
 
 ## DISPOSICIONES TRANSITORIAS
 
@@ -1418,14 +1456,22 @@ A estos solos efectos se entenderán agrupados como miembros de la misma procede
 Del mismo modo se procederá transcurridos otros tres años entre los dos grupos no afectados por el sorteo anterior.
 A partir de entonces se estará a lo establecido en el número 3 del artículo 159.
 
+</details>
+  
 ## DISPOSICION DEROGATORIA
+
+<details open><summary>Disposición derogatoria</summary>
 
 1. Queda derogada la Ley 1/1977, de 4 de enero, para la Reforma Política, así como, en tanto en cuanto no estuvieran ya derogadas por la anteriormente mencionada Ley, la de Principios del Movimiento Nacional, de 17 de mayo de 1958; el Fuero de los Españoles, de 17 de julio de 1945; el del Trabajo, de 9 de marzo de 1938; la Ley Constitutiva de las Cortes, de 17 de julio de 1942; la Ley de Sucesión en la Jefatura del Estado, de 26 de julio de 1947, todas ellas modificadas por la Ley Orgánica del Estado, de 10 de enero de 1967, y en los mismos términos esta última y la de Referéndum Nacional de 22 de octubre de 1945.
 2. En tanto en cuanto pudiera conservar alguna vigencia, se considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de Álava, Guipúzcoa y Vizcaya.
 En los mismos términos se considera definitivamente derogada la Ley de 21 de julio de 1876.
 3. Asimismo quedan derogadas cuantas disposiciones se opongan a lo establecido en esta Constitución.
 
+</details>  
+  
 ## DISPOSICION FINAL
+
+<details open><summary>Disposición final</summary>
 
 Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado.
 Se publicará también en las demás lenguas de España.
@@ -1450,6 +1496,6 @@ EL PRESIDENTE DEL SENADO
 
 Antonio Fontán Pérez
 
-
+</details>  
 
 [👄🗽🪆](https://www.youtube.com/watch?v=J-OfxUcCBNI&t=62s)
