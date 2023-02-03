@@ -1,3 +1,45 @@
+**[Preámbulo](#preámbulo)**
+[Título preliminar](#t%C3%ADtulo-preliminar)
+
+Título I. De los derechos y deberes fundamentales 	10-55
+- Capítulo primero. De los españoles y extranjeros 	11-13
+- Capítulo segundo. Derechos y libertades 	14
+  - Sección 1ª. De los derechos fundamentales y de las libertades públicas 	15-29
+  - Sección 2ª. De los derechos y deberes de los ciudadanos 	30-38
+- Capítulo tercero. De los principios rectores de la política social y económica 	39-52
+- Capítulo cuarto. De las garantías de las libertades y derechos fundamentales 	53-54
+- Capítulo quinto. De la suspensión de los derechos y libertades 	55
+
+Título II. De la Corona 	56-65
+
+Título III. De las Cortes Generales 	66-96
+Capítulo primero. De las Cámaras 	66-80
+Capítulo segundo. De la elaboración de las leyes 	81-92
+Capítulo tercero. De los Tratados Internacionales 	93-96
+
+Título IV. Del Gobierno y de la Administración 	97-107
+
+Título V. De las relaciones entre el Gobierno y las Cortes Generales 	108-116
+
+Título VI. Del Poder Judicial 	117-127
+
+Título VII. Economía y Hacienda 	128-136
+
+Título VIII. De la Organización Territorial del Estado 	137-158
+Capítulo primero. Principios generales 	137-139
+Capítulo segundo. De la Administración Local 	140-142
+Capítulo tercero. De las Comunidades Autónomas 	143-158
+
+Título IX. Del Tribunal Constitucional 	159-165
+
+Título X. De la reforma constitucional 	166-169
+
+Disposiciones adicionales (1ª a 4ª)
+Disposiciones transitorias (1ª a 9ª)
+Disposiciones derogatoria (única)
+Disposición final (única)
+
+
 <details><summary>Inicio</summary>
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN, SABED:
 
