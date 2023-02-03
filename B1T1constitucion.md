@@ -2,7 +2,7 @@
 
 **[Título preliminar. 1-9](#t%C3%ADtulo-preliminar)**
 
-[Título I. De los derechos y deberes fundamentales. 10-55](#t%C3%ADtulo-i-de-los-derechos-y-deberes-fundamentales)
+**[Título I. De los derechos y deberes fundamentales. 10-55](#t%C3%ADtulo-i-de-los-derechos-y-deberes-fundamentales)**
 - [Capítulo primero. De los españoles y extranjeros. 11-13](#cap%C3%ADtulo-primero-de-los-espa%C3%B1oles-y-los-extranjeros)
 - [Capítulo segundo. Derechos y libertades. 14](#cap%C3%ADtulo-segundo-derechos-y-libertades)
   - [Sección 1ª. De los derechos fundamentales y de las libertades públicas. 15-29](#art%C3%ADculo-15)
@@ -11,25 +11,25 @@
 - [Capítulo cuarto. De las garantías de las libertades y derechos fundamentales. 53-54](#cap%C3%ADtulo-cuarto-de-las-garant%C3%ADas-de-las-libertades-y-derechos-fundamentales)
 - [Capítulo quinto. De la suspensión de los derechos y libertades. 55](#cap%C3%ADtulo-quinto-de-la-suspensi%C3%B3n-de-los-derechos-y-libertades)
 
-[Título II. De la Corona. 56-65](#t%C3%ADtulo-ii-de-la-corona)
+**[Título II. De la Corona. 56-65](#t%C3%ADtulo-ii-de-la-corona)**
 
-Título III. De las Cortes Generales 	66-96
-Capítulo primero. De las Cámaras 	66-80
-Capítulo segundo. De la elaboración de las leyes 	81-92
-Capítulo tercero. De los Tratados Internacionales 	93-96
+**[Título III. De las Cortes Generales. 66-96](#t%C3%ADtulo-iii-de-las-cortes-generales)**
+- [Capítulo primero. De las Cámaras. 66-80](#cap%C3%ADtulo-primero-de-las-c%C3%A1maras)
+- [Capítulo segundo. De la elaboración de las leyes. 81-92](#cap%C3%ADtulo-segundo-de-la-elaboraci%C3%B3n-de-las-leyes)
+- [Capítulo tercero. De los Tratados Internacionales. 93-96](#cap%C3%ADtulo-tercero-de-los-tratados-internacionales)
 
-Título IV. Del Gobierno y de la Administración 	97-107
+[Título IV. Del Gobierno y de la Administración. 97-107](#t%C3%ADtulo-iv-del-gobierno-y-de-la-administraci%C3%B3n)
 
-Título V. De las relaciones entre el Gobierno y las Cortes Generales 	108-116
+[Título V. De las relaciones entre el Gobierno y las Cortes Generales. 108-116](#t%C3%ADtulo-v-de-las-relaciones-entre-el-gobierno-y-las-cortes-generales)
 
-Título VI. Del Poder Judicial 	117-127
+[Título VI. Del Poder Judicial. 117-127](#t%C3%ADtulo-vi-del-poder-judicial)
 
-Título VII. Economía y Hacienda 	128-136
+[Título VII. Economía y Hacienda. 128-136](#t%C3%ADtulo-vii-econom%C3%ADa-y-hacienda)
 
-Título VIII. De la Organización Territorial del Estado 	137-158
-Capítulo primero. Principios generales 	137-139
-Capítulo segundo. De la Administración Local 	140-142
-Capítulo tercero. De las Comunidades Autónomas 	143-158
+[Título VIII. De la Organización Territorial del Estado. 137-158](h#t%C3%ADtulo-viii-de-la-organizaci%C3%B3n-territorial-del-estado)
+- [Capítulo primero. Principios generales. 137-139](#cap%C3%ADtulo-primero-principios-generales)
+- [Capítulo segundo. De la Administración Local. 140-142](#cap%C3%ADtulo-segundo-de-la-administraci%C3%B3n-local)
+- [Capítulo tercero. De las Comunidades Autónomas. 143-158]()
 
 Título IX. Del Tribunal Constitucional 	159-165
 
@@ -1082,30 +1082,28 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
 ##### Artículo 148
 
 1. Las Comunidades Autónomas podrán asumir competencias en las siguientes materias:
-[arabic]
-.. ª Organización de sus instituciones de autogobierno.
-.. ª Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.
-.. ª Ordenación del territorio, urbanismo y vivienda.
-.. ª Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.
-.. ª Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
-.. ª Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
-.. ª La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
-.. ª Los montes y aprovechamientos forestales.
-.. ª La gestión en materia de protección del medio ambiente.
-.. ª Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.
-.. ª La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.
-.. ª Ferias interiores.
-.. ª El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
-.. ª La artesanía.
-.. ª Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.
-.. ª Patrimonio monumental de interés de la Comunidad Autónoma.
-.. ª El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.
-.. ª Promoción y ordenación del turismo en su ámbito territorial.
-.. ª Promoción del deporte y de la adecuada utilización del ocio.
-.. ª Asistencia social.
-.. ª Sanidad e higiene.
-.. ª La vigilancia y protección de sus edificios e instalaciones.
-La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
+   - 1. Organización de sus instituciones de autogobierno.
+   - 2. Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.
+   - 3. Ordenación del territorio, urbanismo y vivienda.
+   - 4. Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.
+   - 5. Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
+   - 6. Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
+   - 7. La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
+   - 8. Los montes y aprovechamientos forestales.
+   - 9. La gestión en materia de protección del medio ambiente.
+   - 10. Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.
+   - 11. La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.
+   - 12. Ferias interiores.
+   - 13. El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
+   - 14. La artesanía.
+   - 15. Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.
+   - 16. Patrimonio monumental de interés de la Comunidad Autónoma.
+   - 17. El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.
+   - 18. Promoción y ordenación del turismo en su ámbito territorial.
+   - 19. Promoción del deporte y de la adecuada utilización del ocio.
+   - 20. Asistencia social.
+   - 21. Sanidad e higiene.
+   - 22. La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
 2. Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo [149](#artículo-149).
 
 ##### Artículo 149
@@ -1165,39 +1163,29 @@ Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la ap
 
 1. No será preciso dejar transcurrir el plazo de cinco años, a que se refiere el apartado 2 del artículo [148](#artículo-148), cuando la iniciativa del proceso autonómico sea acordada dentro del plazo del artículo [143.2](#artículo-143), además de por las Diputaciones o los órganos interinsulares correspondientes, por las tres cuartas partes de los municipios de cada una de las provincias afectadas que representen, al menos, la mayoría del censo electoral de cada una de ellas y dicha iniciativa sea ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia en los términos que establezca una ley orgánica.
 2. En el supuesto previsto en el apartado anterior, el procedimiento para la elaboración del Estatuto será el siguiente:
-[arabic]
-.. º El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
-.. º Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
-.. º Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
-.. º Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales.
+   - 1. El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
+   - 2. Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
+   - 3. Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
+   - 4. Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales.
 Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación.
 Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
-.. º De no alcanzarse el acuerdo a que se refiere el apartado 2 de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales.
-El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
-En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
+   - 5. De no alcanzarse el acuerdo a que se refiere el apartado 2 de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales. El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto. En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
 3. En los casos de los párrafos 4.º y 5.º del apartado anterior, la no aprobación del proyecto de Estatuto por una o varias provincias no impedirá la constitución entre las restantes de la Comunidad Autónoma proyectada, en la forma que establezca la ley orgánica prevista en el apartado 1 de este artículo.
 
 ##### Artículo 152
 
 1. En los Estatutos aprobados por el procedimiento a que se refiere el artículo anterior, la organización institucional autonómica se basará en una Asamblea Legislativa, elegida por sufragio universal, con arreglo a un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente, elegido por la Asamblea, de entre sus miembros, y nombrado por el Rey, al que corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y la ordinaria del Estado en aquélla.
-El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea.
-+
-Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma.
-En los Estatutos de las Comunidades Autónomas podrán establecerse los supuestos y las formas de participación de aquéllas en la organización de las demarcaciones judiciales del territorio.
-Todo ello de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste.
-+
-Sin perjuicio de lo dispuesto en el artículo [123](#artículo-123), las sucesivas instancias procesales, en su caso, se agotarán ante órganos judiciales radicados en el mismo territorio de la Comunidad Autónoma en que esté el órgano competente en primera instancia.
+El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea. Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma. En los Estatutos de las Comunidades Autónomas podrán establecerse los supuestos y las formas de participación de aquéllas en la organización de las demarcaciones judiciales del territorio. Todo ello de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste. Sin perjuicio de lo dispuesto en el artículo [123](#artículo-123), las sucesivas instancias procesales, en su caso, se agotarán ante órganos judiciales radicados en el mismo territorio de la Comunidad Autónoma en que esté el órgano competente en primera instancia.
 2. Una vez sancionados y promulgados los respectivos Estatutos, solamente podrán ser modificados mediante los procedimientos en ellos establecidos y con referéndum entre los electores inscritos en los censos correspondientes.
 3. Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica.
 
 ##### Artículo 153
 
 El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:
-[loweralpha]
-. Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
-. Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo [150](#artículo-150).
-. Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
-. Por el Tribunal de Cuentas, el económico y presupuestario.
+a) Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
+b) Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo [150](#artículo-150).
+c) Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
+d) Por el Tribunal de Cuentas, el económico y presupuestario.
 
 ##### Artículo 154
 
@@ -1216,11 +1204,11 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 ##### Artículo 157
 
 1. Los recursos de las Comunidades Autónomas estarán constituidos por:
-.. Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.
-.. Sus propios impuestos, tasas y contribuciones especiales.
-.. Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.
-.. Rendimientos procedentes de su patrimonio e ingresos de derecho privado.
-.. El producto de las operaciones de crédito.
+- a. Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.
+- b. Sus propios impuestos, tasas y contribuciones especiales.
+- c. Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.
+- d. Rendimientos procedentes de su patrimonio e ingresos de derecho privado.
+- e. El producto de las operaciones de crédito.
 2. Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios.
 3. Mediante ley orgánica podrá regularse el ejercicio de las competencias financieras enumeradas en el precedente apartado 1, las normas para resolver los conflictos que pudieran surgir y las posibles formas de colaboración financiera entre las Comunidades Autónomas y el Estado.
 
