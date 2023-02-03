@@ -39,7 +39,7 @@
 | 1 | 1 | 1 |
 
 
-## Operadores por lenguage
+## Operadores por lenguaje
 
 ### JAVA
 
