@@ -1,3 +1,4 @@
+<details><summary>Preámbulo</summary>
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN, SABED:
 
 QUE LAS CORTES HAN APROBADO Y EL PUEBLO ESPAÑOL RATIFICADO LA SIGUIENTE CONSTITUCIÓN:
@@ -14,6 +15,7 @@ La Nación española, deseando establecer la justicia, la libertad y la segurida
 * Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.
 
 En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
+</details>
 
 # CONSTITUCIÓN
 
