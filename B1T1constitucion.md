@@ -70,7 +70,8 @@ En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
 # CONSTITUCIÓN
 
 ## TÍTULO PRELIMINAR
-<details open><summary>Contenido</summary>
+
+<details open>
 
 ##### `Artículo 1`
 
@@ -121,7 +122,9 @@ Su estructura interna y funcionamiento deberán ser democráticos.
 1. Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.
 2. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
 3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
+  
 </details>
+
 ## TÍTULO I. De los derechos y deberes fundamentales
 
 ##### Artículo 10
@@ -198,11 +201,10 @@ Este derecho no podrá ser limitado por motivos políticos o ideológicos.
 ##### Artículo 20
 
 1. Se reconocen y protegen los derechos:
-.. A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
-.. A la producción y creación literaria, artística, científica y técnica.
-.. A la libertad de cátedra.
-.. A comunicar o recibir libremente información veraz por cualquier medio de difusión.
-La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
+   - a. A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
+   - b. A la producción y creación literaria, artística, científica y técnica.
+   - c. A la libertad de cátedra.
+   - d. A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
 2. El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.
 3. La ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.
 4. Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.
