@@ -71,7 +71,7 @@ En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
 
 ## TÍTULO PRELIMINAR
 
-<details open><summary>Título preliminar</summary>
+<details open>
 
 ##### `Artículo 1`
 
