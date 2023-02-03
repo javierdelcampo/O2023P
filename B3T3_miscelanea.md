@@ -38,3 +38,9 @@
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
+
+
+
+
+[💀💀💀💀💀💀](https://www.youtube.com/watch?v=7j2GQqu18J0)
+[☠️☠️☠️☠️☠️☠️](https://www.youtube.com/watch?v=0oxJmvSpap0)
