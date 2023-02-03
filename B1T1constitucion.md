@@ -1,17 +1,17 @@
 **[Preámbulo](#preámbulo)**
 
-**[Título preliminar](#t%C3%ADtulo-preliminar)**
+**[Título preliminar. 1-9](#t%C3%ADtulo-preliminar)**
 
-Título I. De los derechos y deberes fundamentales 	10-55
-- Capítulo primero. De los españoles y extranjeros 	11-13
-- Capítulo segundo. Derechos y libertades 	14
-  - Sección 1ª. De los derechos fundamentales y de las libertades públicas 	15-29
-  - Sección 2ª. De los derechos y deberes de los ciudadanos 	30-38
-- Capítulo tercero. De los principios rectores de la política social y económica 	39-52
-- Capítulo cuarto. De las garantías de las libertades y derechos fundamentales 	53-54
-- Capítulo quinto. De la suspensión de los derechos y libertades 	55
+[Título I. De los derechos y deberes fundamentales. 10-55](#t%C3%ADtulo-i-de-los-derechos-y-deberes-fundamentales)
+- [Capítulo primero. De los españoles y extranjeros. 11-13](#cap%C3%ADtulo-primero-de-los-espa%C3%B1oles-y-los-extranjeros)
+- [Capítulo segundo. Derechos y libertades. 14](#cap%C3%ADtulo-segundo-derechos-y-libertades)
+  - [Sección 1ª. De los derechos fundamentales y de las libertades públicas. 15-29](#art%C3%ADculo-15)
+  - [Sección 2ª. De los derechos y deberes de los ciudadanos.30-38](#secci%C3%B3n-2%C2%AA-de-los-derechos-y-deberes-de-los-ciudadanos)
+- [Capítulo tercero. De los principios rectores de la política social y económica. 39-52](#cap%C3%ADtulo-tercero-de-los-principios-rectores-de-la-pol%C3%ADtica-social-y-econ%C3%B3mica)
+- [Capítulo cuarto. De las garantías de las libertades y derechos fundamentales. 53-54](#cap%C3%ADtulo-cuarto-de-las-garant%C3%ADas-de-las-libertades-y-derechos-fundamentales)
+- [Capítulo quinto. De la suspensión de los derechos y libertades. 55](#cap%C3%ADtulo-quinto-de-la-suspensi%C3%B3n-de-los-derechos-y-libertades)
 
-Título II. De la Corona 	56-65
+[Título II. De la Corona. 56-65](#t%C3%ADtulo-ii-de-la-corona)
 
 Título III. De las Cortes Generales 	66-96
 Capítulo primero. De las Cámaras 	66-80
