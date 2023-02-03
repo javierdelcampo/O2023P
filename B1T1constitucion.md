@@ -1406,9 +1406,9 @@ En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territo
 
 </details>  
 
-<details open><summary>Disposiciones transitorias</summary>
-
 ## DISPOSICIONES TRANSITORIAS
+
+<details open><summary>Disposiciones transitorias</summary>
 
 ##### Primera.
 
