@@ -160,7 +160,6 @@ Quedan excluidos de la extradición los delitos políticos, no considerándose c
 
 </details>
   
-  
 <details open><summary>Título I. Capítulo II</summary>
   
 ### CAPÍTULO SEGUNDO. Derechos y libertades
@@ -455,7 +454,11 @@ Se exceptúa de lo establecido anteriormente el apartado 3 del artículo [[17]](
   
 </details>  
 
+</details>
+
 ## TÍTULO II. De la Corona
+
+<details open><summary>Título II</summary>  
 
 ##### Artículo 56
 
@@ -529,7 +532,13 @@ La propuesta y el nombramiento del Presidente del Gobierno, y la disolución pre
 1. El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma.
 2. El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.
 
+</details>
+
 ## TÍTULO III. De las Cortes Generales
+
+<details open><summary>Título III</summary>  
+  
+<details open><summary>Título III. Capítulo I</summary>
 
 ### CAPÍTULO PRIMERO. De las Cámaras
 
@@ -649,9 +658,13 @@ El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cám
 Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.
 
 [🦹🏼😈🦹🏼😈🦹🏼😈](https://www.youtube.com/watch?v=ih1XaIi9BBM)
+  
+</details>  
 
 ### CAPÍTULO SEGUNDO. De la elaboración de las leyes
 
+<details open><summary>Título III. Capítulo II</summary>  
+  
 ##### Artículo 81
 
 1. Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.
@@ -756,8 +769,14 @@ Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la f
 
 [🍸🍺🍷](https://www.youtube.com/watch?v=ma8kHNANwRc)
 
+</details>  
+  
+</details>  
+  
 ## TÍTULO IV. Del Gobierno y de la Administración
 
+<details open><summary>Título IV. Capítulo I</summary>  
+  
 ##### Artículo 97
 
 El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado.
@@ -824,6 +843,8 @@ Una ley orgánica regulará su composición y competencia.
 
 [🐬🐬🐬🐬🐬🐬](https://youtu.be/bsYp9q3QNaQ?t=102)
 
+</details>  
+  
 ## TÍTULO V. De las relaciones entre el Gobierno y las Cortes Generales
 
 ##### Artículo 108
