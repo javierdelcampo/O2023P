@@ -659,7 +659,7 @@ El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cám
 
 Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.
 
-[🦹🏼😈🦹🏼😈🦹🏼😈](https://www.youtube.com/watch?v=ih1XaIi9BBM)
+[🦹🏼😈](https://www.youtube.com/watch?v=ih1XaIi9BBM)
   
 </details>  
 
@@ -847,7 +847,7 @@ La ley regulará:
 El Consejo de Estado es el supremo órgano consultivo del Gobierno.
 Una ley orgánica regulará su composición y competencia.
 
-[🐬🐬🐬🐬🐬🐬](https://youtu.be/bsYp9q3QNaQ?t=102)
+[🐬](https://youtu.be/bsYp9q3QNaQ?t=102)
 
 </details>  
   
@@ -914,7 +914,7 @@ Su funcionamiento, así como el de los demás poderes constitucionales del Estad
 Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su Diputación Permanente.
 6. La declaración de los estados de alarma, de excepción y de sitio no modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.
 
-[🚬🚬🚬🚬🚬](https://www.youtube.com/watch?v=BonWfTW7jKc)
+[🍂](https://www.youtube.com/watch?v=cM8GG-DbvfI)
 
 </details>  
   
@@ -984,7 +984,7 @@ La policía judicial depende de los Jueces, de los Tribunales y del Ministerio F
 La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales.
 2. La ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que deberá asegurar la total independencia de los mismos.
 
-[🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑](https://youtu.be/gxCJToKyc-0?t=6)
+[🧑‍🤝‍🧑](https://youtu.be/gxCJToKyc-0?t=6)
 
 </details>  
   
