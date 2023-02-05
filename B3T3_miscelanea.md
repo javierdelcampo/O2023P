@@ -6,6 +6,8 @@
 <tr>
 <th> NAND </th>
 <th> NOR </th>
+<th> XOR </th>
+<th> XNOR </th>
 </tr>
 <tr>
 <td>
@@ -28,9 +30,7 @@
 | 1 | 1 | 0 |
 
   </td>
-  </table>
-  
-### XOR
+  <td>
 
 | A | B | Q |
 | - | - | - |
@@ -39,7 +39,8 @@
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-### XNOR
+</td>
+<td>
 
 | A | B | Q |
 | - | - | - |
@@ -48,7 +49,9 @@
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-
+</td>
+</table>
+  
 ## Operadores por lenguaje
 
 ### JAVA
