@@ -2,8 +2,14 @@
 
 ## Puertas lógicas
 
-### NAND
-
+<table>
+<tr>
+<th> NAND </th>
+<th> NOR </th>
+</tr>
+<tr>
+<td>
+  
 | A | B | Q |
 | - | - | - |
 | 0 | 0 | 1 |
@@ -11,7 +17,8 @@
 | 1 | 0 | 0 |
 | 1 | 1 | 0 |
 
-### NOR
+</td>
+<td>
 
 | A | B | Q |
 | - | - | - |
@@ -20,6 +27,9 @@
 | 1 | 0 | 0 |
 | 1 | 1 | 0 |
 
+  </td>
+  </table>
+  
 ### XOR
 
 | A | B | Q |
@@ -68,7 +78,9 @@ Bitwise (pasar):
 | \>>> | Operador desplazamiento derecha sin signo | 7 >>> 2 = 1<br>\-7 >>> 2 = 1073741822 |
 
 
-## Diferencias reseñables por lenguaje
+## Diferencias (o no) reseñables por lenguaje
+
+### OPeradores de asignación 
 
 | Operador | Ejemplo (Java) | Equivalencia | JAVA     | C        | C#       | Python   | PHP      |
 | -------- | -------------- | ------------ | -------- | -------- | -------- | -------- | -------- |
