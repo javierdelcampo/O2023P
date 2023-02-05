@@ -68,6 +68,20 @@ Bitwise (pasar):
 | \>>> | Operador desplazamiento derecha sin signo | 7 >>> 2 = 1<br>\-7 >>> 2 = 1073741822 |
 
 
+## Diferencias reseñables por lenguaje
 
-[💀💀💀💀💀💀](https://www.youtube.com/watch?v=7j2GQqu18J0)
+| Operador | Ejemplo (Java) | Equivalencia | JAVA     | C        | C#       | Python   | PHP      |
+| -------- | -------------- | ------------ | -------- | -------- | -------- | -------- | -------- |
+| \=       | a = b;         | a = b;       | a = b;   | Idéntico | Idéntico | Idéntico | Idéntico |
+| +=       | a += b;        | a = a + b;   | a += b;  | Idéntico | Idéntico | Idéntico | Idéntico |
+| \-=      | a -= b;        | a = a - b;   | a -= b;  | Idéntico | Idéntico | Idéntico | Idéntico |
+| \*=      | a \*= b;       | a = a \* b;  | a \*= b; | Idéntico | Idéntico | Idéntico | Idéntico |
+| /=       | a /= b;        | a = a / b;   | a /= b;  | Idéntico | Idéntico | Idéntico | Idéntico |
+| %=       | a %= b;        | a = a % b;   | a %= b;  | Idéntico | Idéntico | Idéntico | Idéntico |
+
+
+----
+
+
+[💀💀💀💀💀💀](https://www.youtube.com/watch?v=7j2GQqu18J0)<br/>
 [☠️☠️☠️☠️☠️☠️](https://www.youtube.com/watch?v=0oxJmvSpap0)
