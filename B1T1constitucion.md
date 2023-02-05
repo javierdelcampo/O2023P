@@ -1230,6 +1230,8 @@ La legislación básica sobre montes, aprovechamientos forestales y vías pecuar
 La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas.
 El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas.
 
+[🏴‍☠️](https://youtu.be/HWxBVdknQu4?t=9)  
+  
 ##### Artículo 150
 
 1. Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.
