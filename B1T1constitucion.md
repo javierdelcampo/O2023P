@@ -1125,6 +1125,8 @@ Cualquier alteración de los límites provinciales habrá de ser aprobada por la
 Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.
   
 </details>
+
+[💉](https://www.youtube.com/watch?v=z-GUjA67mdc)  
   
 ### CAPÍTULO TERCERO. De las Comunidades Autónomas
   
