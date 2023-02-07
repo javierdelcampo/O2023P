@@ -1,5 +1,7 @@
 # EIDAS
 
+https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32014R0910&from=es
+
 El Reglamento (UE) Nº 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014, relativo a la identificación electrónica y los servicios de confianza en las transacciones electrónicas en el mercado interior y por el que se deroga la Directiva 1999/93/CE (Reglamento eIDAS), tiene como objetivo reforzar el Mercado Único europeo otorgando un nivel de seguridad adecuado a los medios de identificación electrónica y los servicios de confianza, es una norma de aplicación directa en el ámbito de la Unión Europea que establece:
 a) las condiciones en que los Estados Miembros deberán reconocer los medios de identificación electrónica de las personas físicas y jurídicas pertenecientes a un sistema de identificación electrónica notificado de otro Estado miembro,
 b) las normas para los servicios de confianza, en particular para las transacciones electrónicas, y 
