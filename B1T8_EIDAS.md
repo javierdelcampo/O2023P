@@ -23,6 +23,8 @@ representante autorizado de la persona jurídica. (Considerando 58 del Reglament
 
 ## TODO: firma
 
+## TODO: tipos certificado
+
 ## Nodo EIDAS
 
 El nodo eIDAS español es un proyecto que permite el reconocimiento mutuo de identidades electrónicas en Europa. En concreto facilita la aceptación del DNI electrónico en servicios de Administración Electrónica de otras administraciones europeas así como la identificación de ciudadanos europeos en servicios públicos españoles utilizando un medio de identificación de su país de origen.
