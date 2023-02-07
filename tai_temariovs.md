@@ -124,7 +124,8 @@
 | Procedimientos, funciones y parámetros.                                                                       | Procedimientos, funciones y parámetros.                                                                       |
 | Vectores y registros.                                                                                         | Vectores y registros.                                                                                         |
 | Estructura de un programa.                                                                                    | Estructura de un programa.                                                                                    | 
-|                                                                                     | [[Puertas lógicas]](B3T3_miscelanea.md#puertas-l%C3%B3gicas)<br/>                                                                                    |
+|                                                                                     | [[Puertas lógicas]](B3T3_miscelanea.md#puertas-l%C3%B3gicas)<br/> 
+                                                                                        [[PKCS]](pkcs.md)|
 |                                                                                                               |                                                                                                               |
 | :arrow_right: 4\. Lenguajes de interrogación de bases de datos.                                                             | 3\. (ant 4) Lenguajes de interrogación de bases de datos.                                                     |
 | Estándar ANSI SQL.                                                                                            | Estándar ANSI SQL.                                                                                            |
