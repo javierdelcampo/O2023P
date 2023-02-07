@@ -127,7 +127,7 @@ El prestador deberá ofrecer al destinatario la posibilidad de oponerse al trata
 
 Aplicables al envío de mensajes publicitarios por otros medios de comunicación electrónica individual equivalente, como el servicio de mensajería de la telefonía móvil.
 
-[🎷🎷🎷🎷🎷🎷](https://www.youtube.com/watch?v=-Mu-O_klnUs)
+[🎷](https://www.youtube.com/watch?v=-Mu-O_klnUs)
 
 ## Autorregulación
 
@@ -190,4 +190,4 @@ Las sanciones impuestas por faltas prescribirán:
 - Leves: 1 año
 
 
-[🛢️🛒🛢️🛒🛢️🛒](https://www.youtube.com/watch?v=KOBz8xktaGI&t=6s)
+[🛢️🛒](https://www.youtube.com/watch?v=KOBz8xktaGI&t=6s)
