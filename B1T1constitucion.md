@@ -442,6 +442,7 @@ Una ley orgánica regulará la institución del Defensor del Pueblo, como alto c
 
 </details>
   
+
 ### CAPÍTULO QUINTO. De la suspensión de los derechos y libertades
  
 <details open><summary>Título I. Capítulo V</summary>  
@@ -743,6 +744,8 @@ El Rey sancionará en el plazo de quince días las leyes aprobadas por las Corte
   
 </details>
 
+[🧭](https://www.youtube.com/watch?v=kilKmAUvKos)  
+  
 ### CAPÍTULO TERCERO. De los Tratados Internacionales
 
 <details open><summary>Título III. Capítulo III</summary>   
