@@ -1068,8 +1068,6 @@ El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a la
 3. Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Jueces.
 4. Una ley orgánica regulará la composición, organización y funciones del Tribunal de Cuentas.
 
-[Ⓜ️🇨5️](https://www.youtube.com/watch?v=0tx8GiTFK-I)
-
 </details>  
   
 ## TÍTULO VIII. De la Organización Territorial del Estado
@@ -1125,8 +1123,6 @@ Cualquier alteración de los límites provinciales habrá de ser aprobada por la
 Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.
   
 </details>
-
-[💉](https://www.youtube.com/watch?v=z-GUjA67mdc)  
   
 ### CAPÍTULO TERCERO. De las Comunidades Autónomas
   
