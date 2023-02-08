@@ -107,7 +107,7 @@
 Pasando por ahora<no mirar>
  
 # Herramientas:
-- HERA FFX: extensión para Firefox. Del SIDAR
+- HERA: extensión para Firefox. Del SIDAR (parece abandonada)
 - TAW: suite
 - TENON: servicio. Extensión para el navegador
 - Valet
