@@ -106,6 +106,13 @@
 ### Criterios AAA
 Pasando por ahora<no mirar>
  
+# Herramientas:
+- HERA FFX: extensión para Firefox. Del SIDAR
+- TAW: suite
+- TENON: servicio. Extensión para el navegador
+- Valet
+- WAVE: servicio. Extensión Chrome
+ 
 # TAW  
 TAW es un conjunto de herramientas para el análisis de la accesibilidad de sitios web.
 El objetivo es comprobar el nivel de accesibilidad que cumple un sitio web con el fin de permitir el acceso a todas las personas independientemente de sus características diferenciadoras.
