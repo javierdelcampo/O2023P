@@ -131,13 +131,13 @@ La versión descargable del TAW es una aplicación de escritorio para el anális
 - Unix, Linux, AIX, Solaris, HPUX
 
 ## TAW Observatory
-Hemos desarrollado una herramienta de análisis sobre una plataforma distribuida basada en tecnología de “Grid Computing”, con una capacidad de análisis muy elevada. Está dirigida a la realización de observatorios, en los que el volumen de sitios web y páginas que se revisan puede ser muy alto. Esta herramienta integra el motor de análisis del TAW, además de otros analizadores de calidad web (gramáticas, movilidad, calidad, etc.)
+Herramienta de análisis sobre una plataforma distribuida basada en tecnología de “Grid Computing”, con una capacidad de análisis muy elevada. Está dirigida a la realización de observatorios, en los que el volumen de sitios web y páginas que se revisan puede ser muy alto. Esta herramienta integra el motor de análisis del TAW, además de otros analizadores de calidad web (gramáticas, movilidad, calidad, etc.)
 Basado en esta herramienta, podemos realizar observatorios para conocer el estado de la accesibilidad de un conjunto de portales lo que permite conocer el detalle de cumplimiento de los portales para abordar, por ejemplo, una estrategia de mejora de los sitios web implicados.
 Hemos realizado observatorios de este tipo tanto en España como en Iberoamérica (Chile, México, Uruguay)
 Soporta: WCAG 2.1 UNE-EN 301549 
 
-##MERKUR
-Derivado de la accesibilidad y tomando como base las Buenas prácticas de movilización de contenidos de W3C, las cuales están relacionadas en bastantes aspectos con la accesibilidad, hemos desarrollado MERKUR, herramienta que permite transformar un sitio web no móvil haciéndolo compatible con todo tipo de dispositivos móviles y tablets. La herramienta aprovecha la accesibilidad de sitio web, en su caso, para avanzar más rápidamente en el proceso de movilización
+## MERKUR
+Derivado de la accesibilidad y tomando como base las buenas prácticas de movilización de contenidos de W3C se ha desarrollado esta herramienta, que permite transformar un sitio web no móvil haciéndolo compatible con todo tipo de dispositivos móviles y tablets. La herramienta aprovecha la accesibilidad de sitio web, en su caso, para avanzar más rápidamente en el proceso de movilización
 
 ## Guías e informes técnicos
 ATAG: Authoring Tool Accessibility Guidelines
