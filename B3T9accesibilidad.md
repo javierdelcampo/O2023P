@@ -34,7 +34,7 @@
  - Principio 4: **Robustez**: el contenido deber ser suficientemente robusto para que pueda ser bien interpretado por una gran variedad de agentes de usuario, incluyendo tecnologías de asistencia
    - Pauta 4.1: **Compatible**. Maximizar la compatibilidad con las aplicaciones de usuario actuales y futuras, incluyendo las ayudas técnicas.
  
-  [🎹](https://www.youtube.com/embed/a_426RiwST8?autoplay=1)
+  [🎹](https://www.youtube.com/watch?v=a_426RiwST8)
  
  ### Criterios A
 - Contenido no textual. Perceptible. Alternativas textuales. Desactivar animaciones al usar el teclado. Cualquier contenido "no textual" que sea relevante para comprender la información, debe incluir una descripción de texto alternativo (visible o no) para identificar el contenido (incluido el captcha, por ejemplo).
