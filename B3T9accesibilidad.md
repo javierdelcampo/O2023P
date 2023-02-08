@@ -34,7 +34,7 @@
  - Principio 4: **Robustez**: el contenido deber ser suficientemente robusto para que pueda ser bien interpretado por una gran variedad de agentes de usuario, incluyendo tecnologías de asistencia
    - Pauta 4.1: **Compatible**. Maximizar la compatibilidad con las aplicaciones de usuario actuales y futuras, incluyendo las ayudas técnicas.
  
-  [🎹🎹🎹🎹🎹🎹](https://www.youtube.com/watch?v=a_426RiwST8)
+  [🎹](https://www.youtube.com/watch?v=a_426RiwST8&autoplay=1)
  
  ### Criterios A
 - Contenido no textual. Perceptible. Alternativas textuales. Desactivar animaciones al usar el teclado. Cualquier contenido "no textual" que sea relevante para comprender la información, debe incluir una descripción de texto alternativo (visible o no) para identificar el contenido (incluido el captcha, por ejemplo).
@@ -73,7 +73,7 @@
 - Análisis (código). Robusto. Compatible. Debe proporcionarse un código semánticamente correcto y sin errores significativos
 - Nombre, función, valor. Robusto. Compatible. Toda la tecnología de asistencia hace uso de las propiedades de nombre, función y valor para identificar correctamente los elementos estandarizados de HTML. Cualquier componente personalizado también debe traer estas marcas de manera adecuada
 
-[🫦🫦🫦🫦🫦](https://www.youtube.com/watch?v=P4wheWr5hXw)
+[🫦](https://www.youtube.com/watch?v=P4wheWr5hXw)
 
 ### Criterios AA
 - Subtítulos (en vivo). Cualquier contenido en vivo que contenga una pista de audio (ya sea sólo de audio o video) debe tener subtítulo
@@ -101,7 +101,7 @@
 - Autenticación accesible. ​​**WGAC 2.2**. Las funciones que facilitan la escritura de contraseñas en los campos de inicio de sesión (ejemplo: posibilidad de copiar y pegar) no deben eliminarse sin que exista una justificación coherente para su eliminación
 - Mensajes de estado. ​**WGAC 2.1**. Cualquier tipo de mensaje que sea resultado de una acción o que informe el avance de un proceso y que sea relevante para la persona, debe transmitirse sin un cambio de contexto (foco) en la pantalla
 
-[ 🖤🖤🖤🖤🖤 ](https://www.youtube.com/watch?v=huErRAK1ch0)
+[🖤](https://www.youtube.com/watch?v=huErRAK1ch0)
 
 ### Criterios AAA
 Pasando por ahora<no mirar>
@@ -146,4 +146,4 @@ XAG: XML Accessibility Guidelines
 WAI-ARIA: Accessible Rich Internet Applications
  
 
-[💭💤💭💤💭💤💭💤💭💤](https://www.youtube.com/watch?v=Rn1Fvb_fiSI)
+[💭💤](https://www.youtube.com/watch?v=Rn1Fvb_fiSI)
