@@ -590,13 +590,11 @@ El mandato de los Diputados termina <ins>cuatro años después de su elección o
 ##### Artículo 69
 
 1. El Senado es la Cámara de representación territorial.
-2. En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.
-3. En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife– y uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.
-4. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores.
-5. Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio.
-La designación corresponderá a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos, que asegurarán, en todo caso, la adecuada representación proporcional.
-6. El Senado es elegido por cuatro años.
-El mandato de los Senadores termina cuatro años después de su elección o el día de la disolución de la Cámara.
+  2. En cada <ins>provincia</ins> se elegirán <ins>cuatro</ins> Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.
+3. En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo <ins>tres a cada una de las islas mayores</ins> –Gran Canaria, Mallorca y Tenerife– y <ins>uno</ins> a cada una de las siguientes islas o agrupaciones: <ins>Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma</ins>.
+  4. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas <in>dos</ins> Senadores.
+5. Las Comunidades Autónomas designarán además <ins>un Senador y otro más por cada millón de habitantes</ins> de su respectivo territorio. La designación corresponderá a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos, que asegurarán, en todo caso, la adecuada representación proporcional.
+  6. El Senado es elegido por <ins>cuatro años</ins>. El mandato de los Senadores termina <ins>cuatro años</ins> después de su elección o el día de la disolución de la Cámara.
 
 ##### Artículo 70
 
@@ -619,15 +617,13 @@ No podrán ser inculpados ni procesados sin la previa autorización de la Cámar
 
 ##### Artículo 72
 
-1. Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y, de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales.
-Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta.
-2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas.
-Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
+1. Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y, de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta.
+2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas. Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
 3. Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.
 
 ##### Artículo 73
 
-1. Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio.
+1. Las Cámaras se reunirán anualmente en <ins>dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio</ins>.
 2. Las Cámaras podrán reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.
 Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado y serán clausuradas una vez que éste haya sido agotado.
 
