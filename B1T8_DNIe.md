@@ -17,7 +17,7 @@ La Autoridad de Validación es el componente que tiene como tarea suministrar in
 
 La información sobre los certificados electrónicos revocados (no vigentes) se almacena en las denominadas listas de revocación de certificados (CRL).
 
-Para la validación del DNI electrónico se dispone de dos prestadores de Servicios de Validación:
+Para la validación del DNI electrónico se dispone de <ins>dos prestadores de Servicios de Validación</ins>:
 
 - "AV DNIE ***FNMT***":Certificado de Validación de la Fábrica Nacional de Moneda y Timbre – Real Casa de la Moneda, que prestará sus servicios de validación con carácter universal: ciudadanos, empresas y Administraciones Públicas.
 - "AV DNIE ***MINHAP***":La Autoridad de Validación del MINHAP que presta este servicio al conjunto de las Administraciones Públicas para los diferentes Prestadores de Servicios Electrónicos de Confianza publicados por el Ministerio de Energía, Turismo y Agenda Digital, entre los que se encuentra la Autoridad de Certificación de la Dirección General de la Policía.
