@@ -599,32 +599,31 @@ El mandato de los Diputados termina <ins>cuatro años después de su elección o
 ##### Artículo 70
 
 1. La ley electoral determinará las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores, que comprenderán, en todo caso:
-A los componentes del Tribunal Constitucional.
-   - a. A los altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno.
-   - b. Al Defensor del Pueblo.
-   - c. A los Magistrados, Jueces y Fiscales en activo.
-   - d. A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.
-   - e. A los miembros de las Juntas Electorales.
+   - a. A los componentes del Tribunal Constitucional.
+   - b. A los altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno.
+   - c. Al Defensor del Pueblo.
+   - d. A los Magistrados, Jueces y Fiscales en activo.
+   - e. A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.
+   - f. A los miembros de las Juntas Electorales.
 2. La validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al control judicial, en los términos que establezca la ley electoral.
 
 ##### Artículo 71
 
 1. Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.
-2. Durante el período de su mandato los Diputados y Senadores gozarán asimismo de inmunidad y sólo podrán ser detenidos en caso de flagrante delito.
-No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva.
-3. En las causas contra Diputados y Senadores será competente la Sala de lo Penal del Tribunal Supremo.
+2. Durante el período de su mandato los Diputados y Senadores gozarán asimismo de inmunidad y sólo podrán ser detenidos en caso de flagrante delito. No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva.
+3. En las causas contra Diputados y Senadores será competente la __<ins>Sala de lo Penal del Tribunal Supremo</ins>__.
 4. Los Diputados y Senadores percibirán una asignación que será fijada por las respectivas Cámaras.
 
 ##### Artículo 72
 
-1. Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y, de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta.
-2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas. Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
-3. Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.
+1. Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y, de común acuerdo, regulan el <ins>Estatuto del Personal de las Cortes Generales</ins>. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta (mitad +1).
+2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas. Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta (mitad +1) de cada Cámara.
+3. Los <ins>Presidentes de las Cámaras</ins> ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.
 
 ##### Artículo 73
 
 1. Las Cámaras se reunirán anualmente en <ins>dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio</ins>.
-2. Las Cámaras podrán reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.
+2. Las Cámaras podrán reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta (mitad +1) de los miembros de cualquiera de las Cámaras.
 Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado y serán clausuradas una vez que éste haya sido agotado.
 
 ##### Artículo 74
@@ -634,7 +633,7 @@ Las sesiones extraordinarias deberán convocarse sobre un orden del día determi
 En el primer caso, el procedimiento se iniciará por el Congreso, y en los otros dos, por el Senado.
 En ambos casos, si no hubiera acuerdo entre Senado y Congreso, se intentará obtener por una Comisión Mixta compuesta de igual número de Diputados y Senadores.
 La Comisión presentará un texto que será votado por ambas Cámaras.
-Si no se aprueba en la forma establecida, decidirá el Congreso por mayoría absoluta.
+Si no se aprueba en la forma establecida, decidirá el Congreso por mayoría absoluta (mitad +1).
 
 ##### Artículo 75
 
@@ -671,7 +670,7 @@ El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cám
 
 ##### Artículo 80
 
-Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.
+Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta (mitad +1) o con arreglo al Reglamento.
 
 [🦹🏼😈](https://www.youtube.com/watch?v=ih1XaIi9BBM)
   
@@ -684,7 +683,7 @@ Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contra
 ##### Artículo 81
 
 1. Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.
-2. La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.
+2. La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta (mitad +1) del Congreso, en una votación final sobre el conjunto del proyecto.
 
 ##### Artículo 82
 
@@ -740,19 +739,17 @@ Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá
 ##### Artículo 90
 
 1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste.
-2. El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo.
-El veto deberá ser aprobado por mayoría absoluta.
-El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.
-3. El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.
+2. El Senado en el plazo de <ins>dos meses</ins>, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta (mitad +1). El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta (mitad +1), en caso de veto, el texto inicial, o por mayoría simple (<50% pero con más votos), una vez transcurridos <ins>dos meses</ins> desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple (<50% pero con más votos).
+3. El plazo de <ins>dos meses</ins> de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de <ins>veinte días <strong>naturales</strong></ins> en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.
 
 ##### Artículo 91
 
-El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.
+El Rey sancionará en el plazo de <ins>quince días</ins> las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.
 
 ##### Artículo 92
 
 1. Las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos.
-2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.
+2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente <ins>autorizada</ins> por el Congreso de los Diputados.
 3. Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución.
   
 </details>
@@ -785,8 +782,7 @@ Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía
 
 ##### Artículo 96
 
-1. Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno.
-Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
+1. Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno. Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
 2. Para la denuncia de los tratados y convenios internacionales se utilizará el mismo procedimiento previsto para su aprobación en el artículo [94](#artículo-94).
 
 [🍸🍺🍷](https://www.youtube.com/watch?v=ma8kHNANwRc)
@@ -815,8 +811,7 @@ Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Const
 
 1. Después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda, el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.
 2. El candidato propuesto conforme a lo previsto en el apartado anterior expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara.
-3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente.
-De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.
+3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta (mitad +1) de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente. De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple (<50% pero con más votos).
 4. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores.
 5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.
 
@@ -831,8 +826,8 @@ Los demás miembros del Gobierno serán nombrados y separados por el Rey, a prop
 
 ##### Artículo 102
 
-1. La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.
-2. Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.
+1. La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la <ins>Sala de lo Penal del Tribunal supremo</ins>.
+2. Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta (mitad +1) del mismo.
 3. La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo.
 
 ##### Artículo 103
@@ -849,6 +844,7 @@ Los demás miembros del Gobierno serán nombrados y separados por el Rey, a prop
 ##### Artículo 105
 
 La ley regulará:
+
 - a. La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.
 - b. El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.
 - c. El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.
@@ -886,46 +882,39 @@ Las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de a
 
 ##### Artículo 111
 
-1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras.
-Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal.
+1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán un <ins>tiempo mínimo semanal</ins>.
 2. Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición.
 
 ##### Artículo 112
 
 El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general.
-La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
+La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple (<50% pero con más votos) de los Diputados.
 
 ##### Artículo 113
 
-1. El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.
+1. El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta (mitad +1) de la moción de censura.
 2. La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.
-3. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación.
-En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.
+3. La moción de censura no podrá ser votada hasta que transcurran <ins>cinco días desde su presentación</ins>. En los <ins>dos primeros días</ins> de dicho plazo podrán presentarse <ins>mociones alternativas</ins>.
 4. Si la moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán presentar otra durante el mismo período de sesiones.
 
 ##### Artículo 114
 
-1. Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey, procediéndose a continuación a la designación de Presidente del Gobierno, según lo dispuesto en el artículo [99](#artículo-99).
-2. Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara a los efectos previstos en el artículo [99](#artículo-99). El Rey le nombrará Presidente del Gobierno.
+1. Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey, procediéndose a continuación a la designación de Presidente del Gobierno, según lo dispuesto en el artículo [[99]](#artículo-99).
+2. Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara a los efectos previstos en el artículo [[99]](#artículo-99). El Rey le nombrará Presidente del Gobierno.
 
 ##### Artículo 115
 
-1. El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey.
-El decreto de disolución fijará la fecha de las elecciones.
+1. El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que <ins>será decretada por el Rey</ins>. El decreto de disolución fijará la fecha de las elecciones.
 2. La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura.
-3. No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el artículo [99](#artículo-99), apartado 5.
+3. No procederá nueva disolución antes de que transcurra <ins>un año</ins> desde la anterior, salvo lo dispuesto en el artículo [[99]](#artículo-99), apartado 5.
 
 ##### Artículo 116
 
-1. Una ley orgánica regulará los estados de alarma, de excepción y de sitio, y las competencias y limitaciones correspondientes.
-2. El estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo.
-El decreto determinará el ámbito territorial a que se extienden los efectos de la declaración.
-3. El estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados.
-La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos.
-4. El estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.
-El Congreso determinará su ámbito territorial, duración y condiciones.
-5. No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados comprendidos en el presente artículo, quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones.
-Su funcionamiento, así como el de los demás poderes constitucionales del Estado, no podrán interrumpirse durante la vigencia de estos estados. Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su Diputación Permanente.
+1. Una <ins>ley orgánica</ins> regulará los estados de alarma, de excepción y de sitio, y las competencias y limitaciones correspondientes.
+2. El <ins>estado de alarma</ins> será declarado por el <ins>Gobierno</ins> mediante decreto acordado en Consejo de Ministros por un plazo máximo de <ins>quince días</ins>, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo. El decreto determinará el ámbito territorial a que se extienden los efectos de la declaración.
+3. El <ins>estado de excepción</ins> será declarado por el <ins>Gobierno</ins> mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados. La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de <ins>treinta días</ins>, <ins>prorrogables por otro plazo igual</ins>, con los mismos requisitos.
+4. El <ins>estado de sitio</ins> será declarado por la <ins>mayoría absoluta</ins> (mitad +1) del <ins>Congreso</ins> de los Diputados, a propuesta exclusiva del Gobierno. El Congreso determinará su ámbito territorial, duración y condiciones.
+5. No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados comprendidos en el presente artículo, quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones. Su funcionamiento, así como el de los demás poderes constitucionales del Estado, no podrán interrumpirse durante la vigencia de estos estados. Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su <ins>Diputación Permanente</ins>.
 6. La declaración de los estados de alarma, de excepción y de sitio no modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.
 
 [🍂](https://www.youtube.com/watch?v=cM8GG-DbvfI)
@@ -942,8 +931,7 @@ Su funcionamiento, así como el de los demás poderes constitucionales del Estad
 2. Los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.
 3. El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento que las mismas establezcan.
 4. Los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.
-5. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales.
-La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
+5. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales. La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
 6. Se prohíben los Tribunales de excepción.
 
 ##### Artículo 118
@@ -966,11 +954,9 @@ Los daños causados por error judicial, así como los que sean consecuencia del 
 
 ##### Artículo 122
 
-1. La ley orgánica del poder judicial determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de carrera, que formarán un Cuerpo único, y del personal al servicio de la Administración de Justicia.
-2. El Consejo General del Poder Judicial es el órgano de gobierno del mismo.
-La ley orgánica establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.
-3. El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años.
-De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
+1. La <ins>ley orgánica del poder judicial</ins> determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de carrera, que formarán un Cuerpo único, y del personal al servicio de la Administración de Justicia.
+2. El Consejo General del Poder Judicial es el <ins>órgano de gobierno</ins> del mismo. La <ins>ley orgánica</ins> establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.
+3. El Consejo General del Poder Judicial estará integrado por el <ins>Presidente del Tribunal Supremo</ins>, que lo presidirá, y por <ins>veinte miembros nombrados por el Rey por un período de cinco años</ins>. De éstos, <ins>doce</ins> entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; <ins>cuatro</ins> a propuesta del <ins>Congreso</ins> de los Diputados, y <ins>cuatro</ins> a propuesta del <ins>Senado</ins>, elegidos en ambos casos por <ins>mayoría de tres quintos</ins> de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de <ins>quince años</ins> de ejercicio en su profesión.
 
 ##### Artículo 123
 
@@ -994,8 +980,7 @@ La policía judicial depende de los Jueces, de los Tribunales y del Ministerio F
 
 ##### Artículo 127
 
-1. Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo, no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos.
-La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales.
+1. Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo, no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos. La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales.
 2. La ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que deberá asegurar la total independencia de los mismos.
 
 [🧑‍🤝‍🧑](https://youtu.be/gxCJToKyc-0?t=6)
@@ -1009,14 +994,12 @@ La ley establecerá el sistema y modalidades de asociación profesional de los J
 ##### Artículo 128
 
 1. Toda la riqueza del país en sus distintas formas y sea cual fuere su titularidad está subordinada al interés general.
-2. Se reconoce la iniciativa pública en la actividad económica.
-Mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio y asimismo acordar la intervención de empresas cuando así lo exigiere el interés general.
+2. Se reconoce la iniciativa pública en la actividad económica. Mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio y asimismo acordar la intervención de empresas cuando así lo exigiere el interés general.
 
 ##### Artículo 129
 
 1. La ley establecerá las formas de participación de los interesados en la Seguridad Social y en la actividad de los organismos públicos cuya función afecte directamente a la calidad de la vida o al bienestar general.
-2. Los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa y fomentarán, mediante una legislación adecuada, las sociedades cooperativas.
-También establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.
+2. Los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa y fomentarán, mediante una legislación adecuada, las sociedades cooperativas. También establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.
 
 ##### Artículo 130
 
@@ -1026,8 +1009,7 @@ También establecerán los medios que faciliten el acceso de los trabajadores a 
 ##### Artículo 131
 
 1. El Estado, mediante ley, podrá planificar la actividad económica general para atender a las necesidades colectivas, equilibrar y armonizar el desarrollo regional y sectorial y estimular el crecimiento de la renta y de la riqueza y su más justa distribución.
-2. El Gobierno elaborará los proyectos de planificación, de acuerdo con las previsiones que le sean suministradas por las Comunidades Autónomas y el asesoramiento y colaboración de los sindicatos y otras organizaciones profesionales, empresariales y económicas.
-A tal fin se constituirá un Consejo, cuya composición y funciones se desarrollarán por ley.
+2. El Gobierno elaborará los proyectos de planificación, de acuerdo con las previsiones que le sean suministradas por las Comunidades Autónomas y el asesoramiento y colaboración de los sindicatos y otras organizaciones profesionales, empresariales y económicas. A tal fin se constituirá un <ins>Consejo</ins>, cuya composición y funciones se desarrollarán por ley.
 
 ##### Artículo 132
 
@@ -1045,26 +1027,23 @@ A tal fin se constituirá un Consejo, cuya composición y funciones se desarroll
 ##### Artículo 134
 
 1. Corresponde al Gobierno la elaboración de los Presupuestos Generales del Estado y a las Cortes Generales, su examen, enmienda y aprobación.
-2. Los Presupuestos Generales del Estado tendrán carácter anual, incluirán la totalidad de los gastos e ingresos del sector público estatal y en ellos se consignará el importe de los beneficios fiscales que afecten a los tributos del Estado.
-3. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior.
-4. Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos.
+2. Los <ins>Presupuestos Generales del Estado</ins> tendrán carácter <ins>anual</ins>, incluirán la totalidad de los gastos e ingresos del sector público estatal y en ellos se consignará el importe de los beneficios fiscales que afecten a los tributos del Estado.
+3. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos <ins>tres meses</ins> <ins>antes</ins> de la <ins>expiración</ins> de los del año anterior.
+4. Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán <ins>automáticamente prorrogados los Presupuestos del ejercicio anterior</ins> hasta la aprobación de los nuevos.
 5. Aprobados los Presupuestos Generales del Estado, el Gobierno podrá presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.
 6. Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios requerirá la conformidad del Gobierno para su tramitación.
-7. La Ley de Presupuestos no puede crear tributos.
-Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea.
+7. La Ley de Presupuestos no puede crear tributos. Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea.
 
 ##### Artículo 135
 
 1. Todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria.
-2. El Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos, en su caso, por la Unión Europea para sus Estados Miembros.
-Una ley orgánica fijará el déficit estructural máximo permitido al Estado y a las Comunidades Autónomas, en relación con su producto interior bruto. Las Entidades Locales deberán presentar equilibrio presupuestario.
-3. El Estado y las Comunidades Autónomas habrán de estar autorizados por ley para emitir deuda pública o contraer crédito.
-Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta.
-Estos créditos no podrán ser objeto de enmienda o modificación, mientras se ajusten a las condiciones de la ley de emisión.
-El volumen de deuda pública del conjunto de las Administraciones Públicas en relación con el producto interior bruto del Estado no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea.
-4. Los límites de déficit estructural y de volumen de deuda pública sólo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado, apreciadas por la mayoría absoluta de los miembros del Congreso de los Diputados.
+2. El Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos, en su caso, por la Unión Europea para sus Estados Miembros. Una ley orgánica fijará el déficit estructural máximo permitido al Estado y a las Comunidades Autónomas, en relación con su producto interior bruto. Las Entidades Locales deberán presentar equilibrio presupuestario.
+3. El Estado y las Comunidades Autónomas habrán de estar autorizados por ley para emitir deuda pública o contraer crédito. Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta. Estos créditos no podrán ser objeto de enmienda o modificación, mientras se ajusten a las condiciones de la ley de emisión. El volumen de deuda pública del conjunto de las Administraciones Públicas en relación con el producto interior bruto del Estado no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea.
+4. Los límites de déficit estructural y de volumen de deuda pública sólo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado, apreciadas por la mayoría absoluta (mitad +1) de los miembros del Congreso de los Diputados.
 5. Una ley orgánica desarrollará los principios a que se refiere este artículo, así como la participación, en los procedimientos respectivos, de los órganos de coordinación institucional entre las Administraciones Públicas en materia de política fiscal y financiera.
+
 En todo caso, regulará:
+
 - a. La distribución de los límites de déficit y de deuda entre las distintas Administraciones Públicas, los supuestos excepcionales de superación de los mismos y la forma y plazo de corrección de las desviaciones que sobre uno y otro pudieran producirse.
 - b. La metodología y el procedimiento para el cálculo del déficit estructural.
 - c. La responsabilidad de cada Administración Pública en caso de incumplimiento de los objetivos de estabilidad presupuestaria.
@@ -1072,10 +1051,8 @@ En todo caso, regulará:
 
 ##### Artículo 136
 
-1. El Tribunal de Cuentas es el supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público.
-Dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado.
-2. Las cuentas del Estado y del sector público estatal se rendirán al Tribunal de Cuentas y serán censuradas por éste.
-El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a las Cortes Generales un informe anual en el que, cuando proceda, comunicará las infracciones o responsabilidades en que, a su juicio, se hubiere incurrido.
+1. El <ins>Tribunal de Cuentas</ins> es el supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público. Dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado.
+2. Las cuentas del Estado y del sector público estatal se rendirán al Tribunal de Cuentas y serán censuradas por éste. El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a las Cortes Generales un informe anual en el que, cuando proceda, comunicará las infracciones o responsabilidades en que, a su juicio, se hubiere incurrido.
 3. Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Jueces.
 4. Una ley orgánica regulará la composición, organización y funciones del Tribunal de Cuentas.
 
@@ -1096,7 +1073,7 @@ Todas estas entidades gozan de autonomía para la gestión de sus respectivos in
 
 ##### Artículo 138
 
-1. El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo [2](#artículo-2) de la Constitución, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular.
+1. El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo [[2]](#artículo-2) de la Constitución, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular.
 2. Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.
 
 ##### Artículo 139
@@ -1114,17 +1091,11 @@ Todas estas entidades gozan de autonomía para la gestión de sus respectivos in
   
 ##### Artículo 140
 
-La Constitución garantiza la autonomía de los municipios.
-Estos gozarán de personalidad jurídica plena.
-Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.
-Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.
-Los Alcaldes serán elegidos por los Concejales o por los vecinos.
-La ley regulará las condiciones en las que proceda el régimen del concejo abierto.
+La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley. Los Alcaldes serán elegidos por los Concejales o por los vecinos. La ley regulará las condiciones en las que proceda el régimen del concejo abierto.
 
 ##### Artículo 141
 
-1. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.
-Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.
+1. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.
 2. El Gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.
 3. Se podrán crear agrupaciones de municipios diferentes de la provincia.
 4. En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.
@@ -1141,27 +1112,26 @@ Las Haciendas locales deberán disponer de los medios suficientes para el desemp
   
 ##### Artículo 143
 
-1. En el ejercicio del derecho a la autonomía reconocido en el artículo [2](#artículo-2) de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos.
-2. La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla.
-Estos requisitos deberán ser cumplidos en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.
-3. La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años.
+1. En el ejercicio del derecho a la autonomía reconocido en el artículo [[2]](#artículo-2) de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos.
+2. La <ins>iniciativa</ins> del <ins>proceso autonómico</ins> corresponde a todas las <ins>Diputaciones interesadas o al órgano interinsular correspondiente</ins> y a las <ins>dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla</ins>. Estos requisitos deberán ser cumplidos en el plazo de <ins>seis meses</ins> desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.
+3. La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados <ins>cinco años</ins>.
 
 ##### Artículo 144
 
 Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional:
-- a. Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo [143](#artículo-143).
+
+- a. Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del [[apartado 1 del artículo 143]](#artículo-143).
 - b. Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial.
-- c. Sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo [143](#artículo-143).
+- c. Sustituir la iniciativa de las Corporaciones locales a que se refiere el [[apartado 2 del artículo 143]](#artículo-143).
 
 ##### Artículo 145
 
 1. En ningún caso se admitirá la federación de Comunidades Autónomas.
-2. Los Estatutos podrán prever los supuestos, requisitos y términos en que las Comunidades Autónomas podrán celebrar convenios entre sí para la gestión y prestación de servicios propios de las mismas, así como el carácter y efectos de la correspondiente comunicación a las Cortes Generales.
-En los demás supuestos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán la autorización de las Cortes Generales.
+2. Los Estatutos podrán prever los supuestos, requisitos y términos en que las Comunidades Autónomas podrán celebrar convenios entre sí para la gestión y prestación de servicios propios de las mismas, así como el carácter y efectos de la correspondiente comunicación a las Cortes Generales. En los demás supuestos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán la autorización de las Cortes Generales.
 
 ##### Artículo 146
 
-El proyecto de Estatuto será elaborado por una asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las Cortes Generales para su tramitación como ley.
+El proyecto de Estatuto será elaborado por una <ins>asamblea compuesta por los miembros de la Diputación u órgano interinsular</ins> de las provincias afectadas y por los <ins>Diputados y Senadores elegidos en ellas</ins> y será elevado a las Cortes Generales para su tramitación como ley.
 
 ##### Artículo 147
 
@@ -1198,7 +1168,7 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
    - 20. Asistencia social.
    - 21. Sanidad e higiene.
    - 22. La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
-2. Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo [149](#artículo-149).
+2. Transcurridos <ins>cinco años</ins>, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo [[149]](#artículo-149).
 
 ##### Artículo 149
 
@@ -1210,8 +1180,7 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
    - 5. Administración de Justicia.
    - 6. Legislación mercantil, penal y penitenciaria; legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
    - 7. Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.
-   - 8. Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan.
-En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
+   - 8. Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
    - 9. Legislación sobre propiedad intelectual e industrial.
    - 10. Régimen aduanero y arancelario; comercio exterior.
    - 11. Sistema monetario: divisas, cambio y convertibilidad; bases de la ordenación de crédito, banca y seguros.
@@ -1226,60 +1195,52 @@ En todo caso, las reglas relativas a la aplicación y eficacia de las normas jur
    - 20. Marina mercante y abanderamiento de buques; iluminación de costas y señales marítimas; puertos de interés general; aeropuertos de interés general; control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves.
    - 21. Ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma; régimen general de comunicaciones; tráfico y circulación de vehículos a motor; correos y telecomunicaciones; cables aéreos, submarinos y radiocomunicación.
    - 22. La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma, y la autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial.
-   - 23. Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección.
-La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
+   - 23. Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
    - 24. Obras públicas de interés general o cuya realización afecte a más de una Comunidad Autónoma.
    - 25. Bases de régimen minero y energético.
    - 26. Régimen de producción, comercio, tenencia y uso de armas y explosivos.
    - 27. Normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las Comunidades Autónomas.
    - 28. Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.
    - 29 Seguridad pública, sin perjuicio de la posibilidad de creación de policías por las Comunidades Autónomas en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica.
-   - 30. Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo [27](#artículo-27) de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+   - 30. Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo [[27]](#artículo-27) de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
    - 31. Estadística para fines estatales.
    - 32. Autorización para la convocatoria de consultas populares por vía de referéndum.
 2. Sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.
-3. Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos.
-La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas.
-El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas.
+3. Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos. La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas. El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas.
 
 [🏴‍☠️](https://youtu.be/HWxBVdknQu4?t=9)  
   
 ##### Artículo 150
 
-1. Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.
-Sin perjuicio de la competencia de los Tribunales, en cada ley marco se establecerá la modalidad del control de las Cortes Generales sobre estas normas legislativas de las Comunidades Autónomas.
-2. El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación.
-La ley preverá en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.
-3. El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general.
-Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad.
+1. Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. Sin perjuicio de la competencia de los Tribunales, en cada ley marco se establecerá la modalidad del control de las Cortes Generales sobre estas normas legislativas de las Comunidades Autónomas.
+2. El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación. La ley preverá en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.
+3. El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general. Corresponde a las Cortes Generales, por mayoría absoluta (mitad +1) de cada Cámara, la apreciación de esta necesidad.
 
 ##### Artículo 151
 
-1. No será preciso dejar transcurrir el plazo de cinco años, a que se refiere el apartado 2 del artículo [148](#artículo-148), cuando la iniciativa del proceso autonómico sea acordada dentro del plazo del artículo [143.2](#artículo-143), además de por las Diputaciones o los órganos interinsulares correspondientes, por las tres cuartas partes de los municipios de cada una de las provincias afectadas que representen, al menos, la mayoría del censo electoral de cada una de ellas y dicha iniciativa sea ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia en los términos que establezca una ley orgánica.
+1. No será preciso dejar transcurrir el plazo de cinco años, a que se refiere el [[apartado 2 del artículo 148]](#artículo-148), cuando la iniciativa del proceso autonómico sea acordada dentro del plazo del artículo [[143.2]](#artículo-143), además de por las Diputaciones o los órganos interinsulares correspondientes, por las tres cuartas partes de los municipios de cada una de las provincias afectadas que representen, al menos, la mayoría del censo electoral de cada una de ellas y dicha iniciativa sea ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta (mitad +1) de los electores de cada provincia en los términos que establezca una ley orgánica.
 2. En el supuesto previsto en el apartado anterior, el procedimiento para la elaboración del Estatuto será el siguiente:
-   - 1. El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
-   - 2. Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
+   - 1. El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta (mitad +1) de sus miembros.
+   - 2. Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de <ins>dos meses</ins>, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
    - 3. Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
-   - 4. Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales.
-Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación.
-Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
+   - 4. Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales. Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación. Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
    - 5. De no alcanzarse el acuerdo a que se refiere el apartado 2 de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales. El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto. En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
 3. En los casos de los párrafos 4.º y 5.º del apartado anterior, la no aprobación del proyecto de Estatuto por una o varias provincias no impedirá la constitución entre las restantes de la Comunidad Autónoma proyectada, en la forma que establezca la ley orgánica prevista en el apartado 1 de este artículo.
 
 ##### Artículo 152
 
-1. En los Estatutos aprobados por el procedimiento a que se refiere el artículo anterior, la organización institucional autonómica se basará en una Asamblea Legislativa, elegida por sufragio universal, con arreglo a un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente, elegido por la Asamblea, de entre sus miembros, y nombrado por el Rey, al que corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y la ordinaria del Estado en aquélla.
-El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea. Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma. En los Estatutos de las Comunidades Autónomas podrán establecerse los supuestos y las formas de participación de aquéllas en la organización de las demarcaciones judiciales del territorio. Todo ello de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste. Sin perjuicio de lo dispuesto en el artículo [123](#artículo-123), las sucesivas instancias procesales, en su caso, se agotarán ante órganos judiciales radicados en el mismo territorio de la Comunidad Autónoma en que esté el órgano competente en primera instancia.
+1. En los Estatutos aprobados por el procedimiento a que se refiere el artículo anterior, la organización institucional autonómica se basará en una Asamblea Legislativa, elegida por sufragio universal, con arreglo a un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente, elegido por la Asamblea, de entre sus miembros, y nombrado por el Rey, al que corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y la ordinaria del Estado en aquélla. El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea. Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma. En los Estatutos de las Comunidades Autónomas podrán establecerse los supuestos y las formas de participación de aquéllas en la organización de las demarcaciones judiciales del territorio. Todo ello de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste. Sin perjuicio de lo dispuesto en el artículo [[123]](#artículo-123), las sucesivas instancias procesales, en su caso, se agotarán ante órganos judiciales radicados en el mismo territorio de la Comunidad Autónoma en que esté el órgano competente en primera instancia.
 2. Una vez sancionados y promulgados los respectivos Estatutos, solamente podrán ser modificados mediante los procedimientos en ellos establecidos y con referéndum entre los electores inscritos en los censos correspondientes.
 3. Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica.
 
 ##### Artículo 153
 
 El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:
-a) Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
-b) Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo [150](#artículo-150).
-c) Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
-d) Por el Tribunal de Cuentas, el económico y presupuestario.
+
+- a) Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
+- b) Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el [[apartado 2 del artículo 150]](#artículo-150).
+- c) Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
+- d) Por el Tribunal de Cuentas, el económico y presupuestario.
 
 ##### Artículo 154
 
@@ -1287,7 +1248,7 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 
 ##### Artículo 155
 
-1. Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general.
+1. Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta (mitad +1) del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general.
 2. Para la ejecución de las medidas previstas en el apartado anterior, el Gobierno podrá dar instrucciones a todas las autoridades de las Comunidades Autónomas.
 
 ##### Artículo 156
@@ -1325,7 +1286,7 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 
 1. El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.
 2. Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.
-  3. Los miembros del Tribunal Constitucional serán designados por un período de <ins>nueve años</ins> y se renovarán por <u>terceras partes cada tres</u>.
+3. Los miembros del Tribunal Constitucional serán designados por un período de <ins>nueve años</ins> y se renovarán por <ins>terceras partes cada tres</ins>.
 4. La condición de miembro del Tribunal Constitucional es incompatible: con todo mandato representativo; con los cargos políticos o administrativos; con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos; con el ejercicio de las carreras judicial y fiscal, y con cualquier actividad profesional o mercantil. En lo demás los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de los miembros del poder judicial.
 5. Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato.
 
@@ -1340,15 +1301,14 @@ El Presidente del Tribunal Constitucional será nombrado entre sus miembros por 
    - b. Del recurso de amparo por violación de los derechos y libertades referidos en el artículo [[53.2]](#artículo-53), de esta Constitución, en los casos y formas que la ley establezca.
    - c. De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.
    - d. De las demás materias que le atribuyan la Constitución o las leyes orgánicas.
-2. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas.
-La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a cinco meses.
+2. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a <ins>cinco meses</ins>.
 
 ##### Artículo 162
 
 1. Están legitimados:
-   - a. Para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.
-   - b. Para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.
-2. En los demás casos, la ley orgánica determinará las personas y órganos legitimados.
+   - a. Para interponer el recurso de inconstitucionalidad, el <ins>Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas</ins>.
+   - b. Para interponer el recurso de amparo, toda <ins>persona natural</ins> o <ins>jurídica</ins> que invoque un interés legítimo, así como el <ins>Defensor del Pueblo y el Ministerio Fiscal</ins>.
+2. En los demás casos, la <ins>ley orgánica</ins> determinará las personas y órganos legitimados.
 
 ##### Artículo 163
 
@@ -1356,9 +1316,7 @@ Cuando un órgano judicial considere, en algún proceso, que una norma con rango
 
 ##### Artículo 164
 
-1. Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere.
-Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas.
-Las que declaren la inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos.
+1. Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas. Las que declaren la inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos.
 2. Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad.
 
 ##### Artículo 165
@@ -1379,20 +1337,19 @@ La iniciativa de reforma constitucional se ejercerá en los términos previstos 
 
 ##### Artículo 167
 
-1. Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.
-Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores, que presentará un texto que será votado por el Congreso y el Senado.
-2. De no lograrse la aprobación mediante el procedimiento del apartado anterior, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma.
-3. Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.
+1. Los proyectos de reforma constitucional deberán ser aprobados por una <ins>mayoría de tres quintos de cada una de las Cámaras</ins>. Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores, que presentará un texto que será votado por el Congreso y el Senado.
+2. De no lograrse la aprobación mediante el procedimiento del apartado anterior, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta (mitad +1) del Senado, el Congreso, por <ins>mayoría de dos tercios</ins>, podrá aprobar la reforma.
+3. Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su <ins>ratificación</ins> cuando así lo soliciten, dentro de los <ins>quince días siguientes a su aprobación</ins>, una <ins>décima parte de los miembros de cualquiera de las Cámaras</ins>.
 
 ##### Artículo 168
 
-1. Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.
-2. Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras.
-3. Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación.
+1. Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio por <ins>mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes</ins>.
+2. Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por <ins>mayoría de dos tercios de ambas Cámaras</ins>.
+3. Aprobada la reforma por las Cortes Generales, será sometida a <ins>referéndum</ins> para su ratificación.
 
 ##### Artículo 169
 
-No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo [116](#artículo-116).
+No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo [[116]](#artículo-116).
 
 </details>  
   
@@ -1416,7 +1373,7 @@ La modificación del régimen económico y fiscal del archipiélago canario requ
 
 ##### Cuarta.
 
-En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territorial, los Estatutos de Autonomía respectivos podrán mantener las existentes, distribuyendo las competencias entre ellas, siempre de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste.
+En las Comunidades Autónomas donde tengan su sede más de una <ins>Audiencia Territorial</ins>, los Estatutos de Autonomía respectivos podrán mantener las existentes, distribuyendo las competencias entre ellas, siempre de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste.
 
 </details>  
 
@@ -1424,49 +1381,47 @@ En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territo
 
 <details open><summary>Disposiciones transitorias</summary>
 
-##### Primera.
+##### Primera
 
-En los territorios dotados de un régimen provisional de autonomía, sus órganos colegiados superiores, mediante acuerdo adoptado por la mayoría absoluta de sus miembros, podrán sustituir la iniciativa que en el [[apartado 2 del artículo 143]](#artículo-143) atribuye a las Diputaciones Provinciales o a los órganos interinsulares correspondientes.
+En los territorios dotados de un régimen provisional de autonomía, sus órganos colegiados superiores, mediante acuerdo adoptado por la mayoría absoluta (mitad +1) de sus miembros, podrán sustituir la iniciativa que en el [[apartado 2 del artículo 143]](#artículo-143) atribuye a las Diputaciones Provinciales o a los órganos interinsulares correspondientes.
 
-##### Segunda.
+##### Segunda
 
-Los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía y cuenten, al tiempo de promulgarse esta Constitución, con regímenes provisionales de autonomía podrán proceder inmediatamente en la forma que se prevé en el apartado 2 del artículo [148](#artículo-148), cuando así lo acordaren, por mayoría absoluta, sus órganos preautonómicos colegiados superiores, comunicándolo al Gobierno.
+Los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía y cuenten, al tiempo de promulgarse esta Constitución, con regímenes provisionales de autonomía podrán proceder inmediatamente en la forma que se prevé en el [[apartado 2 del artículo 148]](#artículo-148), cuando así lo acordaren, por mayoría absoluta (mitad +1), sus órganos preautonómicos colegiados superiores, comunicándolo al Gobierno.
 El proyecto de Estatuto será elaborado de acuerdo con lo establecido en el artículo [[151, número 2]](#artículo-151), a convocatoria del órgano colegiado preautonómico.
 
-##### Tercera.
+##### Tercera
 
-La iniciativa del proceso autonómico por parte de las Corporaciones locales o de sus miembros, prevista en el apartado 2 del artículo [143](#artículo-143), se entiende diferida, con todos sus efectos, hasta la celebración de las primeras elecciones locales una vez vigente la Constitución.
+La iniciativa del proceso autonómico por parte de las Corporaciones locales o de sus miembros, prevista en el [[apartado 2 del artículo 143]](#artículo-143), se entiende diferida, con todos sus efectos, hasta la celebración de las primeras elecciones locales una vez vigente la Constitución.
 
-##### Cuarta.
+##### Cuarta
 
-1. En el caso de Navarra, y a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, en lugar de lo que establece el artículo [[143]](#artículo-143) de la Constitución, la iniciativa corresponde al Órgano Foral competente, el cual adoptará su decisión por mayoría de los miembros que lo componen.
-Para la validez de dicha iniciativa será preciso, además, que la decisión del Órgano Foral competente sea ratificada por referéndum expresamente convocado al efecto, y aprobado por mayoría de los votos válidos emitidos.
+1. En el caso de Navarra, y a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, en lugar de lo que establece el artículo [[143]](#artículo-143) de la Constitución, la iniciativa corresponde al Órgano Foral competente, el cual adoptará su decisión por mayoría de los miembros que lo componen. Para la validez de dicha iniciativa será preciso, además, que la decisión del Órgano Foral competente sea ratificada por referéndum expresamente convocado al efecto, y aprobado por mayoría de los votos válidos emitidos.
 2. Si la iniciativa no prosperase, solamente se podrá reproducir la misma en distinto período del mandato del Órgano Foral competente, y en todo caso, cuando haya transcurrido el plazo mínimo que establece el artículo [[143]](#artículo-143).
 
-##### Quinta.
+##### Quinta
 
-Las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica, en los términos previstos en el artículo [[144]](#artículo-144).
+Las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta (mitad +1) de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica, en los términos previstos en el artículo [[144]](#artículo-144).
 
-##### Sexta.
+##### Sexta
 
 Cuando se remitieran a la Comisión Constitucional del Congreso varios proyectos de Estatuto, se dictaminarán por el orden de entrada en aquélla, y el plazo de dos meses a que se refiere el artículo [[151]](#artículo-151) empezará a contar desde que la Comisión termine el estudio del proyecto o proyectos de que sucesivamente haya conocido.
 
-##### Séptima.
+##### Séptima
 
 Los organismos provisionales autonómicos se considerarán disueltos en los siguientes casos:
+
 - a. Una vez constituidos los órganos que establezcan los Estatutos de Autonomía aprobados conforme a esta Constitución.
-- b. En el supuesto de que la iniciativa del proceso autonómico no llegara a prosperar por no cumplir los requisitos previstos en el artículo [143](#artículo-143).
+- b. En el supuesto de que la iniciativa del proceso autonómico no llegara a prosperar por no cumplir los requisitos previstos en el artículo [[143]](#artículo-143).
 - c. Si el organismo no hubiera ejercido el derecho que le reconoce la disposición transitoria primera en el plazo de tres años.
 
-##### Octava.
+##### Octava
 
 1. Las Cámaras que han aprobado la presente Constitución asumirán, tras la entrada en vigor de la misma, las funciones y competencias que en ella se señalan, respectivamente, para el Congreso y el Senado, sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981.
-2. A los efectos de lo establecido en el artículo [[99]](#artículo-99), la promulgación de la Constitución se considerará como supuesto constitucional en el que procede su aplicación.
-A tal efecto, a partir de la citada promulgación se abrirá un período de treinta días para la aplicación de lo dispuesto en dicho artículo.
-Durante este período, el actual Presidente del Gobierno, que asumirá las funciones y competencias que para dicho cargo establece la Constitución, podrá optar por utilizar la facultad que le reconoce el artículo [[115]](#artículo-115) o dar paso, mediante la dimisión, a la aplicación de lo establecido en el artículo [[99]](#artículo-99), quedando en este último caso en la situación prevista en el apartado 2 del artículo [[101]](#artículo-101).
-3. En caso de disolución, de acuerdo con lo previsto en el artículo [[115]](#artículo-115), y si no se hubiera desarrollado legalmente lo previsto en los artículos 68 y 69, serán de aplicación en las elecciones las normas vigentes con anterioridad, con las solas excepciones de que en lo referente a inelegibilidades e incompatibilidades se aplicará directamente lo previsto en el inciso segundo de la letra b) del apartado 1 del artículo [[70]](#artículo-70) de la Constitución, así como lo dispuesto en la misma respecto a la edad para el voto y lo establecido en el artículo [[69,3]](#artículo-69).
+2. A los efectos de lo establecido en el artículo [[99]](#artículo-99), la promulgación de la Constitución se considerará como supuesto constitucional en el que procede su aplicación. A tal efecto, a partir de la citada promulgación se abrirá un período de treinta días para la aplicación de lo dispuesto en dicho artículo. Durante este período, el actual Presidente del Gobierno, que asumirá las funciones y competencias que para dicho cargo establece la Constitución, podrá optar por utilizar la facultad que le reconoce el artículo [[115]](#artículo-115) o dar paso, mediante la dimisión, a la aplicación de lo establecido en el artículo [[99]](#artículo-99), quedando en este último caso en la situación prevista en el [[apartado 2 del artículo 101]](#artículo-101).
+3. En caso de disolución, de acuerdo con lo previsto en el artículo [[115]](#artículo-115), y si no se hubiera desarrollado legalmente lo previsto en los artículos [[68]](#artículo-68) y [[69]](#artículo-69), serán de aplicación en las elecciones las normas vigentes con anterioridad, con las solas excepciones de que en lo referente a inelegibilidades e incompatibilidades se aplicará directamente lo previsto en el inciso segundo de la letra b) del apartado 1 del artículo [[70]](#artículo-70) de la Constitución, así como lo dispuesto en la misma respecto a la edad para el voto y lo establecido en el artículo [[69,3]](#artículo-69).
 
-##### Novena.
+##### Novena
 
 A los tres años de la elección por vez primera de los miembros del Tribunal Constitucional se procederá por sorteo para la designación de un grupo de cuatro miembros de la misma procedencia electiva que haya de cesar y renovarse.
 A estos solos efectos se entenderán agrupados como miembros de la misma procedencia a los dos designados a propuesta del Gobierno y a los dos que proceden de la formulada por el Consejo General del Poder Judicial.
