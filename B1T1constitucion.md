@@ -1,4 +1,10 @@
+<details><summary>Enlaces</summary>
+[La Constitución en la Web del Congreso](https://app.congreso.es/consti/constitucion/indice/index.htm)<br/>
+[Playlist de Youtube. Muy bien leída y con subtítulos](https://www.youtube.com/playlist?list=PLqPr5buOpiqf4jECykjnH9LVgdzxnH-T7)<br/>
+</deatils>
+
 # Índice e inicio
+
 <details open><summary>Índice</summary>
 
 **[Preámbulo](#preámbulo)**
