@@ -673,6 +673,14 @@ El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cám
 ##### Artículo 80
 
 Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.
+  
+
+<details><summary>Nube de conceptos del Título II</summary>
+  
+El Rey es el Jefe del Estado con la funciones que le atribuyen expresamente la Constitución y las leyes. La persona del Rey es inviolable sin responsabilidad. Sucesión del trono (línea anterior > posterior, grado más próximo > remoto, varón > mujer, más edad > menos). El heredero es el Prícipe de Asturias. Las Cortes Generales deciden la sucesión extinguidas las líneas. Abdicaciones/renuncias (LO). Consorte sin funciones constitucionales. Regencia si menor de edad. Si la regencia de determinada por las Cortes Generales, será de 1, 3 o 5 personas. Regente debe ser español y mayor de edad. Tutor del rey menor de edad. Juramento del Rey y Príncipe heredero. Atribuciones del Rey (PROMULGAR y SANCIONAR las leyes, CONVOCAR y DISOLVER las Cortes, CONVOCAR a referéndum, NOMBRAR y SEPARAR miembros del gobierno a PROPUESTA del presidente, EXPEDIR los decretos de Consejo de Ministros, ser informado y PRESIDIR consejo de ministros cuando lo estime oportuno a petición del presidente, MANDO FFAA, DERECHO DE GRACIA sin indultos generales, ALTO PATRONAZGO). Acreditar embajadores. CONSENTIMIENTO de tratados internacionales. DECLARAR guerra y paz (autorizado por CCGG). Los actos son REFRENDADOS por el presidente o ministros. De los actos del Rey serán responsables las personas que los refrenden. Recibe cantidad para sostenimiento de Familia y Casa. Nombra los miembros de su Casa.
+    
+</details>    
+
 
 [🦹🏼😈](https://www.youtube.com/watch?v=ih1XaIi9BBM)
   
