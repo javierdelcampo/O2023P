@@ -457,9 +457,9 @@ Una ley orgánica regulará la institución del Defensor del Pueblo, como alto c
  
 ##### Artículo 55
 
-1. Los derechos reconocidos en los artículos [[17]](#artículo-17), [[18]](#artículo-18), apartados 2 y 3, artículos [[19]](#artículo-19), [[20]](#artículo-20), apartados 1, a) y d), y 5, artículos [[21]](#artículo-21), [[28]](#artículo-28), apartado 2, y artículo [[37]](#artículo-37), apartado 2, podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución.
+1. Los derechos reconocidos en los artículos [[17]](#artículo-17), [[18, apartados 2 y 3]](#artículo-18), artículos [[19]](#artículo-19), [[20, apartados 1, a) y d), y 5]](#artículo-20), artículos [[21]](#artículo-21), [[28, apartado 2]](#artículo-28), y artículo [[37, apartado 2]](#artículo-37), podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución.
 Se exceptúa de lo establecido anteriormente el apartado 3 del artículo [[17]](#artículo-17) para el supuesto de declaración de estado de excepción.
-2. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos [[17]](#artículo-17), apartado 2, y [[18]](#artículo-18), apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas. La utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.
+2. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos [[17, apartado 2]](#artículo-17), y [[18, apartados 2 y 3]](#artículo-18), pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas. La utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.
   
 </details>  
 
@@ -502,7 +502,7 @@ La Reina consorte o el consorte de la Reina no podrán asumir funciones constitu
 1. Cuando el Rey fuere menor de edad, el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, según el orden establecido en la Constitución, entrará a ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del Rey.
 2. Si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia el Príncipe heredero de la Corona, si fuere mayor de edad.
 Si no lo fuere, se procederá de la manera prevista en el apartado anterior, hasta que el Príncipe heredero alcance la mayoría de edad.
-3. Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá de una, tres o cinco personas.
+3. Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá de <ins>una, tres o cinco personas</ins>.
 4. Para ejercer la Regencia es preciso ser español y mayor de edad.
 5. La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.
 
@@ -569,7 +569,7 @@ El Rey es el Jefe del Estado con la funciones que le atribuyen expresamente la C
 
 1. Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.
 2. Las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.
-3. Las Cortes Generales son inviolables.
+3. Las Cortes Generales son <ins>inviolables</ins>.
 
 ##### Artículo 67
 
@@ -579,16 +579,13 @@ El Rey es el Jefe del Estado con la funciones que le atribuyen expresamente la C
 
 ##### Artículo 68
 
-1. El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley.
-2. La circunscripción electoral es la provincia.
-Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado.
-La ley distribuirá el número total de Diputados, asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.
-3. La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional.
-4. El Congreso es elegido por cuatro años.
-El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara.
+  1. El Congreso se compone de un <ins>mínimo de 300 y un máximo de 400</ins> Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley.
+  2. La <ins>circunscripción electoral</ins> es la <ins>provincia</ins>. Las poblaciones de <ins>Ceuta y Melilla</ins> estarán representadas cada una de ellas por <ins>un Diputado</ins>. La ley distribuirá el número total de Diputados, asignando una <ins>representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población</ins>.
+3. La elección se verificará en cada circunscripción atendiendo a criterios de <ins>representación proporcional</ins>.
+  4. El Congreso es elegido por <ins>cuatro años</ins>.
+El mandato de los Diputados termina <ins>cuatro años después de su elección o el día de la disolución de la Cámara</ins>.
 5. Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos. La ley reconocerá y el Estado facilitará el ejercicio del derecho de sufragio a los españoles que se encuentren fuera del territorio de España.
-6. Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato.
-El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.
+  6. Las <ins>elecciones</ins> tendrán lugar entre los <ins>treinta días y sesenta días desde la terminación del mandato</ins>. El Congreso electo deberá ser <ins><strong>convocado</strong></ins> dentro de los <ins>veinticinco días siguientes a la celebración de las elecciones</ins>.
 
 ##### Artículo 69
 
