@@ -1318,7 +1318,7 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 1. En los Presupuestos Generales del Estado podrá establecerse una asignación a las Comunidades Autónomas en función del volumen de los servicios y actividades estatales que hayan asumido y de la garantía de un nivel mínimo en la prestación de los servicios públicos fundamentales en todo el territorio español.
 2. Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.
 
-[💥💥💥💥💥💥🪅🔨](https://www.youtube.com/watch?v=YIQR_3TPtJw)
+[💥🪅🔨](https://www.youtube.com/watch?v=YIQR_3TPtJw)
 
 </details>  
 
@@ -1332,7 +1332,7 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 
 1. El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.
 2. Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.
-  3. Los miembros del Tribunal Constitucional serán designados por un período de <u>nueve años</u> y se renovarán por <u>terceras partes cada tres</u>.
+  3. Los miembros del Tribunal Constitucional serán designados por un período de <ins>nueve años</ins> y se renovarán por <u>terceras partes cada tres</u>.
 4. La condición de miembro del Tribunal Constitucional es incompatible: con todo mandato representativo; con los cargos políticos o administrativos; con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos; con el ejercicio de las carreras judicial y fiscal, y con cualquier actividad profesional o mercantil. En lo demás los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de los miembros del poder judicial.
 5. Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato.
 
