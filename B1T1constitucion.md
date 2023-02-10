@@ -1332,7 +1332,7 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 
 1. El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.
 2. Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.
-3. Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres.
+  3. Los miembros del Tribunal Constitucional serán designados por un período de <u>nueve años</u> y se renovarán por <u>terceras partes cada tres</u>.
 4. La condición de miembro del Tribunal Constitucional es incompatible: con todo mandato representativo; con los cargos políticos o administrativos; con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos; con el ejercicio de las carreras judicial y fiscal, y con cualquier actividad profesional o mercantil. En lo demás los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de los miembros del poder judicial.
 5. Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato.
 
@@ -1344,7 +1344,7 @@ El Presidente del Tribunal Constitucional será nombrado entre sus miembros por 
 
 1. El Tribunal Constitucional tiene jurisdicción en todo el territorio español y es competente para conocer:
    - a. Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley. La declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia, afectará a ésta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.
-   - b. Del recurso de amparo por violación de los derechos y libertades referidos en el artículo [53.2](#artículo-53), de esta Constitución, en los casos y formas que la ley establezca.
+   - b. Del recurso de amparo por violación de los derechos y libertades referidos en el artículo [[53.2]](#artículo-53), de esta Constitución, en los casos y formas que la ley establezca.
    - c. De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.
    - d. De las demás materias que le atribuyan la Constitución o las leyes orgánicas.
 2. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas.
@@ -1372,7 +1372,7 @@ Las que declaren la inconstitucionalidad de una ley o de una norma con fuerza de
 
 Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.
 
-[💙💙💙💙💙](https://youtu.be/8vBKI3ya-l0?t=159)
+[💙](https://youtu.be/8vBKI3ya-l0?t=159)
 
 </details>  
   
@@ -1382,7 +1382,7 @@ Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el es
 
 ##### Artículo 166
 
-La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo [87](#artículo-87).
+La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados [[1 y 2 del artículo 87]](#artículo-87).
 
 ##### Artículo 167
 
@@ -1415,7 +1415,7 @@ La actualización general de dicho régimen foral se llevará a cabo, en su caso
 
 ##### Segunda.
 
-La declaración de mayoría de edad contenida en el artículo [12](#artículo-12) de esta Constitución no perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado.
+La declaración de mayoría de edad contenida en el artículo [[12]](#artículo-12) de esta Constitución no perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado.
 
 ##### Tercera.
 
@@ -1433,12 +1433,12 @@ En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territo
 
 ##### Primera.
 
-En los territorios dotados de un régimen provisional de autonomía, sus órganos colegiados superiores, mediante acuerdo adoptado por la mayoría absoluta de sus miembros, podrán sustituir la iniciativa que en el apartado 2 del artículo [143](#artículo-143) atribuye a las Diputaciones Provinciales o a los órganos interinsulares correspondientes.
+En los territorios dotados de un régimen provisional de autonomía, sus órganos colegiados superiores, mediante acuerdo adoptado por la mayoría absoluta de sus miembros, podrán sustituir la iniciativa que en el [[apartado 2 del artículo 143]](#artículo-143) atribuye a las Diputaciones Provinciales o a los órganos interinsulares correspondientes.
 
 ##### Segunda.
 
 Los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía y cuenten, al tiempo de promulgarse esta Constitución, con regímenes provisionales de autonomía podrán proceder inmediatamente en la forma que se prevé en el apartado 2 del artículo [148](#artículo-148), cuando así lo acordaren, por mayoría absoluta, sus órganos preautonómicos colegiados superiores, comunicándolo al Gobierno.
-El proyecto de Estatuto será elaborado de acuerdo con lo establecido en el artículo [151, número 2](#artículo-151), a convocatoria del órgano colegiado preautonómico.
+El proyecto de Estatuto será elaborado de acuerdo con lo establecido en el artículo [[151, número 2]](#artículo-151), a convocatoria del órgano colegiado preautonómico.
 
 ##### Tercera.
 
@@ -1446,17 +1446,17 @@ La iniciativa del proceso autonómico por parte de las Corporaciones locales o d
 
 ##### Cuarta.
 
-1. En el caso de Navarra, y a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, en lugar de lo que establece el artículo [143](#artículo-143) de la Constitución, la iniciativa corresponde al Órgano Foral competente, el cual adoptará su decisión por mayoría de los miembros que lo componen.
+1. En el caso de Navarra, y a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, en lugar de lo que establece el artículo [[143]](#artículo-143) de la Constitución, la iniciativa corresponde al Órgano Foral competente, el cual adoptará su decisión por mayoría de los miembros que lo componen.
 Para la validez de dicha iniciativa será preciso, además, que la decisión del Órgano Foral competente sea ratificada por referéndum expresamente convocado al efecto, y aprobado por mayoría de los votos válidos emitidos.
-2. Si la iniciativa no prosperase, solamente se podrá reproducir la misma en distinto período del mandato del Órgano Foral competente, y en todo caso, cuando haya transcurrido el plazo mínimo que establece el artículo [143](#artículo-143).
+2. Si la iniciativa no prosperase, solamente se podrá reproducir la misma en distinto período del mandato del Órgano Foral competente, y en todo caso, cuando haya transcurrido el plazo mínimo que establece el artículo [[143]](#artículo-143).
 
 ##### Quinta.
 
-Las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica, en los términos previstos en el artículo [144](#artículo-144).
+Las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica, en los términos previstos en el artículo [[144]](#artículo-144).
 
 ##### Sexta.
 
-Cuando se remitieran a la Comisión Constitucional del Congreso varios proyectos de Estatuto, se dictaminarán por el orden de entrada en aquélla, y el plazo de dos meses a que se refiere el artículo [151](#artículo-151) empezará a contar desde que la Comisión termine el estudio del proyecto o proyectos de que sucesivamente haya conocido.
+Cuando se remitieran a la Comisión Constitucional del Congreso varios proyectos de Estatuto, se dictaminarán por el orden de entrada en aquélla, y el plazo de dos meses a que se refiere el artículo [[151]](#artículo-151) empezará a contar desde que la Comisión termine el estudio del proyecto o proyectos de que sucesivamente haya conocido.
 
 ##### Séptima.
 
@@ -1468,17 +1468,17 @@ Los organismos provisionales autonómicos se considerarán disueltos en los sigu
 ##### Octava.
 
 1. Las Cámaras que han aprobado la presente Constitución asumirán, tras la entrada en vigor de la misma, las funciones y competencias que en ella se señalan, respectivamente, para el Congreso y el Senado, sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981.
-2. A los efectos de lo establecido en el artículo [99](#artículo-99), la promulgación de la Constitución se considerará como supuesto constitucional en el que procede su aplicación.
+2. A los efectos de lo establecido en el artículo [[99]](#artículo-99), la promulgación de la Constitución se considerará como supuesto constitucional en el que procede su aplicación.
 A tal efecto, a partir de la citada promulgación se abrirá un período de treinta días para la aplicación de lo dispuesto en dicho artículo.
 Durante este período, el actual Presidente del Gobierno, que asumirá las funciones y competencias que para dicho cargo establece la Constitución, podrá optar por utilizar la facultad que le reconoce el artículo [[115]](#artículo-115) o dar paso, mediante la dimisión, a la aplicación de lo establecido en el artículo [[99]](#artículo-99), quedando en este último caso en la situación prevista en el apartado 2 del artículo [[101]](#artículo-101).
-3. En caso de disolución, de acuerdo con lo previsto en el ```artículo [[115]](#artículo-115)```, y si no se hubiera desarrollado legalmente lo previsto en los artículos 68 y 69, serán de aplicación en las elecciones las normas vigentes con anterioridad, con las solas excepciones de que en lo referente a inelegibilidades e incompatibilidades se aplicará directamente lo previsto en el inciso segundo de la letra b) del apartado 1 del artículo [[70]](#artículo-70) de la Constitución, así como lo dispuesto en la misma respecto a la edad para el voto y lo establecido en el artículo 69,3.
+3. En caso de disolución, de acuerdo con lo previsto en el artículo [[115]](#artículo-115), y si no se hubiera desarrollado legalmente lo previsto en los artículos 68 y 69, serán de aplicación en las elecciones las normas vigentes con anterioridad, con las solas excepciones de que en lo referente a inelegibilidades e incompatibilidades se aplicará directamente lo previsto en el inciso segundo de la letra b) del apartado 1 del artículo [[70]](#artículo-70) de la Constitución, así como lo dispuesto en la misma respecto a la edad para el voto y lo establecido en el artículo [[69,3]](#artículo-69).
 
 ##### Novena.
 
 A los tres años de la elección por vez primera de los miembros del Tribunal Constitucional se procederá por sorteo para la designación de un grupo de cuatro miembros de la misma procedencia electiva que haya de cesar y renovarse.
 A estos solos efectos se entenderán agrupados como miembros de la misma procedencia a los dos designados a propuesta del Gobierno y a los dos que proceden de la formulada por el Consejo General del Poder Judicial.
 Del mismo modo se procederá transcurridos otros tres años entre los dos grupos no afectados por el sorteo anterior.
-A partir de entonces se estará a lo establecido en el número 3 del artículo 159.
+A partir de entonces se estará a lo establecido en el número 3 del artículo [[159]](#artículo-159).
 
 </details>
   
