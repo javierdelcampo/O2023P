@@ -1,7 +1,7 @@
 
 # Python
 
-## ⚠Comentarios
+## Comentarios
 
 ⚠️
 
@@ -173,8 +173,8 @@ b == a            # => True, los objetos a's y b's son iguales
 
 ⚠️ Las cadenas (Strings) se crean con " o '
 ```
-"This is a string."
-'This is also a string.'
+"Esto es una cadena."
+'Estp también es una cadena.'
 ```
 
 ⚠️ Las cadenas también se pueden sumar
@@ -184,20 +184,108 @@ b == a            # => True, los objetos a's y b's son iguales
 "Hello " "world!"    # => "Hello world!"
 ```
 
-Un cadena puede ser utilizada como una lista de caracteres, accesibles por el índice (que parte de 0)
+⚠️Una cadena puede ser utilizada como una lista de caracteres, accesibles por el índice (que parte de 0)
 ```
 "Hello world!"[0]  # => 'H'
 ```
 
-La longitud de una cadena se calcula con len()
+⚠️ La longitud de una cadena se calcula con len()
 ```
-len("Esto es una cadena")  # => 18
+len("El joropo ha comenzado ")  # => 22
 ```
 
-Desde la versión de Python 3.6, se pueden utilizar f-strings o formateadas utilizando literales
+⚠️ Desde la versión de Python 3.6, se pueden utilizar f-strings o formateadas utilizando literales
 ```
-name = "Frederica"
-f"Ella dijo que su nombre era {name}." # => "Ella dijo que su nombre era Frederica"
+texto = "hondo"
+f"Lo más {texto} del compás" # => "Lo más hondo del compás"
 # Cualquier expresión válida de Python incluida se manda al string
-f"{name} tiene {len(name)} caracteres de longitud." # => "Frederica tiene 9 caracteres de longitud"
+f"{texto} tiene {len(texto)} caracteres de longitud." # => "Hondo tiene 5 caracteres de longitud"
 ```
+
+⚠️ None es un objeto
+```
+None  # => None
+```
+
+⚠️ No utilices el símbolo "no igual" "==" para comparar objetos con None
+Utiliza "is". Comprueba la igualdad del objeto
+```
+"etc" is None  # => False
+None is None   # => True
+```
+
+## Variables y colecciones
+
+Python tiene una función print
+```
+print("bailan todos los vecinos")  # => bailan todos los vecinos
+```
+
+Por defecto, la función print también imprime el carácter de línea nueva al final
+Utiliza el argumento opcional "end" para cambiar el final de línea
+```
+print("de Guatopo y Paso ", end="Real")  # => de Guatopo y Paso Real
+```
+
+Forma sencilla de coger el input de consola
+```
+input_string_var = input("Introduce algo: ") # Devuelve el texto introducido como un string
+```
+
+No hay declaraciones, sólo asignaciones
+La convención es utilizar minúsculas_con_subrayados
+```
+alguna_variable = 5
+alguna_variable  # => 5
+```
+
+Acceder a una variable que no haya sido asignada da como resultado una excepción
+```
+variable_desconocida  # Lanza un NameError
+```
+
+if se puede utilizar como una expresión
+Equivalente a C: '?:' operador ternario
+```
+"hola" if 0 > 1 else "adiós"  # => "hola"
+```
+
+Las listas almacenan secuencias
+```
+li = []
+# Se puede empezar con una lista ya rellena
+otro_li = [4, 5, 6]
+```
+
+Añade cosas al final de una lista con append
+```
+li.append(1)    # li es [1]
+li.append(2)    # li es [1, 2]
+li.append(4)    # li es [1, 2, 4]
+li.append(3)    # li es [1, 2, 4, 3]
+# Se eliminan del final con pop
+li.pop()        # => 3 y li es [1, 2, 4]
+# Se lo devolvemos
+li.append(3)    # li es [1, 2, 4, 3] de nuevo
+```
+
+Accede a una lista de la misma forma que a un array
+```
+li[0]   # => 1
+# Mira en el último elemento...
+li[-1]  # => 3
+```
+
+Accediendo fuera de rango es un IndexError
+```
+li[4]  # Raises an IndexError
+```
+
+
+
+
+
+
+[👄](https://www.youtube.com/watch?v=kQub-omnZSg)
+
+
