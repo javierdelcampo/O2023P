@@ -559,6 +559,67 @@ for x in range(10):
         break     # sale del loop
 ```
 
+### Testing
+
+Existen varios frameworks para probar el código (Robot, PyTest, Unittest, DocTest, Nose2, Testify...), pero en este resumen
+nos restringimos al uso de "assert", que simplemente verifica
+que una expresión Boolean es "True" durante la ejecución del código.
+```python
+assert 2 + 2 == 4                         
+assert 2 + 2 == 4, "2 + 2 debería ser 4"    # En caso en el que falle el assert
+```
+
+### Programación orientada a objetos
+
+Python permite definir "clases" para encapsular datos y métodos que pueden operar en ellos.
+
+Por ejemplo, implementemos un tipo "Bag" que se va comportar de forma similar a un set, pero permite realizar un seguimiento de cada uno de los elementos que están en él.
+
+```python
+class Bag:
+    """Como con las funciones, las clases pueden ser documentadas con docstrings (los tres dobles paréntesis)."""
+
+    # Constructor de la clase, que contiene los objetos necesarios
+    # para contruir Bag.
+    #
+    # Los dobles subrayados denotan objetos o atributos que se utilizan por
+    # Python pero que viven en un namespace controlado por el usuario
+    # Los métodos (u objetos o atributos) como: __init__, __str__,
+    # __repr__ etc. se llaman métodos especiales. No debes "reinventarlos"
+    #
+    def __init__(self, elems=[]):
+        # Hacemos un seguimiento de los elementos y su número en un dict
+        self.data = {}
+        for elem in elems:
+            self.add(elem)
+
+    # Un método de instancia. Todos los métodos llevan "self" como su primer argumento.
+    def add(self, elem):
+        """Añade el elemento a la bolsa."""
+        try:
+            self.data[elem] += 1
+        except KeyError:
+            self.data[elem] = 1
+
+    def delete(self, elem):
+        """Elimina el elemento de la bolsa."""
+        try:
+            k = self.data[elem]
+            if k > 1:
+                self.data[elem] = k - 1
+            else:
+                del self.data[elem]
+        except KeyError:
+            pass
+
+    def number(self, elem):
+        """Devuelve el número de ocurrencias del elemento."""
+        try:
+            return self.data[elem]
+        except KeyError:
+            return 0
+```
+
 
 [👩🏿‍🦱](https://www.youtube.com/watch?v=kQub-omnZSg) <br/>
 
