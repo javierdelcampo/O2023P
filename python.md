@@ -3,7 +3,7 @@
 
 ⚠️ indica las partes que pueden ser más particulares de Python, comparado con otros lenguajes. Hay partes individuales y secciones completas
 
-## Comentarios
+### Comentarios
 
 ```
 
@@ -20,7 +20,7 @@
 """
 ```
 
-## Tipos de datos primitivos y operadores
+### Tipos de datos primitivos y operadores
 
 Números
 
@@ -214,7 +214,7 @@ Utiliza "is". Comprueba la igualdad del objeto
 None is None   # => True
 ```
 
-## Variables y colecciones
+### Variables y colecciones
 
 Python tiene una función print
 ```
@@ -281,11 +281,171 @@ Accediendo fuera de rango es un IndexError
 li[4]  # Lanza un IndexError
 ```
 
+Quitar la primera ocurrencia de un valor
+```python
+li.remove(2)  # li ahora es [1, 3]
+li.remove(2)  # Lanza un ValueError ya que 2 no está en la lista
+```
+
+Inserta un elemento en un índice determinado
+```python
+li.insert(1, 2)  # li is now [1, 2, 3] again
+```
+
+Devuelve el índice del primer elemento encontrado según un argumento
+```python
+li.index(2)  # => 1
+li.index(4)  # Lanza un ValueError ya que 4 no está en la lista
+```
+
+Las listas se pueden sumar<br/>
+Los valores de li y otro_li no se modifican<br/>
+```python
+li + otro_li  # => [1, 2, 3, 4, 5, 6]
+```
+
+Las listas se pueden concatenar con "extend()"
+```python
+li.extend(otro_li)  # Ahora li es [1, 2, 3, 4, 5, 6]
+```
+
+Comprueba la existencia de un elemento en una lista utilizando "in"
+```python
+1 in li  # => True
+```
+
+Calcular la longitud con "len()"
+```python
+len(li)  # => 6
+```
+
+### Tuplas
+
+Las tuplas son como las listas pero son inmutables
+```python
+tup = (1, 2, 3)
+tup[0]      # => 1
+tup[0] = 3  # Raises a TypeError
+```
+
+⚠️ Una tupla de longitud uno (1) debe tener una coma tras el último elemento<br/>
+pero las tuplas de otras longitudes, incluso cero, no
+```python
+type((1))   # => <class 'int'>
+type((1,))  # => <class 'tuple'>
+type(())    # => <class 'tuple'>
+```
+
+# You can do most of the list operations on tuples too
+Se pueden realizar muchas operaciones con tuplas...
+```python
+len(tup)         # => 3
+tup + (4, 5, 6)  # => (1, 2, 3, 4, 5, 6)
+tup[:2]          # => (1, 2)
+2 in tup         # => True
+```
 
 
+Las tuplas (o listas) se pueden asignar en variables
+```python
+a, b, c = (1, 2, 3)  # a es 1, b es 2 y c es 3
+# También se puede extender
+a, *b, c = (1, 2, 3, 4)  # a es 1, b es [2, 3] y c es 4
+# Las tuplas se crean por defecto si se omiten los paréntesis
+d, e, f = 4, 5, 6  # la tupla 4, 5, 6 se asignan a las variables d, e y f
+# respectivamente d = 4, e = 5 y f = 6
+# Se pueden intercambiar valores...
+e, d = d, e  # d is now 5 and e is now 4
+```
 
+### Diccionarios
 
+Los diccionarios almacenan mapeos de keys an valores
+```python
+empty_dict = {}
+# Un diccionario ya relleno:
+filled_dict = {"one": 1, "two": 2, "three": 3}
+```
 
+Las claves para los diccionarios deben ser de tipos inmutables. Esto es para asegurarse<br/>
+de que las claves pueden convertirse a un valor constante hash para realizar búsquedas rápidas (tipo String de Java)<br/>
+Los tipos inmutables incluyen los int, float, string y tuplas.
+```python
+invalid_dict = {[1,2,3]: "123"}  # => Lanza un TypeError: unhashable type: 'list'
+valid_dict = {(1,2,3):[1,2,3]}   # ...pero los valores pueden ser de cualquier tipo
+```
+
+Busca valores con []
+```python
+filled_dict["one"]  # => 1
+```
+
+Con "keys()" se consiguen todas las claves de forma iterable. La llamada se mete en un list()<br/>
+En versiones <3.7 el orden no se garantiza, pero en 3.7+ se conserva el orden de inserción
+```python
+list(filled_dict.keys())  # => ["three", "two", "one"] en Python <3.7
+list(filled_dict.keys())  # => ["one", "two", "three"] en  Python 3.7+
+```
+
+Con "values()" se obtienen todos los valores como un iterable. Una vez más hay que<br/>
+meterlos en un list(). El orden tiene las mismas particularidades que con las claves
+```python
+list(filled_dict.values())  # => [3, 2, 1]  en Python <3.7
+list(filled_dict.values())  # => [1, 2, 3] en Python 3.7+
+```
+
+También se puede obtener la lista de pares (clave, valor) con "items()"
+```python
+list(filled_dict.items())   # => [('one', 1), ('two', 2), ('three', 3)]
+```
+
+# Check for existence of keys in a dictionary with "in"
+Comprueba la existencia de claves en un diccionario con "in"
+```python
+"one" in filled_dict  # => True
+1 in filled_dict      # => False
+```
+
+Si se buscan un valor que no existe, se lanza un KeyErro
+```python
+filled_dict["four"]  # KeyError
+```
+
+Se utiliza "get()" para evitar el KeyError
+```python
+filled_dict.get("one")      # => 1
+filled_dict.get("four")     # => None
+```
+
+El método get permite incluir un argumento como valor por defecto cuando el valor no existe
+```python
+filled_dict.get("one", 4)   # => 1
+filled_dict.get("four", 4)  # => 4
+```
+
+"setdefault()" inserta en un diccionario sólo si la clave no está presente
+```python
+filled_dict.setdefault("five", 5)  # filled_dict["five"] es 5
+filled_dict.setdefault("five", 6)  # filled_dict["five"] todavía es 5
+```
+
+Añadir a un diccionario
+```python
+filled_dict.update({"four":4})  # => {"one": 1, "two": 2, "three": 3, "four": 4}
+filled_dict["four"] = 4         # otra forma de añadir
+```
+
+Eliminar claves de un diccionario con "del"
+```python
+del filled_dict["one"]  # Elimina la clave "one" del diccionario
+```
+
+# From Python 3.5 you can also use the additional unpacking options
+A partir de Python 3.5 hay nueva opciones para realizar unpacking
+```python
+{'a': 1, **{'b': 2}}  # => {'a': 1, 'b': 2}
+{'a': 1, **{'a': 2}}  # => {'a': 2}
+```
 
 [👩🏿‍🦱](https://www.youtube.com/watch?v=kQub-omnZSg) <br/>
 
