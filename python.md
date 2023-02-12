@@ -189,8 +189,8 @@ b == a            # => True, los objetos a's y b's son iguales
 
 ----
 
-```
-<details><summary>Lenguajes de programación cuyas listas empiezan por cero (0)</summary>
+```HTML
+<strong>Lenguajes de programación cuyas listas empiezan por cero (0)</strong>
   
 TODOS los que merecen la pena: JavaScript, Java, C#, C, C++, Perl, Python, Rust, etc, etc, etc.<br/>
 
