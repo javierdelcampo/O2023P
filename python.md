@@ -353,7 +353,6 @@ type((1,))  # => <class 'tuple'>
 type(())    # => <class 'tuple'>
 ```
 
-# You can do most of the list operations on tuples too
 Se pueden realizar muchas operaciones con tuplas...
 ```python
 len(tup)         # => 3
@@ -519,6 +518,45 @@ Comprueba la existencia de un set con "in"
 ```python
 2 in filled_set   # => True
 10 in filled_set  # => False
+```
+
+### Control de flujo
+
+Inicializamos una variable
+```python
+some_var = 5
+# Condición if. Muestra "some_var es más pequeña que 10"
+if some_var > 10:
+    print("some_var es mayor que 10.")
+elif some_var < 10:    # Esta cláusula elif es OPCIONAL
+    print("some_var es más pequeña que 10.")
+else:                  # Esto también es OPCIONAL
+    print("some_var es 10.")
+# También se pueden utilizar ternarios if-then-else como una expresión
+parity = "pares" if some_var % 5 == 0 else "nones"
+```
+
+Python tiene loops while
+```python
+x = 0
+while x < 10:
+    print("{x} es más pequeño que 10".format(x=10))
+    x += 1
+```
+
+También loops for
+```python
+for x in range(10)    # range(10) es [1, 2, ..., 10]
+    print("{x} es más pequeño que 10".format(x=10))
+```
+
+Se puede obtener una lógica algo más compleja con "continue" y "break"
+```python
+for x in range(10):
+    if x < 10:
+        continue  # ve a la siguiente iteración
+    elif x == 5:
+        break     # sale del loop
 ```
 
 
