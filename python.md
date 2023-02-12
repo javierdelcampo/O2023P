@@ -1,9 +1,9 @@
 
 # Python
 
-## Comentarios
+⚠️ indica las partes que pueden ser más particulares de Python, comparado con otros lenguajes. Hay partes individuales y secciones completas
 
-⚠️
+## Comentarios
 
 ```
 
