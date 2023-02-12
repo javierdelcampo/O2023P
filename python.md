@@ -440,7 +440,6 @@ Eliminar claves de un diccionario con "del"
 del filled_dict["one"]  # Elimina la clave "one" del diccionario
 ```
 
-# From Python 3.5 you can also use the additional unpacking options
 A partir de Python 3.5 hay nueva opciones para realizar unpacking
 ```python
 {'a': 1, **{'b': 2}}  # => {'a': 1, 'b': 2}
