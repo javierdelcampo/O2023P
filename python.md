@@ -399,7 +399,6 @@ También se puede obtener la lista de pares (clave, valor) con "items()"
 list(filled_dict.items())   # => [('one', 1), ('two', 2), ('three', 3)]
 ```
 
-# Check for existence of keys in a dictionary with "in"
 Comprueba la existencia de claves en un diccionario con "in"
 ```python
 "one" in filled_dict  # => True
@@ -445,6 +444,66 @@ A partir de Python 3.5 hay nueva opciones para realizar unpacking
 {'a': 1, **{'b': 2}}  # => {'a': 1, 'b': 2}
 {'a': 1, **{'a': 2}}  # => {'a': 2}
 ```
+
+### Sets
+
+```python
+empty_set = set()
+# Se puede inicializar un set con valores por defecto, se parece un poco a un dict
+some_set = {1, 1, 2, 2, 3, 4}  # some_set es {1, 2, 3, 4}
+```
+
+Parecido a las claves de un diccionario, los elementos de un set deben ser inmutables
+```python
+invalid_set = {[1], 1}  # => Lanza un TypeError: unhashable type: 'list'
+valid_set = {(1,), 1}
+```
+
+Añadir un nuevo valor a un set
+```python
+filled_set = some_set
+filled_set.add(5)  # filled_set es ahora {1, 2, 3, 4, 5}
+# :warning: Sets NO tienen elementos duplicados
+filled_set.add(5)  # sigue como antes: {1, 2, 3, 4, 5}
+```
+
+Se pueden realizar intersecciones con "&"
+```python
+other_set = {3, 4, 5, 6}
+filled_set & other_set  # => {3, 4, 5}
+```
+
+Las uniones con "|"
+```python
+filled_set | other_set  # => {1, 2, 3, 4, 5, 6}
+```
+
+Diferencias con "-"
+```python
+{1, 2, 3, 4} - {2, 3, 5}  # => {1, 4}
+```
+
+Diferencial simétrico con "^"
+```python
+{1, 2, 3, 4} ^ {2, 3, 5}  # => {1, 4, 5}
+```
+
+Comprobar si el set de la izquierda es un superset del set de la derecha
+```python
+{1, 2} >= {1, 2, 3} # => False
+```
+
+Comprueba si el set de la izquierda es un subset del de la derecha
+```python
+{1, 2} <= {1, 2, 3} # => True
+```
+
+Comprueba la existencia de un set con "in"
+```python
+2 in filled_set   # => True
+10 in filled_set  # => False
+```
+
 
 [👩🏿‍🦱](https://www.youtube.com/watch?v=kQub-omnZSg) <br/>
 
