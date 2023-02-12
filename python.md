@@ -258,7 +258,7 @@ otro_li = [4, 5, 6]
 ```
 
 Añade cosas al final de una lista con append
-```
+```python
 li.append(1)    # li es [1]
 li.append(2)    # li es [1, 2]
 li.append(4)    # li es [1, 2, 4]
@@ -270,16 +270,17 @@ li.append(3)    # li es [1, 2, 4, 3] de nuevo
 ```
 
 Accede a una lista de la misma forma que a un array
-```
+```python
 li[0]   # => 1
 # Mira en el último elemento...
 li[-1]  # => 3
 ```
 
 Accediendo fuera de rango es un IndexError
+```python
+li[4]  # Lanza un IndexError
 ```
-li[4]  # Raises an IndexError
-```
+
 
 
 
