@@ -24,13 +24,13 @@
 
 Números
 
-```
+```python
 3 # -> es un 3, sin más
 ```
 
 Las operaciones matemáticas se realizan con los operadores habituales, no hay sorpresas
 
-```
+```python
 1 + 1   # => 2
 8 - 1   # => 7
 10 * 2  # => 20
@@ -39,7 +39,7 @@ Las operaciones matemáticas se realizan con los operadores habituales, no hay s
 
 Las divisiones de enteros se redondean hacia abajo, tanto para los números positivos como para los negativos
 
-```
+```python
 5 // 3       # => 1
 -5 // 3      # => -2
 5.0 // 3.0   # => 1.0 # También funciona con float
@@ -47,58 +47,56 @@ Las divisiones de enteros se redondean hacia abajo, tanto para los números posi
 ```
 
 El resultado de una división siempre es un float
-
-```
+```python
 10.0 / 3  # => 3,3333333333333335
 ```
 
 Operador módulo
-
-```
+```python
 7 % 3   # => 1
 # i % j tiene el mismo signo que j, al contrario que en C 
 -7 % 3  # => 2
 ```
 
 Exponente (x**y, x a la y potencia)
-```
+```python
 2**3  # => 8
 ```
 
 La precedencia se indica con paréntesis
-```
+```python
 1 + 3 * 2    # => 7
 (1 + 3) * 2  # => 8
 ```
 
 ⚠️ Los boolean son primitivas (ojo a las mayúsculas)
-```
+```python
 True   # => True
 False  # => False
 ```
 
 ⚠️ Los boolean se niegan con NOT
-```
+```python
 not True   # => False
 not False  # => True
 ```
 
 ⚠️ Operadores booleanos
-```
+```python
 "and" y "or" son sensibles a las mayúsculas
 True and False  # => False
 False or True   # => True
 ```
 
 ⚠️ True y False son equivalentes a 1 y 0 (se pueden realizar operaciones matemáticas)
-```
+```python
 True + True # => 2
 True * 8    # => 8
 False - 5   # => -5
 ```
 
 ⚠️ Los operadores de comparación utilizan el valor numérico de True y False
-```
+```python
 0 == False  # => True
 1 == True   # => True
 2 == True   # => False
@@ -107,7 +105,7 @@ False - 5   # => -5
 
 ⚠️ None, 0, y las cadenas vacías (y las listas, dicts, tuplas y sets vacíos) se evalúan como False.
 El resto de valores es True
-```
+```python
 bool(0)     # => False
 bool("")    # => False
 bool([])    # => False
@@ -120,7 +118,7 @@ bool(-6)    # => True
 
 ⚠️ Utilizando los operadores lógicos booleanos sobre enteros, los comvierte (cast) a booleanos para ser evluados
 pero se devuelve su valor no convertidos. No confundir/mezclar con bool(ints) y operaciones bitwise and/or (&,|)
-```
+```python
 bool(0)     # => False
 bool(2)     # => True
 0 and 2     # => 0
@@ -130,19 +128,19 @@ bool(2)     # => True
 ```
 
 Igualdad es ==
-```
+```python
 1 == 1  # => True
 2 == 1  # => False
 ```
 
 No igual es !=
-```
+```python
 1 != 1  # => False
 2 != 1  # => True
 ```
 
 Más comparaciones
-```
+```python
 1 < 10  # => True
 1 > 10  # => False
 2 <= 2  # => True
@@ -150,7 +148,7 @@ Más comparaciones
 ```
 
 Comprobando si un valor está dentro de un rango
-```
+```python
 1 < 2 and 2 < 3  # => True
 2 < 3 and 3 < 2  # => False
 
@@ -172,30 +170,38 @@ b == a            # => True, los objetos a's y b's son iguales
 ```
 
 ⚠️ Las cadenas (Strings) se crean con " o '
-```
+```python
 "Esto es una cadena."
 'Estp también es una cadena.'
 ```
 
 ⚠️ Las cadenas también se pueden sumar
-```
+```python
 "Hello " + "world!"  # => "Hello world!"
 # Los literales String (pero no las variables) se pueden concatenar sin necesidad de '+'
 "Hello " "world!"    # => "Hello world!"
 ```
 
 ⚠️Una cadena puede ser utilizada como una lista de caracteres, accesibles por el índice (que parte de 0)
-```
+```python
 "Hello world!"[0]  # => 'H'
 ```
 
+<details><summary>Lenguajes de programación cuyas listas empiezan por cero (0)</summary>
+  
+TODOS los que merecen la pena: JavaScript, Java, C#, C, C++, Perl, Python, Rust, etc, etc, etc.<br/>
+¿Hay lenguajes en los el índice empieza por 1?: sí, pero en su mayoría son lenguajes desarrollados en los años 60 y 70 por gente con el cerebro agujereado por lamer constantemente la espalda de sapos alucinógenos para soportar su vida en entornos corporativos (ALGOL, Cobol, RPG, Smalltalk, etc.). También empiezan por 1 lenguajes como Fortran, Matlab, Mathematica o R, pero son para estadísticos y ultra-matemáticos, y no nos hablamos con esa gente. <br/>
+¿Y qué pasa con SASS, XQuery y Julia?: mira... pedaz... ven aquí y escúchame bien... me remito a lo de los sapos.
+  
+</details>
+
 ⚠️ La longitud de una cadena se calcula con len()
-```
+```python
 len("El joropo ha comenzado ")  # => 22
 ```
 
 ⚠️ Desde la versión de Python 3.6, se pueden utilizar f-strings o formateadas utilizando literales
-```
+```python
 texto = "hondo"
 f"Lo más {texto} del compás" # => "Lo más hondo del compás"
 # Cualquier expresión válida de Python incluida se manda al string
@@ -203,13 +209,13 @@ f"{texto} tiene {len(texto)} caracteres de longitud." # => "Hondo tiene 5 caract
 ```
 
 ⚠️ None es un objeto
-```
+```python
 None  # => None
 ```
 
 ⚠️ No utilices el símbolo "no igual" "==" para comparar objetos con None
 Utiliza "is". Comprueba la igualdad del objeto
-```
+```python
 "etc" is None  # => False
 None is None   # => True
 ```
@@ -217,41 +223,41 @@ None is None   # => True
 ### Variables y colecciones
 
 Python tiene una función print
-```
+```python
 print("bailan todos los vecinos")  # => bailan todos los vecinos
 ```
 
 Por defecto, la función print también imprime el carácter de línea nueva al final
 Utiliza el argumento opcional "end" para cambiar el final de línea
-```
+```python
 print("de Guatopo y Paso ", end="Real")  # => de Guatopo y Paso Real
 ```
 
 Forma sencilla de coger el input de consola
-```
+```python
 input_string_var = input("Introduce algo: ") # Devuelve el texto introducido como un string
 ```
 
 No hay declaraciones, sólo asignaciones
 La convención es utilizar minúsculas_con_subrayados
-```
+```python
 alguna_variable = 5
 alguna_variable  # => 5
 ```
 
 Acceder a una variable que no haya sido asignada da como resultado una excepción
-```
+```python
 variable_desconocida  # Lanza un NameError
 ```
 
 if se puede utilizar como una expresión
 Equivalente a C: '?:' operador ternario
-```
+```python
 "hola" if 0 > 1 else "adiós"  # => "hola"
 ```
 
 Las listas almacenan secuencias
-```
+```python
 li = []
 # Se puede empezar con una lista ya rellena
 otro_li = [4, 5, 6]
