@@ -187,6 +187,9 @@ b == a            # => True, los objetos a's y b's son iguales
 "Hello world!"[0]  # => 'H'
 ```
 
+----
+
+```
 <details><summary>Lenguajes de programación cuyas listas empiezan por cero (0)</summary>
   
 TODOS los que merecen la pena: JavaScript, Java, C#, C, C++, Perl, Python, Rust, etc, etc, etc.<br/>
@@ -196,6 +199,9 @@ TODOS los que merecen la pena: JavaScript, Java, C#, C, C++, Perl, Python, Rust,
 ¿Y qué pasa con SASS, XQuery y Julia?: mira... pedaz... ven aquí y escúchame bien... me remito a lo de los sapos.
   
 </details>
+```
+
+----
 
 ⚠️ La longitud de una cadena se calcula con len()
 ```python
