@@ -186,14 +186,17 @@ b == a            # => True, los objetos a's y b's son iguales
 ```python
 "Hello world!"[0]  # => 'H'
 ```
-
-<details><summary>Lenguajes de programación cuyas listas empiezan por cero (0)</summary>
+----
+🛑<details><summary>Lenguajes de programación cuyas listas empiezan por cero (0)</summary>
   
 TODOS los que merecen la pena: JavaScript, Java, C#, C, C++, Perl, Python, Rust, etc, etc, etc.<br/>
+
 ¿Hay lenguajes en los el índice empieza por 1?: sí, pero en su mayoría son lenguajes desarrollados en los años 60 y 70 por gente con el cerebro agujereado por lamer constantemente la espalda de sapos alucinógenos para soportar su vida en entornos corporativos (ALGOL, Cobol, RPG, Smalltalk, etc.). También empiezan por 1 lenguajes como Fortran, Matlab, Mathematica o R, pero son para estadísticos y ultra-matemáticos, y no nos hablamos con esa gente. <br/>
+
 ¿Y qué pasa con SASS, XQuery y Julia?: mira... pedaz... ven aquí y escúchame bien... me remito a lo de los sapos.
   
 </details>
+----
 
 ⚠️ La longitud de una cadena se calcula con len()
 ```python
