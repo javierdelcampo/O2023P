@@ -82,15 +82,86 @@ Extraído de la :link:[Wikipedia(en)](https://en.wikipedia.org/wiki/Comparison_o
 
 ### Condicionales
 
-|            | if                                                                                                        | else if                                                                                                                                               | select case                                                                                                                                                                                                                                                                                                                                             | conditional expression                                     |
-| ---------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| C          | if (condition) <codigo><br>«else <codigo>»<br><codigo> puede ser una única orden o un bloque: { órdenes } | if (condition) <código><br>else if (condition) <código><br>...<br>«else <código>»<br>o<br>if (condition) <código><br>else { if (condition) <código> } | switch (variable) {<br>  case case1: <código> «; break;»<br>  ...<br>  «default: <código>»<br>}                                                                                                                                                                                                                                                         | condition ? valueIfTrue : valueIfFalse                     |
-| C++        | Ídem                                                                                                      | Ídem                                                                                                                                                  | Ídem                                                                                                                                                                                                                                                                                                                                                    | Ídem                                                       |
-| Java       | Ídem                                                                                                      | Ídem                                                                                                                                                  | Ídem                                                                                                                                                                                                                                                                                                                                                    | Ídem                                                       |
-| JavaScript | Ídem                                                                                                      | Ídem                                                                                                                                                  | Ídem                                                                                                                                                                                                                                                                                                                                                    | Ídem                                                       |
-| C#         | Ídem                                                                                                      | Ídem                                                                                                                                                  | switch (variable)<br>{<br>  case case1:<br>     <código><br>     «break_or_jump_statement»<br>  ...<br>  «default:<br>     <código><br>     break_or_jump_statement»<br>}<br><br>Todos los casos que tengan código deben terminar con un break o goto (es decir, no pueden ir al siguiente caso). El caso por defecto no es necesario que esté al final | Ídem                                                       |
-| PHP        | Ídem                                                                                                      | Ídem                                                                                                                                                  | switch (variable) {<br>  case case1: <código> «; break;»<br>  ...<br>  «default: <código>»<br>}                                                                                                                                                                                                                                                         | Ídem                                                       |
-| Python     | if condition :<br><indentación><código><br>«else:<br><indentación><código>                                | if condition :<br><indentación><código><br>elif condition :<br><indentación><código><br>...<br>«else:<br><indentación><código>»                       | Python 3.10+:<br>match variable:<br><indentación>case case1:<br><indentación><indentación><código><br><indentación>case case2:<br><indentación><indentación><código>                                                                                                                                                                                    | Python 2.5+:<br>valueIfTrue if condition else valueIfFalse |
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>if</th>
+    <th>else if</th>
+    <th>select case</th>
+    <th>conditional expression</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>C</td>
+    <td>if (condition)&nbsp;&lt;codigo&gt;<br>&nbsp;«else &lt;codigo&gt;»<br>&nbsp;&lt;codigo&gt; puede ser una única orden o un bloque: { órdenes }</td>
+    <td>if (condition)&nbsp;&lt;código&gt;<br>&nbsp;else if (condition) &lt;código&gt;<br>&nbsp;...<br>&nbsp;«else &lt;código&gt;»<br>&nbsp;o<br>&nbsp;if (condition) &lt;código&gt;<br>&nbsp;else { if (condition) &lt;código&gt; }</td>
+    <td>switch (variable) {<br>&nbsp;  case case1: &lt;código&gt; «;break;»<br>&nbsp;  ...<br>&nbsp;  «default: &lt;código&gt;»<br>&nbsp;}</td>
+    <td>condition ? valueIfTrue :&nbsp;valueIfFalse</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>switch (variable)<br>&nbsp;{<br>&nbsp;  case case1:<br>&nbsp;    &nbsp;&lt;código&gt;<br>&nbsp;    &nbsp;«break_or_jump_statement»<br>&nbsp;  ...<br>&nbsp;  «default:<br>&nbsp;    &nbsp;&lt;código&gt;<br>&nbsp;    &nbsp;break_or_jump_statement»<br>&nbsp;}<br>&nbsp;<br>&nbsp;Todos los casos que tengan código deben terminar con un break o goto (es&nbsp;decir, no pueden ir al siguiente caso). El caso por defecto no es necesario&nbsp;que esté al final</td>
+    <td>Ídem</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>switch (variable) {<br>&nbsp;  case case1: &lt;código&gt; «;break;»<br>&nbsp;  ...<br>&nbsp;  «default: &lt;código&gt;»<br>&nbsp;}</td>
+    <td>Ídem</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>if condition :<br>&nbsp;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;«else:<br>&nbsp;&lt;indentación&gt;&lt;código&gt;</td>
+    <td>if condition :<br>&nbsp;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;elif condition :<br>&nbsp;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;...<br>&nbsp;«else:<br>&nbsp;&lt;indentación&gt;&lt;código&gt;»</td>
+    <td>Python 3.10+:<br>&nbsp;match variable:<br>&nbsp;&lt;indentación&gt;case case1:<br>&nbsp;&lt;indentación&gt;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;&lt;indentación&gt;case case2:<br>&nbsp;&lt;indentación&gt;&lt;indentación&gt;&lt;código&gt;</td>
+    <td>Python 2.5+:<br>&nbsp;valueIfTrue if condition else valueIfFalse</td>
+  </tr>
+  <tr>
+    <td>Z80</td>
+<td>
+        
+```assembly
+.cond
+    ld   a, (ix-1)   ;; if ( a >= 79 )
+    sub  79          ;;
+    jp   c, cond_not ;; jump if carry set
+.cond_body              ;; then
+    ld   (ix-3), -1  ;; b = -1
+.cond_not               ;; else
+```
+</td>
+    <td>---</td>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+</tbody>
+</table>
 
 ### Bucles
 
