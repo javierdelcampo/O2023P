@@ -7,6 +7,27 @@ El símbolo ⚠️ indica las partes que pueden ser más particulares de Python,
 
 # índice
 
+-[Indentación](#indentaci%C3%B3n)<br/>
+-[Comentarios](#comentarios)<br/>
+-[Tipos de datos primitivos y operadores](#tipos-de-datos-primitivos-y-operadores)<br/>
+-[Variables y colecciones](#tipos-de-datos-primitivos-y-operadores)<br/>
+ -[Tuplas](#tuplas)<br/>
+-[Diccionarios](#diccionarios)<br/>
+-[Sets](#sets)<br/>
+-[Control de flujo](#control-de-flujo)<br/>
+-[Testing](#testing)<br/>
+-[Programación orientada a objetos](#programaci%C3%B3n-orientada-a-objetos)<br/>
+ -[Herencia](#herencia)<br/>
+-[Iterables](#iterables)<br/>
+-[Generators](#generators)<br/>
+-[Aleatoriedad](#aleatoriedad)<br/>
+-[Fusión](zip)](#fusi%C3%B3n-zip)<br/>
+-[args y kwargs](#args-y-kwargs)<br/>
+-[Tipado dinámico y anotaciones de tipos](#tipado-din%C3%A1mico-y-anotaciones-de-tipos)<br/>
+-[Métodos especiales de Python](#m%C3%A9todos-especiales-de-python)<br/>
+ -[new() e init()](#new-e-init)<br/>
+ -[str() y rpr()](#str-y-rpr)<br/>
+
 ## Indentación
 
 Python utiliza la indentación para delimitar la estructura permitiendo establecer bloques de código. No existen comandos para finalizar las líneas ni llaves con las que delimitar el código. Los únicos delimitadores existentes son los dos puntos ( : ) y la indentación del código.
