@@ -247,14 +247,15 @@ b == a            # => True, los objetos a's y b's son iguales
 ```
 - TODOS los que merecen la pena: JavaScript, Java, C#, C, C++, Perl, Python, Rust, etc, etc, etc.
 
-- ¿Hay lenguajes en los el índice empieza por 1?: sí, pero en su mayoría son lenguajes desarrollados 
-en los años 60 y 70 por gente con el cerebro agujereado por lamer constantemente 
-la espalda de sapos alucinógenos para soportar su vida en entornos corporativos 
-(ALGOL, Cobol, RPG, Smalltalk, etc.). 
+- ¿Hay lenguajes en los el índice empieza por 1?: sí, pero en su mayoría son lenguajes 
+desarrollados en los años 60 y 70. En esa época se puso de moda experimentar
+con drogas psicotrópicas y se colocaban lamiendo la espalda de sapos 
+alucinógenos, dando como resultado el ALGOL, Cobol, RPG, Smalltalk, etc. 
 También empiezan por 1 lenguajes como Fortran, Matlab, Mathematica o R, 
 pero son para estadísticos y ultra-matemáticos, y no nos hablamos con esa gente.
 
-- ¿Y qué pasa con SASS, XQuery y Julia?: mira... pedaz... ven aquí y escúchame bien... me remito a lo de los sapos.
+- ¿Vale, pero qué pasa con SASS, XQuery y Julia?: mira... pedaz... ven aquí 
+y escúchame bien... me remito a lo de los sapos. Hay gente que no evoluciona.
   
 ```
 
@@ -266,7 +267,7 @@ pero son para estadísticos y ultra-matemáticos, y no nos hablamos con esa gent
 len("El joropo ha comenzado ")  # => 22
 ```
 
-⚠️ Desde la versión de Python 3.6, se pueden utilizar f-strings o formateadas utilizando literales
+⚠️ Desde la versión de Python 3.6, se pueden utilizar f-strings o formateadas utilizando literales.
 
 ```python
 texto = "hondo"
@@ -275,14 +276,14 @@ f"Lo más {texto} del compás" # => "Lo más hondo del compás"
 f"{texto} tiene {len(texto)} caracteres de longitud." # => "Hondo tiene 5 caracteres de longitud"
 ```
 
-None es un objeto
+None es un objeto.
 
 ```python
 None  # => None
 ```
 
-⚠️ No utilices el símbolo "no igual" "==" para comparar objetos con None
-Utiliza "is". Comprueba la igualdad del objeto
+⚠️ No utilices el símbolo "no igual" "==" para comparar objetos con None.
+Utiliza "is". Comprueba la igualdad del objeto.
 
 ```python
 "etc" is None  # => False
@@ -291,47 +292,47 @@ None is None   # => True
 
 ## Variables y colecciones
 
-⚠️ Python tiene una función print
+⚠️ Python tiene una función print.
 
 ```python
 print("bailan todos los vecinos")  # => bailan todos los vecinos
 ```
 
-Por defecto, la función print también imprime el carácter de línea nueva al final
-Utiliza el argumento opcional "end" para cambiar el final de línea
+Por defecto, la función print también imprime el carácter de línea nueva al final.
+Utiliza el argumento opcional "end" para cambiar el final de línea.
 
 ```python
 print("de Guatopo y Paso ", end="Real")  # => de Guatopo y Paso Real
 ```
 
-⚠️ Forma sencilla de coger el input de consola con `input()`
+⚠️ Forma sencilla de coger el input de consola con `input()`.
 
 ```python
 input_string_var = input("Introduce algo: ") # Devuelve el texto introducido como un string
 ```
 
-⚠️ No hay declaraciones, sólo asignaciones. Python es un lenguaje de tipado dinámico
-La convención es utilizar minúsculas_con_subrayados
+⚠️ No hay declaraciones, sólo asignaciones. Python es un lenguaje de tipado dinámico.
+La convención es utilizar minúsculas_con_subrayados.
 
 ```python
 alguna_variable = 5
 alguna_variable  # => 5
 ```
 
-Acceder a una variable que no haya sido asignada da como resultado una excepción
+Acceder a una variable que no haya sido asignada da como resultado una excepción.
 
 ```python
 variable_desconocida  # Lanza un NameError
 ```
 
-if se puede utilizar como una expresión
-Equivalente a C: '?:' operador ternario
+if se puede utilizar como una expresión.
+Equivalente a C: '?:' operador ternario.
 
 ```python
 "hola" if 0 > 1 else "adiós"  # => "hola"
 ```
 
-⚠️ Las listas almacenan secuencias
+⚠️ Las listas almacenan secuencias.
 
 ```python
 li = []
@@ -339,7 +340,7 @@ li = []
 otro_li = [4, 5, 6]
 ```
 
-⚠️ Añade cosas al final de una lista con `append`
+⚠️ Añade cosas al final de una lista con `append`.
 
 ```python
 li.append(1)    # li es [1]
@@ -352,7 +353,7 @@ li.pop()        # => 3 y li es [1, 2, 4]
 li.append(3)    # li es [1, 2, 4, 3] de nuevo
 ```
 
-Accede a una lista de la misma forma que a un array
+Accede a una lista de la misma forma que a un array.
 
 ```python
 li[0]   # => 1
@@ -360,52 +361,52 @@ li[0]   # => 1
 li[-1]  # => 3
 ```
 
-Accediendo fuera de rango es un IndexError
+Accediendo fuera de rango es un IndexError.
 
 ```python
 li[4]  # Lanza un IndexError
 ```
 
-Quitar la primera ocurrencia de un valor
+Quitar la primera ocurrencia de un valor.
 
 ```python
 li.remove(2)  # li ahora es [1, 3]
 li.remove(2)  # Lanza un ValueError ya que 2 no está en la lista
 ```
 
-Inserta un elemento en un índice determinado
+Inserta un elemento en un índice determinado.
 
 ```python
 li.insert(1, 2)  # li is now [1, 2, 3] again
 ```
 
-Devuelve el índice del primer elemento encontrado según un argumento
+Devuelve el índice del primer elemento encontrado según un argumento.
 
 ```python
 li.index(2)  # => 1
 li.index(4)  # Lanza un ValueError ya que 4 no está en la lista
 ```
 
-Las listas se pueden sumar<br/>
-Los valores de li y otro_li no se modifican<br/>
+Las listas se pueden sumar.<br/>
+Los valores de li y otro_li no se modifican.<br/>
 
 ```python
 li + otro_li  # => [1, 2, 3, 4, 5, 6]
 ```
 
-Las listas se pueden concatenar con "extend()"
+Las listas se pueden concatenar con "extend()".
 
 ```python
 li.extend(otro_li)  # Ahora li es [1, 2, 3, 4, 5, 6]
 ```
 
-Comprueba la existencia de un elemento en una lista utilizando "in"
+Comprueba la existencia de un elemento en una lista utilizando "in".
 
 ```python
 1 in li  # => True
 ```
 
-Calcular la longitud con "len()"
+Calcular la longitud con "len()".
 
 ```python
 len(li)  # => 6
@@ -413,16 +414,15 @@ len(li)  # => 6
 
 ### Tuplas
 
-Las tuplas son como las listas pero son inmutables
+Las tuplas son como las listas pero son inmutables.
 
 ```python
 tup = (1, 2, 3)
 tup[0]      # => 1
-tup[0] = 3  # Raises a TypeError
+tup[0] = 3  # Lanza un TypeError
 ```
 
-⚠️ Una tupla de longitud uno (1) debe tener una coma tras el último elemento<br/>
-pero las tuplas de otras longitudes, incluso cero, no
+⚠️ Una tupla de longitud uno (1) debe tener una coma tras el último elemento, pero las tuplas de otras longitudes, incluso cero, no.
 
 ```python
 type((1))   # => <class 'int'>
@@ -481,7 +481,7 @@ filled_dict["one"]  # => 1
 
 Con "keys()" se consiguen todas las claves de forma iterable. La llamada se mete en un list()<br/>
 
-En versiones <3.7 el orden no se garantiza, pero en 3.7+ se conserva el orden de inserción.
+En versiones < 3.7 el orden no se garantiza, pero en 3.7+ se conserva el orden de inserción.
 
 ```python
 list(filled_dict.keys())  # => ["three", "two", "one"] en Python <3.7
