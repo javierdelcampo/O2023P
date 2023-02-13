@@ -27,7 +27,7 @@ El símbolo ⚠️ indica las partes que pueden ser más particulares de Python,
 * [Métodos especiales de Python](#m%C3%A9todos-especiales-de-python)
   * [new() e init()](#new-e-init)
   * [str() y rpr()](#str-y-rpr)
-
+* [Excepciones](#excepciones)
 
 ## Indentación
 
@@ -35,7 +35,7 @@ Python utiliza la indentación para delimitar la estructura permitiendo establec
 
 Normalmente se suelen dejar como indentación o sangrado <ins>4 espacios</ins> en blanco con lo que se indicaría el inicio del bloque, si en las posteriores líneas no introdujéramos el sangrado, significaría el final de dicho bloque de código, con lo cual para finalizar un bloque de código, solo tenemos que dejar de introducir el sangrado, no tenemos que usar ninguna llave ni símbolo.
 
-<ins>Hay que ser consistentes con el indentado utiliazado a lo largo de todo el 
+⚠️ <ins>Hay que ser consistentes con el indentado utiliazado a lo largo de todo el 
 código.</ins>
 
 ## Comentarios
@@ -82,11 +82,13 @@ Las divisiones de enteros se redondean hacia abajo, tanto para los números posi
 ```
 
 El resultado de una división siempre es un float
+
 ```python
 10.0 / 3  # => 3,3333333333333335
 ```
 
 Operador módulo
+
 ```python
 7 % 3   # => 1
 # i % j tiene el mismo signo que j, al contrario que en C 
@@ -94,6 +96,7 @@ Operador módulo
 ```
 
 Exponente (x**y, x a la y potencia)
+
 ```python
 2**3  # => 8
 ```
@@ -105,32 +108,37 @@ La precedencia se indica con paréntesis
 ```
 
 ⚠️ Los boolean son primitivas (ojo a las mayúsculas)
+
 ```python
 True   # => True
 False  # => False
 ```
 
 ⚠️ Los boolean se niegan con NOT
+
 ```python
 not True   # => False
 not False  # => True
 ```
 
 ⚠️ Operadores booleanos
+
 ```python
 "and" y "or" son sensibles a las mayúsculas
 True and False  # => False
 False or True   # => True
 ```
 
-⚠️ True y False son equivalentes a 1 y 0 (se pueden realizar operaciones matemáticas)
+⚠️ True y False son equivalentes a 1 y 0 (se pueden realizar operaciones matemáticas).
+
 ```python
 True + True # => 2
 True * 8    # => 8
 False - 5   # => -5
 ```
 
-⚠️ Los operadores de comparación utilizan el valor numérico de True y False
+⚠️ Los operadores de comparación utilizan el valor numérico de True y False.
+
 ```python
 0 == False  # => True
 1 == True   # => True
@@ -139,6 +147,7 @@ False - 5   # => -5
 ```
 
 ⚠️ None, 0, y las cadenas vacías (y las listas, dicts, tuplas y sets vacíos) se evalúan como False.
+
 El resto de valores es True
 ```python
 bool(0)     # => False
@@ -152,7 +161,8 @@ bool(-6)    # => True
 ```
 
 ⚠️ Utilizando los operadores lógicos booleanos sobre enteros, los comvierte (cast) a booleanos para ser evluados
-pero se devuelve su valor no convertidos. No confundir/mezclar con bool(ints) y operaciones bitwise and/or (&,|)
+pero se devuelve su valor no convertidos. No confundir/mezclar con bool(ints) y operaciones bitwise and/or (&,|).
+
 ```python
 bool(0)     # => False
 bool(2)     # => True
@@ -163,18 +173,21 @@ bool(2)     # => True
 ```
 
 Igualdad es ==
+
 ```python
 1 == 1  # => True
 2 == 1  # => False
 ```
 
 No igual es !=
+
 ```python
 1 != 1  # => False
 2 != 1  # => True
 ```
 
 Más comparaciones
+
 ```python
 1 < 10  # => True
 1 > 10  # => False
@@ -183,17 +196,20 @@ Más comparaciones
 ```
 
 Comprobando si un valor está dentro de un rango
+
 ```python
 1 < 2 and 2 < 3  # => True
 2 < 3 and 3 < 2  # => False
 
 # Encadenándolos para hacerlos más legibles...
+
 1 < 2 < 3  # => True
 2 < 3 < 2  # => False
 ```
 
 ⚠️ (is vs. ==) 'is' comprueba si dos variables se refieren al mismo OBJETO, pero == comprueba
 si el objeto al que apunta tiene los mismos VALORES
+
 ```
 a = [1, 2, 3, 4]  # Apunta una nueva lista, [1, 2, 3, 4]
 b = a             # Hace apuntar "b" al valor al que "a" está apuntando
@@ -205,12 +221,14 @@ b == a            # => True, los objetos a's y b's son iguales
 ```
 
 ⚠️ Las cadenas (Strings) se crean con " o '
+
 ```python
 "Esto es una cadena."
 'Estp también es una cadena.'
 ```
 
 ⚠️ Las cadenas también se pueden sumar
+
 ```python
 "Hello " + "world!"  # => "Hello world!"
 # Los literales String (pero no las variables) se pueden concatenar sin necesidad de '+'
@@ -218,6 +236,7 @@ b == a            # => True, los objetos a's y b's son iguales
 ```
 
 ⚠️Una cadena puede ser utilizada como una lista de caracteres, accesibles por el índice (que parte de 0)
+
 ```python
 "Hello world!"[0]  # => 'H'
 ```
@@ -242,11 +261,13 @@ pero son para estadísticos y ultra-matemáticos, y no nos hablamos con esa gent
 ----
 
 ⚠️ La longitud de una cadena se calcula con len()
+
 ```python
 len("El joropo ha comenzado ")  # => 22
 ```
 
 ⚠️ Desde la versión de Python 3.6, se pueden utilizar f-strings o formateadas utilizando literales
+
 ```python
 texto = "hondo"
 f"Lo más {texto} del compás" # => "Lo más hondo del compás"
@@ -254,13 +275,15 @@ f"Lo más {texto} del compás" # => "Lo más hondo del compás"
 f"{texto} tiene {len(texto)} caracteres de longitud." # => "Hondo tiene 5 caracteres de longitud"
 ```
 
-⚠️ None es un objeto
+None es un objeto
+
 ```python
 None  # => None
 ```
 
 ⚠️ No utilices el símbolo "no igual" "==" para comparar objetos con None
 Utiliza "is". Comprueba la igualdad del objeto
+
 ```python
 "etc" is None  # => False
 None is None   # => True
@@ -268,7 +291,7 @@ None is None   # => True
 
 ## Variables y colecciones
 
-Python tiene una función print
+⚠️ Python tiene una función print
 
 ```python
 print("bailan todos los vecinos")  # => bailan todos los vecinos
@@ -281,13 +304,13 @@ Utiliza el argumento opcional "end" para cambiar el final de línea
 print("de Guatopo y Paso ", end="Real")  # => de Guatopo y Paso Real
 ```
 
-Forma sencilla de coger el input de consola
+⚠️ Forma sencilla de coger el input de consola con `input()`
 
 ```python
 input_string_var = input("Introduce algo: ") # Devuelve el texto introducido como un string
 ```
 
-No hay declaraciones, sólo asignaciones
+⚠️ No hay declaraciones, sólo asignaciones. Python es un lenguaje de tipado dinámico
 La convención es utilizar minúsculas_con_subrayados
 
 ```python
@@ -308,7 +331,7 @@ Equivalente a C: '?:' operador ternario
 "hola" if 0 > 1 else "adiós"  # => "hola"
 ```
 
-Las listas almacenan secuencias
+⚠️ Las listas almacenan secuencias
 
 ```python
 li = []
@@ -316,7 +339,7 @@ li = []
 otro_li = [4, 5, 6]
 ```
 
-Añade cosas al final de una lista con append
+⚠️ Añade cosas al final de una lista con `append`
 
 ```python
 li.append(1)    # li es [1]
@@ -1095,6 +1118,53 @@ class Punto():
     def __repr__(self):
         return f'Punto({self.x}, {self.y})'
 ```
+
+## Excepciones
+
+🔗[Texto completo en 'uniwebsidad'](https://uniwebsidad.com/libros/algoritmos-python/capitulo-12/excepciones)
+
+El manejo de excepciones se hace mediante los bloques que utilizan las sentencias `try, except y finally`.
+
+Dentro del bloque try se ubica todo el código que pueda llegar a levantar una excepción. A continuación se ubica el bloque except, que se encarga de capturar la excepción y nos da la oportunidad de procesarla mostrando por ejemplo un mensaje adecuado al usuario. Veamos qué sucede si se quiere realizar una división por cero:
+
+```python
+>>> dividendo = 5
+>>> divisor = 0
+>>> dividendo / divisor
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ZeroDivisionError: integer division or modulo by zero
+```
+
+En este caso, se levantó la excepción ZeroDivisionError cuando se quiso hacer la división. Para evitar que se levante la excepción y se detenga la ejecución del programa, se utiliza el bloque `try-except`:
+
+```python
+>>> try:
+...     cociente = dividendo / divisor
+... except:
+...     print "No se permite la división por cero"
+...
+```
+
+Dado que dentro de un mismo bloque try pueden producirse excepciones de distinto tipo, es posible utilizar varios bloques except, cada uno para capturar un tipo distinto de excepción. 
+
+Esto se hace especificando a continuación de la sentencia except el nombre de la excepción que se pretende capturar. Un mismo bloque except puede atrapar varios tipos de excepciones, lo cual se hace especificando los nombres de la excepciones separados por comas a continuación de la palabra except. Es importante destacar que si bien luego de un bloque try puede haber varios bloques except, se ejecutará, a lo sumo, uno de ellos.
+
+```python
+try:
+    # aquí ponemos el código que puede lanzar excepciones
+except IOError:
+    # entrará aquí en caso que se haya producido
+    # una excepción IOError
+except ZeroDivisionError:
+    # entrará aquí en caso que se haya producido
+    # una excepción ZeroDivisionError
+except:
+    # entrará aquí en caso que se haya producido
+    # una excepción que no corresponda a ninguno
+    # de los tipos especificados en los except previos
+```
+
 
 [👩🏿‍🦱](https://www.youtube.com/watch?v=kQub-omnZSg) <br/>
 
