@@ -3,8 +3,6 @@
 
 He adaptado, ampliado (y reducido) y traducido de aquí: [Python Refresher](https://github.com/kawu/hhu-dl-materials-2019/blob/master/python-refresher/README.md)<br/>
 
-El símbolo ⚠️ indica las partes que pueden ser más particulares de Python, comparado con otros lenguajes. Hay partes individuales y secciones completas
-
 # índice
 
 * [Indentación](#indentaci%C3%B3n)
