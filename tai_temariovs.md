@@ -149,7 +149,7 @@
 | Lenguajes: HTML, XML y sus derivaciones.                                                                      | Lenguajes: HTML, XML y sus derivaciones.                                                                      |
 | Navegadores y lenguajes de programación web.                                                                  | Navegadores y lenguajes de programación web.                                                                  |
 | Lenguajes de script.                                                                                          | Lenguajes de script. 
-|                                                              |[[->Varios backend]](B3T8_back.md)|  
+|                                                              |[[->Varios backend]](B3T8_back.md)<br/>[[Lo más básico de Python]](python.md)<br/>[[Comparativas de lengiajes]](comparacion.md)|  
 |                                                                                                               |                                                                                                               |
 | :arrow_right: <ins>9\. Accesibilidad, diseño universal y usabilidad.</ins>                                                             | :arrow_right: <ins>8\. (ant 9) Accesibilidad, diseño universal y usabilidad.</ins>                                                     |
 | Acceso y usabilidad de las tecnologías, productos y servicios relacionados con la sociedad de la información. | Acceso y usabilidad de las tecnologías, productos y servicios relacionados con la sociedad de la información. <br/> [[-> Accesibilidad]](B3T9accesibilidad.md) |
