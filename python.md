@@ -5,6 +5,7 @@ He adaptado, ampliado (y reducido) y traducido de aquí: [Python Refresher](http
 
 # índice
 
+<<<<<<< HEAD
 * [Indentación](#indentaci%C3%B3n)
 * [Comentarios](#comentarios)
 * [Tipos de datos primitivos y operadores](#tipos-de-datos-primitivos-y-operadores)
@@ -26,6 +27,31 @@ He adaptado, ampliado (y reducido) y traducido de aquí: [Python Refresher](http
   * [new() e init()](#new-e-init)
   * [str() y rpr()](#str-y-rpr)
 * [Excepciones](#excepciones)
+=======
+- [Python](#python)
+- [índice](#índice)
+  - [Indentación](#indentación)
+  - [Comentarios](#comentarios)
+  - [Tipos de datos primitivos y operadores](#tipos-de-datos-primitivos-y-operadores)
+  - [Variables y colecciones](#variables-y-colecciones)
+    - [Tuplas](#tuplas)
+  - [Diccionarios](#diccionarios)
+  - [Sets](#sets)
+  - [Control de flujo](#control-de-flujo)
+  - [Testing](#testing)
+  - [Programación orientada a objetos](#programación-orientada-a-objetos)
+    - [Herencia](#herencia)
+  - [Iterables](#iterables)
+  - [Generators](#generators)
+  - [Aleatoriedad](#aleatoriedad)
+  - [Fusión (zip)](#fusión-zip)
+  - [args y kwargs](#args-y-kwargs)
+  - [Tipado dinámico y anotaciones de tipos](#tipado-dinámico-y-anotaciones-de-tipos)
+  - [Métodos especiales de Python](#métodos-especiales-de-python)
+    - [__new__() e __init__()](#new-e-init)
+    - [__str__() y __rpr__()](#str-y-rpr)
+  - [Excepciones](#excepciones)
+>>>>>>> 3770ba6 (no message)
 
 ## Indentación
 
@@ -1144,7 +1170,11 @@ En este caso, se levantó la excepción ZeroDivisionError cuando se quiso hacer 
 ...
 ```
 
+<<<<<<< HEAD
 Dado que dentro de un mismo bloque try pueden producirse excepciones de distinto tipo, es posible utilizar varios bloques except, cada uno para capturar un tipo distinto de excepción. 
+=======
+Dado que dentro de un mismo bloque try pueden producirse excepciones de distinto tipo, es posible utilizar varios bloques except, cada uno para capturar un tipo distinto de excepción.
+>>>>>>> 3770ba6 (no message)
 
 Esto se hace especificando a continuación de la sentencia except el nombre de la excepción que se pretende capturar. Un mismo bloque except puede atrapar varios tipos de excepciones, lo cual se hace especificando los nombres de la excepciones separados por comas a continuación de la palabra except. Es importante destacar que si bien luego de un bloque try puede haber varios bloques except, se ejecutará, a lo sumo, uno de ellos.
 
