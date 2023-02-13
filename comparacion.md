@@ -4,6 +4,8 @@ Extraído de la :link:[Wikipedia(en). Comparison of programming languages (basic
 
 Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages (syntax)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)).
 
+⚠️ OJO: muchas cosas siguen en inglés. Las estoy traduciendo. Cuidado porque en el examen aparecen estos mismos conceptos en Español (...arreglos...) y me lío.
+
 ## Índice
 
 - [Comparación de lenguajes](#comparación-de-lenguajes)
