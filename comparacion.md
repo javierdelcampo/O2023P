@@ -1,6 +1,8 @@
 # Comparación de lenguajes
 
-Extraído de la :link:[Wikipedia(en)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)), con algunas adiciones y comentarios.
+Extraído de la :link:[Wikipedia(en). Comparison of programming languages (basic instructions)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)), con algunas adiciones y comentarios.
+
+Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages (syntax)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax)).
 
 ## Índice
 
@@ -15,6 +17,8 @@ Extraído de la :link:[Wikipedia(en)](https://en.wikipedia.org/wiki/Comparison_o
     - [Condicionales](#condicionales)
     - [Bucles](#bucles)
     - [Excepciones](#excepciones)
+  - [Librerías y paquetes (import)](#librerías-y-paquetes-import)
+  - [Espacio de nombres](#espacio-de-nombres)
 
 ## Enteros
 
@@ -167,7 +171,7 @@ Extraído de la :link:[Wikipedia(en)](https://en.wikipedia.org/wiki/Comparison_o
 
 |            | while loop                                                                                                         | do while loop                            | (count-controlled) for loop                                                                                                                                                                               | foreach                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| C          | instructions can be a single statement or a block in the form of: { statements }<br>while (condition) instructions | do instructions while (condition);       | for («type» i = first; i <= last; i++) instructions                                                                                                                                                       | —                                                                                               |
+| C          | Las instrucciones puede ir como una sola orden o en bloque como:<br/>{ statements }<br/>while (condition) instructions | do instructions while (condition);       | for («type» i = first; i <= last; i++) instructions                                                                                                                                                       | —                                                                                               |
 | C++        | Ídem                                                                                                               | Ídem                                     | Ídem                                                                                                                                                                                                      | «std::»for_each(start, end, function)<br><br>Desde C++11:<br>for (type item : set) instructions |
 | C#         | Ídem                                                                                                               | Ídem                                     | Ídem                                                                                                                                                                                                      | foreach (type item in set) instructions                                                         |
 | Java       | Ídem                                                                                                               | Ídem                                     | Ídem                                                                                                                                                                                                      | for (type item : set) instructions                                                              |
@@ -188,6 +192,41 @@ Extraído de la :link:[Wikipedia(en)](https://en.wikipedia.org/wiki/Comparison_o
 | PHP        | throw exception;                         | try { instructions } catch (exception) { instructions } ... «finally { instructions }»                                                                 | assert(condition);                                                                                                            |
 | Python     | raise exception                          | try:<br>Tab ↹instructions<br>except «exception»:<br>Tab ↹instructions<br>...<br>«else:<br>Tab ↹instructions»<br>«finally:<br>Tab ↹instructions»        | assert condition                                                                                                              |
 | Powershell | throw exception;                         | trap «[exception]» { instructions } ... instructions<br>or<br>try { instructions } catch «[exception]» { instructions } ... «finally { instructions }» | [Debug]::Assert(condition)                                                                                                    |
+
+## Librerías y paquetes (import)
+
+C, C++: `#include "filename"` / `#include <filename>`
+PHP: `require "filename";`
+
+Importar paquetes:
+C, C++: `#include filename`
+Java: `import package.*`
+JavaScript: `import "modname";`
+
+Importar función:
+JavaScript: `import {function} from "modname";` / `import function from "modname";`
+PHP: `use function Namespace\function_name;`
+
+## Espacio de nombres
+
+Java: `package package_name;`
+C#: `namespace namespace_name {..}`
+PHP (>5.3.0): `namespace foo;`:
+
+```php
+<?php
+namespace foo;
+$a = new \stdClass;
+
+function test(\ArrayObject $parameter_type_example = null) {}
+
+$a = \DirectoryIterator::CURRENT_AS_FILEINFO;
+
+// extending an internal or global class
+class MyException extends \Exception {}
+?>
+```
+
 
 ----
 
