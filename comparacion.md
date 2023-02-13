@@ -227,6 +227,8 @@ class MyException extends \Exception {}
 ?>
 ```
 
+C++: `namespace abc {...}` ... `using namespace abc;`
+
 
 ----
 
