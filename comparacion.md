@@ -1,12 +1,20 @@
 # Comparación de lenguajes
 
+Extraído de la :link:[Wikipedia(en)](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)), con algunas adiciones y comentarios.
+
 ## Índice
 
-* Enteros
-* Coma flotante
-* Otros tipos
-* Array
-* Declaración de variables y constantes
+- [Comparación de lenguajes](#comparación-de-lenguajes)
+  - [Índice](#índice)
+  - [Enteros](#enteros)
+  - [Coma flotante](#coma-flotante)
+  - [Otros tipos](#otros-tipos)
+  - [Array](#array)
+  - [Declaración de variables y constantes](#declaración-de-variables-y-constantes)
+  - [Gestión de flujo](#gestión-de-flujo)
+    - [Condicionales](#condicionales)
+    - [Bucles](#bucles)
+    - [Excepciones](#excepciones)
 
 ## Enteros
 
