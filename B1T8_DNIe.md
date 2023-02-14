@@ -28,6 +28,7 @@ La prestación de estos servicios de validación se realiza en base a ***Online 
 
 Al hablar de vida útil se deben contemplar dos aspectos:
 
+### Tarjeta-soporte
 La validez de la ***tarjeta-soporte*** que, conforme al art. 6 del RD 1553/2005, de 23 de diciembre, modificado por el Real Decreto 869/2013, de 8 de noviembre , tiene los siguientes periodos de validez:
 
 - Dos años, cuando el solicitante no haya cumplido los cinco años de edad.
@@ -35,6 +36,7 @@ La validez de la ***tarjeta-soporte*** que, conforme al art. 6 del RD 1553/2005,
 - Diez años cuando el titular haya cumplido los treinta y no haya alcanzado los setenta.
 - Permanente cuando el titular haya cumplido los setenta años, o se trate de una persona mayor de treinta años que acredite la condición de gran inválido.
 
+### Certificados
 Sus certificados electrónicos ya que, con independencia de lo que establece el artículo 6.1 sobre la validez del Documento Nacional de Identidad, la vigencia de los certificados electrónicos reconocidos incorporados al mismo ***no podrá ser superior a cinco años*** (antes cuatro años) (Real Decreto 414/2015, de 29 de mayo). <ins>OJO</ins>: sólo indica que no pueden ser superiores a 5 años, pero pueden ser de menos (ahora mismo son de <ins>2 años</ins>)
 
 [🛕🇲🇲](https://www.youtube.com/watch?v=S0gyKdl2NzE)
