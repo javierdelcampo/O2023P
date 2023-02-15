@@ -518,12 +518,14 @@ while i < 6:
   while TRUE..do..break)
   ```
   </td>
+  <td>
     No hay. A partir de Python 3.x se puede emular:
     
   ```python
   for item in sequence:
     print(item)
   ```
+  </td>
   </tr>
 </tbody>
 </table>
