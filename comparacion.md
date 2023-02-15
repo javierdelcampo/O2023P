@@ -101,12 +101,32 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 <tbody>
   <tr>
     <td>C</td>
-    <td>if (condition)&nbsp;&lt;codigo&gt;<br>&nbsp;else &lt;codigo&gt;<br>&nbsp;&lt;codigo&gt; puede ser una única orden o un bloque: { órdenes }</td>
-    <td>if (condition)&nbsp;&lt;código&gt;<br>&nbsp;else if (condition) &lt;código&gt;<br>&nbsp;...<br>&nbsp;else &lt;código&gt;<br>&nbsp;o<br>&nbsp;if (condition) &lt;código&gt;<br>&nbsp;else { if (condition) &lt;código&gt; }</td><td>
+    <td>
+
+    if(condición) {
+      // código
+    } else {
+      // código
+    }  
     
-    ```c
-      switch (expression)
-​{
+  </td>
+    <td>
+    
+    if(test_expression) {
+      // código
+    } else if(test_expression n) {
+      // código
+    } else {
+      // código
+    }
+
+    // también soporta sentencias únicas...
+
+  </td>
+    
+  <td>
+    
+    switch (expression) ​{
     case constant1:
       // código
       break;
@@ -116,17 +136,14 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
       break;
     .
     .
-    .
     default:
       // código por defecto
-}
-```
-
-    </td><td>
+    }
+</td>
+    <td>
     
-    condition ? valueIfTrue :&nbsp;valueIfFalse
-    
-    </td>
+      condition ? valueIfTrue :&nbsp;valueIfFalse
+  </td>
   </tr>
   <tr>
     <td>C++</td>
@@ -153,22 +170,102 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
     <td>C#</td>
     <td>Ídem</td>
     <td>Ídem</td>
-    <td>switch (variable)<br>&nbsp;{<br>&nbsp;  case case1:<br>&nbsp;    &nbsp;&lt;código&gt;<br>&nbsp;    &nbsp;«break_or_jump_statement»<br>&nbsp;  ...<br>&nbsp;  «default:<br>&nbsp;    &nbsp;&lt;código&gt;<br>&nbsp;    &nbsp;break_or_jump_statement»<br>&nbsp;}<br>&nbsp;<br>&nbsp;Todos los casos que tengan código deben terminar con un break o goto (es&nbsp;decir, no pueden ir al siguiente caso). El caso por defecto no es necesario&nbsp;que esté al final</td>
+    <td>
+    
+    switch (condicional) {
+      case expression_value1:
+          // código
+      break;
+      case expression_value2:
+          // código
+      break;
+      .
+      .
+      default:
+          // código
+      break;
+    }
+    
+  </td>
     <td>Ídem</td>
   </tr>
   <tr>
     <td>PHP</td>
     <td>Ídem</td>
     <td>Ídem</td>
-    <td>switch (variable) {<br>&nbsp;  case case1: &lt;código&gt; «;break;»<br>&nbsp;  ...<br>&nbsp;  «default: &lt;código&gt;»<br>&nbsp;}</td>
+    <td>
+
+    <?php
+    switch ($i) {
+        case 0:
+            // código
+            break;
+        case 1:
+            // código
+            break;
+        case 2:
+            // código
+            break;
+        ..
+        default:
+            // código
+    }
+
+  </td>
     <td>Ídem</td>
   </tr>
   <tr>
     <td>Python</td>
-    <td>if condition :<br>&nbsp;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;«else:<br>&nbsp;&lt;indentación&gt;&lt;código&gt;</td>
-    <td>if condition :<br>&nbsp;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;elif condition :<br>&nbsp;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;...<br>&nbsp;«else:<br>&nbsp;&lt;indentación&gt;&lt;código&gt;»</td>
-    <td>Python 3.10+:<br>&nbsp;match variable:<br>&nbsp;&lt;indentación&gt;case case1:<br>&nbsp;&lt;indentación&gt;&lt;indentación&gt;&lt;código&gt;<br>&nbsp;&lt;indentación&gt;case case2:<br>&nbsp;&lt;indentación&gt;&lt;indentación&gt;&lt;código&gt;</td>
-    <td>Python 2.5+:<br>&nbsp;valueIfTrue if condition else valueIfFalse</td>
+    <td>
+
+  ```python
+  if condition:
+    # código (ojo al indentado)
+  else
+    # código
+  ```
+    
+   </td>
+    <td>
+
+  ```python
+  if condition1:
+    # código
+
+  elif condition2:
+    # código
+
+  else: 
+    # código
+  ```
+
+   </td>
+    <td>Python 3.10+: match, caso '_'
+
+  ```python  
+  def http_status(status):
+    match status:
+        case 400:
+            return "Bad request"
+        case 401:
+            return "Unauthorized"
+        ..
+        case _:
+            return "Other error"
+  ```
+
+  </td>
+    <td>Python 2.5+:
+    
+  ```python
+  valor_si_verdadero if condicion else valor_si_falso
+  
+  # Ejemplo:
+  
+  is_nice = True
+  state = "nice" if is_nice else "not nice"
+  ```
+  </td>
   </tr>
   <tr>
     <td>Z80</td>
@@ -193,15 +290,146 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 
 ### Bucles
 
-|            | while loop                                                                                                         | do while loop                            | (count-controlled) for loop                                                                                                                                                                               | foreach                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| C          | Las instrucciones puede ir como una sola orden o en bloque como:<br/>{ statements }<br/>while (condition) instructions | do instructions while (condition);       | for («type» i = first; i <= last; i++) instructions                                                                                                                                                       | —                                                                                               |
-| C++        | Ídem                                                                                                               | Ídem                                     | Ídem                                                                                                                                                                                                      | «std::»for_each(start, end, function)<br><br>Desde C++11:<br>for (type item : set) instructions |
-| C#         | Ídem                                                                                                               | Ídem                                     | Ídem                                                                                                                                                                                                      | foreach (type item in set) instructions                                                         |
-| Java       | Ídem                                                                                                               | Ídem                                     | Ídem                                                                                                                                                                                                      | for (type item : set) instructions                                                              |
-| JavaScript | Ídem                                                                                                               | Ídem                                     | for (var i = first; i <= last; i++) instructions                                                                                                                                                          | Desde EcmaScript 2015:<br>for (var item of set) instructions                                    |
-| PHP        | Ídem                                                                                                               | Ídem                                     | foreach (range(first, last) as $i) instructions<br><br>o<br><br>for ($i = first; $i <= last; $i++) instructions                                                                                           | foreach (set as item) instructions<br><br>or<br><br>foreach (set as key => item) instructions   |
-| Python     | while condition :<br>Tab ↹instructions<br>«else:<br>Tab ↹instructions»                                             | —  (emular con un while TRUE..do..break) | Python 3.x:<br>for i in range(first, last+1):<br>Tab ↹instructions<br>«else:<br>Tab ↹instructions»<br>Python 2.x:<br>for i in xrange(first, last+1):<br>Tab ↹instructions<br>«else:<br>Tab ↹instructions» | for item in set:<br>Tab ↹instructions<br>«else:<br>Tab ↹instructions»                           |
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>while</th>
+    <th>do while</th>
+    <th>for</th>
+    <th>foreach</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>C</td>
+    <td>
+    
+  ```c
+  while (condición) { 
+    // código
+  }
+  ```
+  </td>
+    <td>
+    
+  ```c
+  do { 
+    // código 
+  } while (condicion)
+  ```
+    
+  </td>
+    <td>
+    
+  ```c
+  for (<tipo> i = <primero>; i = <último>; i++) 
+      instructions
+      
+  for (expresión inicial; expresión condicional; condición final) {
+    // código
+  }
+  
+  // las tres expresiones son CONDICIONALES
+  for {;;} {} // Esto es válido
+  
+  for (;1<1;) { // Esto también es válido
+      printf("Hello world!\n");
+  }  // No imprime nada (1<1)
+  ```
+  </td>
+  <td>—</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>
+    
+  ```c
+  std::for_each (InputIterator first, InputIterator last, Function fn);
+  ```
+    
+  </td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>
+
+    ```c#  
+    foreach (type item in set) instrucciones
+    ```
+    
+  </td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>
+
+    ```java  
+    for (type item : set) instrucciones
+    ```
+  </td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>
+    
+  ```javascript
+    for (var i = primero; i<=último; i++) instrucciones
+  ```
+  </td>
+  <td>
+  
+```javascript
+const array1 = ['a', 'b', 'c'];
+
+for (const elemento of array1) {
+  console.log(elemento);
+}
+// Salida: "a"
+// Salida: "b"
+// Salida: "c"
+
+```
+
+```javascript
+let numeros = [3, 6, 8]
+numeros.forEach(function(numero) {
+  console.log(numero)
+}
+// Salida: 3
+// Salida: 6
+// Salida: 8
+```
+
+  </td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Ídem</td>
+    <td>Ídem</td>
+    <td>foreach (range(first, last) as&nbsp;&nbsp;&nbsp;$i) instructions</td>
+    <td>foreach (set as item)&nbsp;&nbsp;&nbsp;instructions</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>while condition :</td>
+    <td>—  (emular con un while&nbsp;&nbsp;&nbsp;TRUE..do..break)</td>
+    <td>Python 3.x:</td>
+    <td>for item in set:</td>
+  </tr>
+</tbody>
+</table>
 
 ### Excepciones
 
