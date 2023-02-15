@@ -519,6 +519,34 @@ while i < 6:
   ```
   </td>
   <td>
+
+  ```python
+  fruits = ["apple", "banana", "cherry"]
+  for x in fruits:
+    print(x)
+    ```
+  Se pueden recorrer strings
+  ```python
+  for x in "banana":
+    print(x)
+  ```
+
+  ```python
+  # Imprime apple, banana y sale
+  fruits = ["apple", "banana", "cherry"]
+  for x in fruits:
+    print(x)
+    if x == "banana":
+      break
+  ```
+
+  ```python
+  # Imprime del 1 al 6
+  for x in range(6):
+    print(x)
+  ```
+  </td>
+  <td>
     No hay. A partir de Python 3.x se puede emular:
     
   ```python
