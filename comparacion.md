@@ -385,7 +385,8 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
     <td>
     
   ```javascript
-    for (var i = primero; i<=último; i++) instrucciones
+    for (var i = primero; i<=último; i++) 
+      instrucciones
   ```
   </td>
   <td>
@@ -418,8 +419,75 @@ numeros.forEach(function(numero) {
     <td>PHP</td>
     <td>Ídem</td>
     <td>Ídem</td>
-    <td>foreach (range(first, last) as&nbsp;&nbsp;&nbsp;$i) instructions</td>
-    <td>foreach (set as item)&nbsp;&nbsp;&nbsp;instructions</td>
+    <td>
+    
+```php
+<?php
+// Mostrar mensajes del 1 al 10
+/* Ejemplo 1 */
+for ($i = 1; $i <= 10; $i++) {
+    echo $i;
+}
+
+/* Ejemplo 2 */
+for ($i = 1; ; $i++) {
+    if ($i > 10) {
+        break;
+    }
+    echo $i;
+}
+
+/* Ejemplo 3 */
+$i = 1;
+for (; ; ) {
+    if ($i > 10) {
+        break;
+    }
+    echo $i;
+    $i++;
+}
+
+/* Ejemplo 4 */
+for ($i = 1, $j = 0; $i <= 10; $j += $i, print $i, $i++);
+?>
+```
+    
+  </td>
+  <td>
+
+  ```php
+  <?php
+  // Del 0 al 2 con salto de 1 (por defecto)
+  foreach (range(0, 2) as $number) {
+      echo $number;
+  }
+
+  echo "\n";
+
+  // A saltos (del 0 al 20 con saltos de 10)
+  // array(0, 10, 20)
+  foreach (range(0, 20, 10) as $number) {
+      echo $number;
+  }
+
+  echo "\n";
+
+  // Secuencias de letras
+  // array('a', 'b', 'c');
+  foreach (range('a', 'c') as $letter) {
+      echo $letter;
+  }
+
+  echo "\n";
+
+  // Al revés
+  foreach (range('c', 'a') as $letter) {
+      echo $letter;
+  }
+  ?>
+  ``` 
+
+  </td>
   </tr>
   <tr>
     <td>Python</td>
