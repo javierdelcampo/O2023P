@@ -491,10 +491,39 @@ for ($i = 1, $j = 0; $i <= 10; $j += $i, print $i, $i++);
   </tr>
   <tr>
     <td>Python</td>
-    <td>while condition :</td>
-    <td>—  (emular con un while&nbsp;&nbsp;&nbsp;TRUE..do..break)</td>
-    <td>Python 3.x:</td>
-    <td>for item in set:</td>
+    <td>
+    
+```python
+  # Imprime del 1 al 5
+  i = 1
+  while i < 6:
+    print(i)
+    i += 1
+```
+
+```python
+# Imprime del 1 al 3 (break)
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1 
+```
+
+  </td>
+    <td> No existe. Se puede emular con un while:
+    
+  ```python
+  while TRUE..do..break)
+  ```
+  </td>
+    No hay. A partir de Python 3.x se puede emular:
+    
+  ```python
+  for item in sequence:
+    print(item)
+  ```
   </tr>
 </tbody>
 </table>
