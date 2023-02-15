@@ -26,6 +26,7 @@ He adaptado, ampliado (y reducido) y traducido de aquí: [Python Refresher](http
     - [Espacio de nombres (Namespaces)](#espacio-de-nombres-namespaces)
     - [Funciones](#funciones)
     - [Argumentos](#argumentos)
+    - [Métodos](#métodos)
   - [args y kwargs](#args-y-kwargs)
   - [Tipado dinámico y anotaciones de tipos](#tipado-dinámico-y-anotaciones-de-tipos)
   - [Métodos especiales de Python](#métodos-especiales-de-python)
@@ -1026,6 +1027,23 @@ f(a=1)  # Permitido, es un argumento por palabra clave
 # De hecho esta funcion equivale a:
 def f(*, a, /):
     pass
+```
+
+### Métodos
+
+Sintácticamente, los métodos de Python son similares a las funciones (`def(...)`), pero se definen dentro de clases y tiene algunas particularidades:
+
+- Se definen dentro de clases.
+- La definición siempre incluye `self` como su primer parámetro.
+- Se llama con el operador `.` (p.e. `coche.sonido()`).
+
+```python
+class Coche:
+    def sonido(self):
+        print "Vroooom"
+
+ferrari = Coche()
+ferrari.sonido()  # llamada al método 'sonido' en el objeto Ferrari
 ```
 
 ## args y kwargs

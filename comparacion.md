@@ -24,7 +24,7 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 
 ## Enteros
 
-|                                                                                                                                  | 8 bit (byte) | 16 bit (short integer) | 32 bit  | 64 bit (long integer) | Tamaño palabra | Arbitrary precise (bignum) |
+|                                                                                                                                  | 8 bit (byte) | 16 bit (short integer) | 32 bit  | 64 bit (long integer) | Tamaño palabra | Precisión arbitraria (bignum) |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------- | ------- | --------------------- | -------------- | -------------------------- |
 |                                                                                                                                  | Signed       | Unsigned               | Signed  | Unsigned              | Signed         | Unsigned                   | Signed | Unsigned | Signed | Unsigned |  |
 | C (C99) - C++ (C++11) (fixed width)                                                                                              | int8_t       | uint8_t                | int16_t | uint16_t              | int32_t        | uint32_t                   | int64_t | uint64_t | intptr_t | size_t | — |
@@ -37,7 +37,7 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 
 ## Coma flotante
 
-|                   | Single precision | Double precision | Other precision |
+|                   | Precisión sencilla | Precisión doble | Otra precisión |
 | ----------------- | ---------------- | ---------------- | --------------- |
 | C                 | float[b]         | double           | long double[f]  |
 | C++ (STL)         | float[b]         | double           | long double[f]  |
@@ -49,7 +49,7 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 
 ## Otros tipos
 
-|                   | Character     | String | Boolean | Enumeration                                                                                | Object/Universal           |
+|                   | Carácter     | String | Boolean | Enumeration                                                                                | Object/Universal           |
 | ----------------- | ------------- | ------------------ | ------- | ------------------------------------------------------------------------------------------ | -------------------------- |
 | C (C99)           | char, wchar_t | —                  | bool[b] | enum «name» { item1, item2, ... };                                                         | void \*                    |
 | C++ (STL)         | char, wchar_t | «std::»string      | bool[b] | enum «name» { item1, item2, ... };                                                         | void \*                    |
@@ -63,26 +63,26 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 
 |                   | Array unidimensional fijo       | Array multidimensional fijo | Array unidimensional dinámico                                                  | Array multidimensional dinámico |
 | ----------------- | ------------------------------- | --------------------------- | ------------------------------------------------------------------------------ | ------------------------------- |
-| C (C99)           | type name[size][a]              | type name[size1][size2][a]  | type \*name<br>or within a block:<br>int n = ...; type name[n]                 | —                               |
-| C++ (STL)         | «std::»array<type, size>(C++11) | «std::»vector<type>         | «std::»vector<type>                                                            |
-| C#                | type[]                          | type[,,...]                 | System.Collections.ArrayList<br>o<br>System.Collections.Generic.List<type>     | —                               |
-| Visual Basic .NET | type()                          | type(,,...)                 | System.Collections.ArrayList<br>or<br>System.Collections.Generic.List(Of type) | —                               |
-| Java              | type[][b]                       | type[][]...[b]              | ArrayList or ArrayList<type>                                                   |                                 |
+| C (C99)           | type name[size][a]              | `type name[size1][size2][a]  | type \*name`<br>o en un bloque:<br>`int n = ...; type name[n]`                 | —                               |
+| C++ (STL)         | `std::array<type, size>`(C++11) | `std::vector`<type>         | `std::vector`<type>                                                            |
+| C#                | type[]                          | type[,,...]                 | `System.Collections.ArrayList`<br>o<br>`System.Collections.Generic.List`<type>     | —                               |
+| Visual Basic .NET | type()                          | type(,,...)                 | `System.Collections.ArrayList`<br>or<br>`System.Collections.Generic.List(Of type)` | —                               |
+| Java              | type[][b]                       | type[][]...[b]              | `ArrayList` o `ArrayList`<type>                                                   |                                 |
 | JavaScript        | —                               | —                           | Array                                                                          | Array                           |
 | PHP               | —                               | —                           | array                                                                          | —                               |
 
 ## Declaración de variables y constantes
 
-|                   | variable                                                                                                                                         | constant                                                                                             | type synonym          |
+|                   | variable                                                                                                                                         | constante                                                                                             | Sinónimo          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | --------------------- |
-| C (C99)           | type name« = initial_value»;                                                                                                                     | enum{ name = value };                                                                                | typedef type synonym; |
-| C++               | type name« = initial_value»;                                                                                                                     | const type name = value;                                                                             | typedef type synonym; |
-| C#                | type name« = initial_value», name« = initial_value», ...;<br>or<br>var name = initial_value;                                                     | const type name = value, name = value, ...;<br>or<br>readonly type name = value, name = value, ... ; | using synonym = type; |
+| C (C99)           | type name = initial_value;                                                                                                                     | `enum{ name = value };`                                                                                | `typedef type synonym;` |
+| C++               | type name = initial_value;                                                                                                                     | const type name = value;                                                                             | `typedef type synonym;` |
+| C#                | `type name = initial_value, name« = initial_value, ...;`<br> o <br>`var name = initial_value;`                                                     | `const type name = value, name = value, ...;`<br>o<br>`readonly type name = value, name = value, ... ;` | `using synonym = type;` |
 | Visual Basic .NET | [Un cirio infumable…](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)#Variable_and_constant_declarations) |                                                                                                      |                       |
-| Java              | type name« = initial_value»;                                                                                                                     | final type name = value;                                                                             | —                     |
-| JavaScript        | var name« = initial_value»; or<br>let name« = initial_value»; (since ECMAScript 2015)                                                            | const name = value; (since ECMAScript 2015)                                                          | —                     |
-| PHP               | $name = initial_value;                                                                                                                           | define("name", value);<br>const name = value (5.3+)                                                  | —                     |
-| Python            | name«: type» = initial_value                                                                                                                     | —                                                                                                    | synonym = type        |
+| Java              | `type name = initial_value;`                                                                                                                     | `final type name = value;`                                                                             | —                     |
+| JavaScript        | `var name = initial_value;`<br/>o<br/>`let name = initial_value;` (desde ECMAScript 2015)                                                            | `const name = value;` (desde ECMAScript 2015)                                                          | —                     |
+| PHP               | `$name = initial_value;`                                                                                                                           | `define("name", value);`<br>`const name = value` (5.3+)                                                  | —                     |
+| Python            | `name: type = initial_value`                                                                                                                     | —                                                                                                    | `synonym = type`        |
 
 ## Gestión de flujo
 
@@ -101,10 +101,32 @@ Más comparaciones en :link:[Wikipedia(en). Comparison of programming languages 
 <tbody>
   <tr>
     <td>C</td>
-    <td>if (condition)&nbsp;&lt;codigo&gt;<br>&nbsp;«else &lt;codigo&gt;»<br>&nbsp;&lt;codigo&gt; puede ser una única orden o un bloque: { órdenes }</td>
-    <td>if (condition)&nbsp;&lt;código&gt;<br>&nbsp;else if (condition) &lt;código&gt;<br>&nbsp;...<br>&nbsp;«else &lt;código&gt;»<br>&nbsp;o<br>&nbsp;if (condition) &lt;código&gt;<br>&nbsp;else { if (condition) &lt;código&gt; }</td>
-    <td>switch (variable) {<br>&nbsp;  case case1: &lt;código&gt; «;break;»<br>&nbsp;  ...<br>&nbsp;  «default: &lt;código&gt;»<br>&nbsp;}</td>
-    <td>condition ? valueIfTrue :&nbsp;valueIfFalse</td>
+    <td>if (condition)&nbsp;&lt;codigo&gt;<br>&nbsp;else &lt;codigo&gt;<br>&nbsp;&lt;codigo&gt; puede ser una única orden o un bloque: { órdenes }</td>
+    <td>if (condition)&nbsp;&lt;código&gt;<br>&nbsp;else if (condition) &lt;código&gt;<br>&nbsp;...<br>&nbsp;else &lt;código&gt;<br>&nbsp;o<br>&nbsp;if (condition) &lt;código&gt;<br>&nbsp;else { if (condition) &lt;código&gt; }</td><td>
+    
+    ```c
+      switch (expression)
+​{
+    case constant1:
+      // código
+      break;
+
+    case constant2:
+      // código
+      break;
+    .
+    .
+    .
+    default:
+      // código por defecto
+}
+```
+
+    </td><td>
+    
+    condition ? valueIfTrue :&nbsp;valueIfFalse
+    
+    </td>
   </tr>
   <tr>
     <td>C++</td>
