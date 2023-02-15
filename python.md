@@ -22,6 +22,10 @@ He adaptado, ampliado (y reducido) y traducido de aquí: [Python Refresher](http
   - [Generators](#generators)
   - [Aleatoriedad](#aleatoriedad)
   - [Fusión (zip)](#fusión-zip)
+  - [Espacios de nombres y funciones](#espacios-de-nombres-y-funciones)
+    - [Espacio de nombres (Namespaces)](#espacio-de-nombres-namespaces)
+    - [Funciones](#funciones)
+    - [Argumentos](#argumentos)
   - [args y kwargs](#args-y-kwargs)
   - [Tipado dinámico y anotaciones de tipos](#tipado-dinámico-y-anotaciones-de-tipos)
   - [Métodos especiales de Python](#métodos-especiales-de-python)
@@ -920,14 +924,118 @@ El operador especial asterisco (*) realiza una operación llamada 'desempaquetad
 assert list(zip(*pairs)) == list(zip((1, 'one'), (2, 'two'), (3, 'three')))
 ```
 
+## Espacios de nombres y funciones
+
+### Espacio de nombres (Namespaces)
+
+Un espacio de nombres o 'namespace' es una parte de un programa en el que los identificadores tienen sentido. Es decir, por ejemplo, cuando se llama a una función, se crea un nuevo espacio de nombres para dicha función (algo común en todos los lenguajes que soportan espacios de nombres). 
+
+### Funciones
+
+Una función en Python se define con `def <nombre_función>(<argumentos_opcionales>):`
+
+```python
+def f():
+    s = 'En la función f()'
+    print(s)
+```
+
+ El cuerpo de la función es el bloque de código que está indentado dentro de la cabecera ```def```. Recordemos que en Python los bloques se definen por las indentaciones (en Java con { .. }).
+
+### Argumentos
+
+[:link: Extraído de aquí](https://aulasoftwarelibre.github.io/taller-de-python/Python_Avanzado/Argumentos/)
+
+Existen cuatro tipos de argumentos:
+
+- Argumentos posicionales. Pueden llamar por su posición en la definición de la función.
+- De palabras. Argumentos que se pueden llamar por su nombre.
+- Obligatorios. Argumentos que se deben pasar a la función.
+- Opcionales. Argumentos que no es necesario especificar (tienen un valor ya predeterminado dentro de la función).
+
+A continuación, algunos ejemplos (un poco rebuscados):
+
+```python
+# Tres llamadas VALIDAS a la misma función 'areaRectangulo'
+def areaRectangulo(ancho, alto):
+    return ancho * alto
+
+areaRectangulo(1, 2) # positional arguments
+areaRectangulo(alto=2, ancho=1)# keyword arguments
+areaRectangulo(ancho=1, alto=2)# keyword arguments
+```
+
+```python
+# Argumento posicional que es opcional
+def f(a=2, /):
+    pass
+
+f()  # Permitido, el argumento es opcional
+f(1)  # Permitido, el argumento es posicional
+f(a=1)  # ERROR, es un argumento únicamente posicional
+```
+
+```python
+def f(a, /):
+    pass
+
+f()  # ERROR, el argumento es REQUERIDO
+f(1)  # Permitido, el argumento es posicional
+f(a=1)  # ERROR, es un argumento únicamente posicional
+```
+
+```python
+def f(*, a=1):
+    pass
+
+f()  # Permitido
+f(1)  # ERROR, argumento únicamente por palabra clave
+f(a=1)  # Permitido, es un argumento por palabra clave
+```
+
+```python
+def f(*, a)
+    pass
+
+f()  # ERROR, se requiere un argumento
+f(1)  # ERROR, argumentos únicamente por palabra clave
+f(a=1)  # Permitido, es un argumento por palabra clave
+```
+
+```python
+def f(a=1)
+    pass
+
+f()  # Permitido, el argumento es opcional
+f(1)  # Permitido, es un argumento posicional
+f(a=1)  # Permitido, es un argumento por palabra clave
+
+# De hecho, esta funcion equivale a:
+def f(*, a=1, /):
+    pass
+```
+
+```python
+def f(a):
+    pass
+
+f()  # ERROR, el argumento es requerido
+f(1)  # Permitido, es un argumento posicional
+f(a=1)  # Permitido, es un argumento por palabra clave
+
+# De hecho esta funcion equivale a:
+def f(*, a, /):
+    pass
+```
+
 ## args y kwargs
 
 El desempaquetado de argumentos es útil si quieres definir una función con un número desconocido de argumentos.
 
 ```python
 
-# Puedes definir funciones que tomen un número variable
-# de argumentos 
+# Puedes definir funciones que tomen un número 
+# variable de argumentos 
 def varargs(*args):
     return args
 
