@@ -880,11 +880,15 @@ Thunderbolt 4 y USB4 son compatibles funcionalmente y complementarios. TB4 está
 </tbody>
 </table>
 
+[👧🏽](https://youtu.be/ToXGVcrgNZA?t=23)
+
 ## CCN
 
 <table>
 <thead>
   <tr>
+    <th>Aplicación</th>
+    <th>Uso</th>
     <th>Aplicación</th>
     <th>Uso</th>
   </tr>
@@ -893,98 +897,77 @@ Thunderbolt 4 y USB4 son compatibles funcionalmente y complementarios. TB4 está
   <tr>
     <td>ADA</td>
     <td>Análisis avanzado malware</td>
-  </tr>
-  <tr>
-    <td>Amparo</td>
-    <td>Implantación de seguridad y conformidad ENS</td>
-  </tr>
-  <tr>
-    <td>Ana</td>
-    <td>Automatización normalización auditorías</td>
-  </tr>
-  <tr>
-    <td>Carla</td>
-    <td>Protección y traza del dato</td>
-  </tr>
-  <tr>
-    <td>Carmen</td>
-    <td>Defensa amenazas persistentes avanzadas (APT)</td>
-  </tr>
-  <tr>
-    <td>CCNDroid Wiper</td>
-    <td>Borrado seguro Android</td>
-  </tr>
-  <tr>
-    <td>CCNDroid Crypter</td>
-    <td>Cifrado ficheros Android</td>
-  </tr>
-  <tr>
-    <td>Clara</td>
-    <td>Auditoría de Cumplimiento ENS/STIC Windows y Linux</td>
-  </tr>
-  <tr>
-    <td>Claudia</td>
-    <td>Detección amenazas puesto trabajo. Endpoint integrado con Carmen</td>
-  </tr>
-  <tr>
-    <td>microClaudia</td>
-    <td>Protección contra ransomware Windows</td>
-  </tr>
-  <tr>
-    <td>Elena</td>
-    <td>Simulador de Técnicas de Cibervigilancia (Cyber range)</td>
-  </tr>
-  <tr>
-    <td>Emma</td>
-    <td>Control de acceso a las infraestructuras de red</td>
-  </tr>
-  <tr>
     <td>Gloria</td>
     <td>SIEM. Gestión de incidentes y amenazas de ciberseguridad</td>
   </tr>
   <tr>
+    <td>Amparo</td>
+    <td>Implantación de seguridad y conformidad ENS</td>
     <td>INES</td>
     <td>Informe de Estado de Seguridad en el ENS</td>
   </tr>
   <tr>
+    <td>Ana</td>
+    <td>Automatización normalización auditorías</td>
     <td>IRIS</td>
     <td>Estado en tiempor real de la ciberseguridad del sector público y la&nbsp;&nbsp;&nbsp;situación de la ciberamenaza a nivel nacional</td>
   </tr>
   <tr>
+    <td>Carla</td>
+    <td>Protección y traza del dato</td>
     <td>Loreto</td>
     <td>Almacenamiento en la nube</td>
   </tr>
   <tr>
+    <td>Carmen</td>
+    <td>Defensa amenazas persistentes avanzadas (APT)</td>
     <td>Lucía</td>
     <td>Gestión de Ciberincidentes</td>
   </tr>
   <tr>
+    <td>CCNDroid Wiper</td>
+    <td>Borrado seguro Android</td>
     <td>Marta</td>
     <td>Nulti sandbox para análisis automatizado ficheros</td>
   </tr>
   <tr>
+    <td>CCNDroid Crypter</td>
+    <td>Cifrado ficheros Android</td>
     <td>Mónica</td>
     <td>Gestión de eventos e información de seguridad</td>
   </tr>
   <tr>
+    <td>Clara</td>
+    <td>Auditoría de Cumplimiento ENS/STIC Windows y Linux</td>
     <td>Olvido</td>
     <td>Borrado seguro disco y sistemas de archivos</td>
   </tr>
   <tr>
+    <td>Claudia</td>
+    <td>Detección amenazas puesto trabajo. Endpoint integrado con Carmen</td>
     <td>Pilar</td>
     <td>Análisis y gestión riesgos (Pilar, Pilar Basic, Pico Pilar, RMAT)</td>
   </tr>
   <tr>
+    <td>microClaudia</td>
+    <td>Protección contra ransomware Windows</td>
     <td>Reyes</td>
     <td>Intercambio de Información de Ciberamenazas</td>
   </tr>
   <tr>
+    <td>Elena</td>
+    <td>Simulador de Técnicas de Cibervigilancia (Cyber range)</td>
     <td>Rocío</td>
     <td>Inspección de Operación. Auditoría de configuraciones de&nbsp;&nbsp;&nbsp;&lt;ins&gt;dispositivos de red&lt;/ins&gt;</td>
   </tr>
   <tr>
+    <td>Emma</td>
+    <td>Control de acceso a las infraestructuras de red</td>
     <td>Vanesa</td>
     <td>Grabaciones y emisiones de vídeo en streaming</td>
   </tr>
 </tbody>
 </table>
+
+
+[:ear: :eyes:](https://www.youtube.com/watch?v=WoDamvrfUbQ)
