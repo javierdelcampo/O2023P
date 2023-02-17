@@ -560,17 +560,134 @@ while i < 6:
 
 ### Excepciones
 
-|            | throw                                    | handler                                                                                                                                                | assertion                                                                                                                     |
-| ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| C (C99)    | longjmp(state, exception);               | switch (setjmp(state)) { case 0: instructions break; case exception: instructions ... }                                                                | assert(condition);                                                                                                            |
-| C++        | throw exception;                         | try { instructions } catch «(exception)» { instructions } …                                                                                            | assert(condition);                                                                                                            |
-| C#         | throw exception;                         | try { instructions } catch «(exception« name»)» { instructions } ... «finally { instructions }»                                                        | System.Diagnostics.Debug.Assert(condition);<br>or<br>System.Diagnostics.Trace.Assert(condition);                              |
-| VB .NET     | Throw exception<br>or<br>Error errorcode | Try<br>  instructions<br>Catch« name As exception»« When condition»<br>  instructions<br>...<br>«Finally<br>  instructions»<br>End Try                 | System.Diagnostics.Debug.Assert(condition)<br>or<br>System.Diagnostics.Trace.Assert(condition)                                |
-| Java       | throw exception;                         | try { instructions } catch (exception) { instructions } ... «finally { instructions }»                                                                 | assert condition «: description»;                                                                                             |
-| JavaScript | throw exception;                         | try { instructions } catch (exception) { instructions} «finally { instructions }»                                                                      | [No hay un assert estándar. Utilizar una librería](https://stackoverflow.com/questions/15313418/what-is-assert-in-javascript) |
-| PHP        | throw exception;                         | try { instructions } catch (exception) { instructions } ... «finally { instructions }»                                                                 | assert(condition);                                                                                                            |
-| Python     | raise exception                          | try:<br>Tab ↹instructions<br>except «exception»:<br>Tab ↹instructions<br>...<br>«else:<br>Tab ↹instructions»<br>«finally:<br>Tab ↹instructions»        | assert condition                                                                                                              |
-| Powershell | throw exception;                         | trap «[exception]» { instructions } ... instructions<br>or<br>try { instructions } catch «[exception]» { instructions } ... «finally { instructions }» | [Debug]::Assert(condition)                                                                                                    |
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>throw</th>
+    <th>handler</th>
+    <th>assertion</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>C (C99)</td>
+    <td>
+    
+  ```c
+  longjmp(state, exception);
+  ```
+  </td>
+    <td>
+
+  ```c
+  switch (setjmp(state)) { 
+    case 0:
+      instructions...;
+      break; 
+    case exception: 
+      instructions ... 
+    }
+  ```
+  </td>
+    <td>
+
+  ```c  
+  assert(condition);
+  ```
+  </td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>
+    
+  ```c  
+  throw exception;
+  ```
+  </td>
+    <td>
+
+  ```c
+  try {
+    // Código a probar
+  throw exception; // Excepción
+  }
+  catch () {
+    // Gestión del error
+  } 
+  ```
+  </td>
+    <td>
+
+    ```c
+    assert(condition);
+    ```
+  </td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>
+    
+  ```c++
+    throw exception;
+  ```
+  </td>
+    <td>
+
+  ```c++
+  try {
+    // Código a probar
+  throw exception; // Excepción
+  }
+  catch () {
+    // Gestión del error
+  } 
+  ```
+  </td>
+    <td>System.Diagnostics.Debug.Assert(condition);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.Diagnostics.Trace.Assert(condition);</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td>VB .NET</td>
+    <td>Throw exception<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Error errorcode</td>
+    <td>Try<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  instructions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Catch« name As exception»« When condition»<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  instructions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«Finally<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  instructions»<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End Try</td>
+    <td>System.Diagnostics.Debug.Assert(condition);<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.Diagnostics.Trace.Assert(condition);</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>throw exception;</td>
+    <td>try { instructions } catch&nbsp;&nbsp;&nbsp;(exception) { instructions } ... «finally { instructions }»</td>
+    <td>assert condition «:&nbsp;&nbsp;&nbsp;description»;</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>throw exception;</td>
+    <td>try { instructions } catch&nbsp;&nbsp;&nbsp;(exception) { instructions} «finally { instructions }»</td>
+    <td><a href="https://stackoverflow.com/questions/15313418/what-is-assert-in-javascript">No hay un assert estándar. Utilizar una librería</a></td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>throw exception;</td>
+    <td>try { instructions } catch&nbsp;&nbsp;&nbsp;(exception) { instructions } ... «finally { instructions }»</td>
+    <td>assert(condition);</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>raise exception</td>
+    <td>try:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tab ↹instructions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;except «exception»:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tab ↹instructions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«else:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tab ↹instructions»<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«finally:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tab ↹instructions»</td>
+    <td>assert condition</td>
+  </tr>
+  <tr>
+    <td>Powershell</td>
+    <td>throw exception;</td>
+    <td>trap «[exception]» {&nbsp;&nbsp;&nbsp;instructions } ... instructions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try { instructions } catch «[exception]» { instructions } ... «finally {&nbsp;&nbsp;&nbsp;instructions }»</td>
+    <td>[Debug]::Assert(condition)</td>
+  </tr>
+</tbody>
+</table>
 
 ## Librerías y paquetes (import)
 
