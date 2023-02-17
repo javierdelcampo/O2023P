@@ -1,11 +1,13 @@
-# Tema I. Bloque 7. Políticas de igualdad de género. Discapacidad y dependencia 
+# Tema I. Bloque 7. Políticas de igualdad de género. Discapacidad y dependencia
 
 ## LO 3/2007 para la igualdad efectiva de mujeres y hombres
+
 Elaboración del Plan Estratégico de Igualdad de Oportunidades.
 
 Obligatoriedad de elaborar un Plan de Igualdad si la empresa tiene 50 o más trabajadores (marzo-22). Opcional para el resto (<50) de acuerdo con representación legal de trabajadores.
 
 ### Planes de igualdad (con modificaciones RD 6/2019)
+
 - 2007, es obligatorio para las empresas de más de 250 personas trabajadoras.
 - 7 de marzo de 2020 es obligatorio para las empresas con más de 150 y hasta 250 personas trabajadoras.
 - 7 de marzo de 2021 es obligatorio para las empresas con más de 100 y hasta 150 personas trabajadoras.
@@ -14,6 +16,7 @@ Obligatoriedad de elaborar un Plan de Igualdad si la empresa tiene 50 o más tra
 Infracción ***muy grave***: no elaborar o no aplicar el plan de igualdad, o hacerlo incumpliendo manifiestamente los términos previstos.
 
 Esta infracción muy grave conlleva sanciones económicas que pueden ir desde los 6.251 Euros a los 187.515 Euros. Adicionalmente:
+
 - Sanciones accesorias.
 - Prohibido contratar en el sector público.
 
@@ -22,6 +25,7 @@ Se redacta en el seno de una **Comisión Negociadora del Plan de Igualdad**.
 Se crea un **Registro de Planes de Igualdad de las Empresas** -> Dirección General de Trabajo del Ministerio de Trabajo, Migraciones y Seguridad Social y de las Autoridades Laborales de las Comunidades Autónomas.
 
 Contenido de los planes:
+
 - a. Proceso de selección y contratación.
 - b. Clasificación profesional.
 - c. Formación.
@@ -33,7 +37,9 @@ Contenido de los planes:
 - i. Prevención del acoso sexual y por razón de sexo.
 
 ### principio de igualdad en el empleo público
+
 Las **Administraciones públicas**, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán:
+
 - a. Remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación con el fin de ofrecer condiciones de **igualdad efectiva entre mujeres y hombres en el acceso al empleo público y en el desarrollo de la carrera profesional**.
 - b. Facilitar la **conciliación de la vida personal, familiar y laboral**, sin menoscabo de la promoción profesional.
 - c. Fomentar la **formación en igualdad**, tanto en el acceso al empleo público como a lo largo de la carrera profesional.
@@ -45,6 +51,7 @@ Las **Administraciones públicas**, en el ámbito de sus respectivas competencia
 [👤👤👤👤👤](https://www.youtube.com/watch?v=ExtI7Xx_-kc)
 
 ### Otros
+
 La aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de un informe de impacto de género.
 La normativa aplicable a los (Organismos Públicos) establecerá un régimen de excedencias, reducciones de jornada, permisos u otros beneficios con el fin de proteger la maternidad y facilitar la conciliación de la vida personal, familiar y laboral. Con la misma finalidad se reconocerá un permiso de paternidad.
 Cuando las condiciones del puesto de trabajo de una funcionaria ... pudieran influir negativamente en la salud de la mujer, del hijo e hija, podrá concederse **licencia por riesgo durante el embarazo**. En estos casos, se garantizará la plenitud de los derechos económicos de la funcionaria durante toda la duración de la licencia. Será también de aplicación durante el **período de lactancia natural**.
