@@ -14,7 +14,7 @@ public class testJava {
 }
 ´´´
 
-´´´java
+```java
 class Clasception {
 
     public Clasception() {
@@ -30,4 +30,4 @@ class Clasception {
         }
     }
 }
-´´´
+```
