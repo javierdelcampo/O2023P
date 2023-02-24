@@ -1,6 +1,6 @@
 console.clear();
-console.log('Ejemplos de operadores');
-console.log('----------------------');
+console.log('Ejemplos de operadores y bucles cabrones');
+console.log('----------------------------------------');
 
 let x = 5;
 let y = 3;
@@ -21,7 +21,8 @@ console.log('--x = ', --x); // x ahora es 6 (x = x - 1)
 console.log('x-- = ', x--); // Post decremento. Imprime 6 y luego ejecuta la accción, restando 1, x = 5
 console.log('x = ', x);     // 5
 
-// Bucle for: for (sentencia que se ejecuta siempre antes del loop; condición final; sentencia que se ejecuta siempre al final de cada ciclo)
+// Bucle for: for (sentencia que se ejecuta siempre antes del loop; 
+// condición final; sentencia que se ejecuta siempre al final de cada ciclo)
 // Igual para JS, C, C++, Java
 
 // Este loop presenta 1..9 con un postincremento en el 3er parámetro
