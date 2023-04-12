@@ -232,10 +232,10 @@ Perfiles USB Power Delivery <ins>Rev.2.0/3.x</ins>
 
 ## Thunderbolt
 
-TB1 - 20 Gbps (2 canales de 10Gbps)
-TB2 - 20 Gbps (2 canales de 10Gbps)
-TB3 - 40 Gpbs
-TB4 - 40 Gbps
+TB1 - 20 Gbps (2 canales de 10Gbps)<br/>
+TB2 - 20 Gbps (2 canales de 10Gbps)<br/>
+TB3 - 40 Gpbs<br/>
+TB4 - 40 Gbps<br/>
 
 ## Thunderbolt - USB 4
 
