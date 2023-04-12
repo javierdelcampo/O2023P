@@ -225,11 +225,11 @@ b is a            # => False, a y b no son el mismo objeto
 b == a            # => True, los objetos a's y b's son iguales
 ```
 
-⚠️ Las cadenas (Strings) se crean con " o '
+⚠️ Las cadenas (Strings) se crean con dobles comillas (") o comillas simples (')
 
 ```python
 "Esto es una cadena."
-'Estp también es una cadena.'
+'Esto también es una cadena.'
 ```
 
 ⚠️ Las cadenas también se pueden sumar

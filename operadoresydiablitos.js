@@ -21,6 +21,21 @@ console.log('--x = ', --x); // x ahora es 6 (x = x - 1)
 console.log('x-- = ', x--); // Post decremento. Imprime 6 y luego ejecuta la accción, restando 1, x = 5
 console.log('x = ', x);     // 5
 
+// division
+let dv1 = 10;
+let dv2 = 2;
+dv1 /= dv2;
+console.log('dv1 /= dv2 = ', dv1);
+
+dv1 = 10;
+
+console.log ('10 / 4:', 10 / 4);
+console.log ('10 / 40:', 10 / 40);
+console.log('2 * 10 / 4 * 10 = (2 * 10) / (4 * 10): ', 2 * 10 / 4 * 10);
+console.log('2 + 10 / 4 * 10 = 2 + ((10 / 4) * 10): ', 2 + 10 / 4 * 10);
+console.log('2 + 10 / 4 * 10 = 2 + ((10 / 4) * 10): ', 2 + ((10 / 4) * 10));
+
+
 // Bucle for: for (sentencia que se ejecuta siempre antes del loop; 
 // condición final; sentencia que se ejecuta siempre al final de cada ciclo)
 // Igual para JS, C, C++, Java
