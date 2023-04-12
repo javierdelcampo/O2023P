@@ -18,7 +18,7 @@
 <table>
 <thead>
   <tr>
-    <th>Nombre comercia</th>
+    <th>Nombre comercial</th>
     <th>Conocido como</th>
     <th>Gbps</th>
     <th>MiB/s</th>
