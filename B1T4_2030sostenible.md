@@ -7,11 +7,10 @@ La ONU definió una serie de Objetivos de Desarrollo Sostenible. España creó u
 ---
 
 🧠 **Memorizar**:
-[17 Objetivos](#objetivos-de-desarrollo-sostenible-un)
 
-169 metas
-
-230 indicadores
+- [17 Objetivos](#objetivos-de-desarrollo-sostenible-un)
+- 169 metas
+- 230 indicadores
 
 ---
 
